@@ -1,0 +1,21 @@
+## Title: |cffff8800Zygor|r Guides Viewer TRUNK PREEVENT
+## Notes: Displays ingame guides for blazing fast progress.|n|n|cff888888Version: 4.0.0000
+## Author: Zygor Guides
+## Version: 4.0
+## Interface: 60200
+## DefaultState: enabled
+## LoadOnDemand: 0
+## SavedVariables: ZygorGuidesViewerSettings
+## - SavedVariablesPerCharacter: ZygorGuidesViewerSettingsChar
+## OptionalDeps: Cartographer, Cartographer3, TomTom
+## X-Category: 
+## X-Credits: sinus@sinpi.net, 
+## X-eMail: zygor@zygorguides.com
+## X-Website: http://zygorguides.com/
+## X-License: GPL. This addon itself is free for use, but guides distributed in the Guides/ folder are data that is NOT an integral part of the addon and are NOT freely redistributable.
+
+Libs\Libs.xml
+
+Localization\Localization.xml
+
+files.xml

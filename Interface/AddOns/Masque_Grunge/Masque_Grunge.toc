@@ -1,0 +1,8 @@
+## Interface: 60100
+## Title: Masque - Grunge
+## Version: 1
+## Notes: Grunge skin for Masque
+## Author: firebunny - Outland EU
+## X-Category: Action Bars
+## Dependencies Masque
+Skins.lua

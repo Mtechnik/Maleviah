@@ -1,0 +1,383 @@
+
+BugGrabberDB = {
+	["lastSanitation"] = 3,
+	["session"] = 1,
+	["errors"] = {
+		{
+			["message"] = "<string>:\"CombuScaleSlider:OnShow\":2: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":2: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [1]
+		{
+			["message"] = "<string>:\"CombulockButton:OnShow\":2: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":2: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [2]
+		{
+			["message"] = "<string>:\"CombucritButton:OnShow\":2: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":2: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [3]
+		{
+			["message"] = "<string>:\"ComburefreshButton:OnShow\":2: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":2: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [4]
+		{
+			["message"] = "<string>:\"CombureportButton:OnShow\":2: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":2: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [5]
+		{
+			["message"] = "<string>:\"Combureportthreshold:OnShow\":2: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":2: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [6]
+		{
+			["message"] = "<string>:\"Combureportvalue:OnShow\":1: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":1: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [7]
+		{
+			["message"] = "<string>:\"CombuIgnitePredictButton:OnShow\":2: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":2: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [8]
+		{
+			["message"] = "<string>:\"CombuIgniteAdjustvalue:OnShow\":1: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":1: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [9]
+		{
+			["message"] = "<string>:\"CombuffbButton:OnShow\":2: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":2: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [10]
+		{
+			["message"] = "<string>:\"CombuTimervalue:OnShow\":1: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":1: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [11]
+		{
+			["message"] = "<string>:\"CombuMunchingButton:OnShow\":2: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":2: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [12]
+		{
+			["message"] = "<string>:\"CombuFlamestrikeButton:OnShow\":2: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":2: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [13]
+		{
+			["message"] = "<string>:\"ComburefreshpyroButton:OnShow\":2: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":2: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [14]
+		{
+			["message"] = "<string>:\"CombuimpactButton:OnShow\":2: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":2: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [15]
+		{
+			["message"] = "<string>:\"CombutrackerButton:OnShow\":2: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":2: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [16]
+		{
+			["message"] = "<string>:\"CombuchatButton:OnShow\":2: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":2: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [17]
+		{
+			["message"] = "<string>:\"CombuLBtrackerButton:OnShow\":2: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":2: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [18]
+		{
+			["message"] = "<string>:\"CombuLBtargetButton:OnShow\":2: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":2: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [19]
+		{
+			["message"] = "<string>:\"CombuThresholdSoundButton:OnShow\":2: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":2: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [20]
+		{
+			["message"] = "<string>:\"LBtrackerDropDown:OnShow\":30: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":30: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [21]
+		{
+			["message"] = "<string>:\"CombuAutohideDropDown:OnShow\":29: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":29: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [22]
+		{
+			["message"] = "<string>:\"CombuLanguageDropDown:OnShow\":34: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":34: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [23]
+		{
+			["message"] = "<string>:\"CombuBarButton:OnShow\":2: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":2: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [24]
+		{
+			["message"] = "<string>:\"CombuBarSlider:OnShow\":2: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":2: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [25]
+		{
+			["message"] = "<string>:\"CombubeforefadeSlider:OnShow\":2: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":2: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [26]
+		{
+			["message"] = "<string>:\"CombufadeoutspeedSlider:OnShow\":2: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":2: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [27]
+		{
+			["message"] = "<string>:\"CombufadeinspeedSlider:OnShow\":2: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":2: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [28]
+		{
+			["message"] = "<string>:\"CombuafterfadeSlider:OnShow\":2: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":2: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [29]
+		{
+			["message"] = "<string>:\"CombuTextureDropDown:OnShow\":33: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":33: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [30]
+		{
+			["message"] = "<string>:\"CombuFontDropDown:OnShow\":32: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":32: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [31]
+		{
+			["message"] = "<string>:\"CombuSoundDropDown:OnShow\":32: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":32: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [32]
+		{
+			["message"] = "<string>:\"CombuBorderDropDown:OnShow\":32: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":32: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [33]
+		{
+			["message"] = "<string>:\"CombuBackgroundDropDown:OnShow\":32: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":32: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [34]
+		{
+			["message"] = "<string>:\"CombuEdgeSizeSlider:OnShow\":2: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":2: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [35]
+		{
+			["message"] = "<string>:\"CombuTileSizeSlider:OnShow\":2: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":2: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [36]
+		{
+			["message"] = "<string>:\"CombuInsetsSlider:OnShow\":2: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":2: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [37]
+		{
+			["message"] = "<string>:\"CombuTileButton:OnShow\":2: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":2: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [38]
+		{
+			["message"] = "<string>:\"Combubarcolornormal:OnShow\":2: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":2: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [39]
+		{
+			["message"] = "<string>:\"Combubarcolorwarning:OnShow\":2: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":2: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [40]
+		{
+			["message"] = "<string>:\"Combuedgecolornormal:OnShow\":2: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":2: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [41]
+		{
+			["message"] = "<string>:\"Combubgcolornormal:OnShow\":2: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":2: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [42]
+		{
+			["message"] = "<string>:\"Combubgcolorimpact:OnShow\":2: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":2: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [43]
+		{
+			["message"] = "<string>:\"Combubgcolorcombustion:OnShow\":2: attempt to index global \"combusettingstable\" (a nil value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "(*temporary) = InterfaceOptionsFrame {\n 0 = <userdata>\n numTabs = 2\n selectedTab = 2\n}\n(*temporary) = <func> =[C]:-1\n",
+			["stack"] = "<string>:\"*:OnShow\":2: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [44]
+		{
+			["message"] = "<string>:\"CombuCautScaleSlider:OnShow\":1: Usage: CombuCautScaleSlider:SetValue(value)",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "self = CombuCautScaleSlider {\n 0 = <userdata>\n}\n",
+			["stack"] = "<in C code>\n<string>:\"*:OnShow\":1: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [45]
+		{
+			["message"] = "<string>:\"CombuCautAnnounceEditBox:OnShow\":1: Usage: CombuCautAnnounceEditBox:SetText(\"text\")",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "self = CombuCautAnnounceEditBox {\n 0 = <userdata>\n}\n",
+			["stack"] = "<in C code>\n<string>:\"*:OnShow\":1: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [46]
+		{
+			["message"] = "<string>:\"CombuCautAnnounceAltEditBox:OnShow\":1: Usage: CombuCautAnnounceAltEditBox:SetText(\"text\")",
+			["time"] = "2012/03/27 19:50:34",
+			["locals"] = "self = CombuCautAnnounceAltEditBox {\n 0 = <userdata>\n}\n",
+			["stack"] = "<in C code>\n<string>:\"*:OnShow\":1: in function <string>:\"*:OnShow\":1\n<in C code>\nFrameXML\\InterfaceOptionsFrame.lua:204: in function \"InterfaceOptionsFrame_Show\"\nFrameXML\\InterfaceOptionsFrame.lua:484: in function \"InterfaceOptionsFrame_OpenToCategory\"\nGTFO\\GTFO-4.12.2.lua:1575: in function \"GTFO_Command_Options\"\nGTFO\\GTFO-4.12.2.lua:581: in function \"OnAccept\"\nFrameXML\\StaticPopup.lua:3646: in function \"StaticPopup_OnClick\"\n<string>:\"*:OnClick\":1: in function <string>:\"*:OnClick\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [47]
+	},
+}

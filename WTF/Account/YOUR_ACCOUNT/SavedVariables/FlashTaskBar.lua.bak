@@ -1,0 +1,10 @@
+
+FlashTaskbarDB = {
+	["profileKeys"] = {
+		["Wulliee - Draenor"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

@@ -1,0 +1,36 @@
+
+DBMEyeOfEternity_AllSavedVars = {
+	["Wulliee-Draenor"] = {
+		["Malygos"] = {
+			[0] = {
+				["Timer56505cd"] = true,
+				["Timer56140next"] = true,
+				["announceother60936target"] = true,
+				["HealthFrame"] = false,
+				["announce56505spell"] = true,
+				["SpecWarn60936youSpecialWarningSound"] = 1,
+				["timer_berserk"] = true,
+				["announce56105soon"] = true,
+				["SpecWarn57430closeSpecialWarningSound"] = 1,
+				["announce56105spell"] = true,
+				["SpecWarn57430close"] = true,
+				["SpecWarn56505spellSpecialWarningSound"] = 2,
+				["Timer1875achievement"] = true,
+				["announceother57430target"] = true,
+				["SpecWarn57430youSpecialWarningSound"] = 1,
+				["announce56140spell"] = true,
+				["Timer57430cd"] = true,
+				["Timer56505active"] = true,
+				["Yell57430"] = true,
+				["announce56505soon"] = true,
+				["Timer56105next"] = true,
+				["Timer56105cast"] = true,
+				["Enabled"] = true,
+				["SpecWarn57430you"] = true,
+				["SpecWarn60936you"] = true,
+				["SpeedKillTimer"] = false,
+				["SpecWarn56505spell"] = true,
+			},
+		},
+	},
+}

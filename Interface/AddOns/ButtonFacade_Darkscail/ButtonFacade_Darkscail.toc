@@ -1,0 +1,8 @@
+## Interface: 50300
+## Title: ButtonFacade - Darkscail
+## Version: 1
+## Notes: Darkscail skin for Button Facade
+## Author: firebunny - Outland EU
+## X-Category: Action Bars
+## OptionalDeps: LibButtonFacade, ButtonFacade
+Skins.lua

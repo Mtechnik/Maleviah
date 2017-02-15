@@ -1,0 +1,247 @@
+changeset:   40:a83b4d3bdc33
+tag:         tip
+user:        Tercio
+date:        Tue Feb 07 14:53:35 2017 -0200
+summary:     - Ticket #13 added flash when the battleground ends
+
+
+changeset:   39:8d8ccff02d62
+user:        Tercio
+date:        Mon Jan 16 13:29:49 2017 -0200
+summary:     - fixed an issue where the 'OnWhisper' option were outside of the interface option for some users.
+
+
+changeset:   38:0c2b8dbb6bbf
+user:        Tercio
+date:        Sun Jan 08 17:35:58 2017 -0200
+summary:     - added localization strings for the whisper feature added last week.
+
+
+changeset:   37:27f05412115b
+user:        Tercio
+date:        Thu Dec 29 15:10:22 2016 -0200
+summary:     - added an option to disable the default blink when receiving a whisper.
+
+
+changeset:   36:8fcfec0b439b
+user:        Tercio
+date:        Mon Dec 19 13:55:05 2016 -0200
+summary:     - fixed Ticket #9: "Vignette mob icon update".
+
+
+changeset:   35:e2724041b9c7
+user:        Tercio
+date:        Fri Dec 09 15:56:11 2016 -0200
+summary:     - ticket #12: flash for fly point reached wans't working. Fly point check has been rewriten.
+
+
+changeset:   34:850f1dffa80b
+user:        Tercio
+date:        Mon Nov 28 16:50:51 2016 -0200
+summary:     - localization updates.
+
+
+changeset:   33:e8cc3c375c64
+user:        Tercio
+date:        Thu Nov 17 14:54:16 2016 -0200
+summary:     - added an option to blink when somebody say the player name on chat.
+
+
+changeset:   32:fafdc9514350
+user:        Tercio
+date:        Thu Nov 17 14:52:28 2016 -0200
+summary:     - added an option to blink when somebody say the player name on chat.
+
+
+changeset:   31:84a0d8c12b20
+user:        Tercio
+date:        Sun Nov 06 14:49:48 2016 -0200
+summary:     - localization update.
+
+
+changeset:   30:2822b52c36f6
+user:        Tercio
+date:        Tue Oct 25 15:53:38 2016 -0200
+summary:     - toc and framework update.
+
+
+changeset:   29:61359e927c87
+user:        Tercio
+date:        Sat Oct 08 16:57:14 2016 -0300
+summary:     - framework update.
+
+
+changeset:   28:25b78426a7bd
+user:        Tercio
+date:        Thu Sep 01 20:45:11 2016 -0300
+summary:     - missing file.
+
+
+changeset:   27:5ac111c63ec7
+user:        Tercio
+date:        Thu Sep 01 14:37:08 2016 -0300
+summary:     - framework update from version v26 to v44.
+
+
+changeset:   26:5f657b5c733c
+user:        Tercio
+date:        Fri Jul 22 23:26:33 2016 -0300
+summary:     - framework update.
+
+
+changeset:   25:3892a0699f89
+user:        Tercio
+date:        Tue Jul 19 13:03:54 2016 -0300
+summary:     - framework update.
+
+
+changeset:   24:7a5daad4bbca
+user:        Tercio
+date:        Tue Jul 12 16:48:47 2016 -0300
+summary:     - framework update.
+
+
+changeset:   23:243b77090661
+user:        Tercio
+date:        Mon Jul 04 21:24:17 2016 -0300
+summary:     - removed gmchat hook since it's protected.
+
+
+changeset:   22:ae6a42c0560f
+user:        Tercio
+date:        Tue Jun 14 17:18:40 2016 -0300
+summary:     - added slash command '/flashtaskbar'.
+
+
+changeset:   21:eec72b26e114
+user:        Tercio
+date:        Fri May 27 14:17:31 2016 -0300
+summary:     - added option to disable fatigue alerts.
+
+
+changeset:   20:0a797ccbad48
+user:        Tercio
+date:        Mon May 09 15:42:35 2016 -0300
+summary:     - added option to enable sound alert to fatigue.
+
+
+changeset:   19:56c6b33421f0
+user:        Tercio
+date:        Sun Apr 24 14:03:55 2016 -0300
+summary:     - added an alert for fatigue.
+
+
+changeset:   18:add7aad177a5
+user:        Tercio
+date:        Sun Mar 27 18:58:42 2016 -0300
+summary:     - wait 2 seconds before flash for a group invite, other addons may have auto answered.
+
+
+changeset:   17:f5f9759f11d6
+user:        Tercioo
+date:        Wed Feb 24 09:00:31 2016 -0300
+summary:     - trying to fix the taxi end alert.
+
+
+changeset:   16:63c2db0e8f4c
+user:        Tercioo
+date:        Wed Feb 10 11:50:39 2016 -0200
+summary:     - delay time between each flash possible is now 4 seconds, down from 5.
+
+
+changeset:   15:97c09152bb58
+user:        Tercioo
+date:        Tue Jan 19 09:54:48 2016 -0200
+summary:     - framework update from v14 to v16.
+
+
+changeset:   14:0221be6d2111
+user:        Tercioo
+date:        Wed Dec 23 20:05:01 2015 -0200
+summary:     - Fixed pull timer label which was showing as brawler's guild.
+
+
+changeset:   13:8926c951a102
+user:        Tercioo
+date:        Wed Dec 23 09:42:19 2015 -0200
+summary:     - fixed an issue with sound alerts.
+
+
+changeset:   12:1f4cbdee76dd
+user:        Tercioo
+date:        Mon Dec 21 22:19:39 2015 -0200
+summary:     - added localization.
+
+
+changeset:   11:23a0fa97eb71
+user:        Tercioo
+date:        Fri Dec 18 15:12:29 2015 -0200
+summary:     - framework update from version 12 to 13.
+
+
+changeset:   10:7ef2a9db943c
+user:        Tercio
+date:        Mon Nov 23 14:44:48 2015 -0200
+summary:     - a better msg with the framework isn't found.
+
+
+changeset:   9:e468d2ebc13d
+user:        Tercio
+date:        Wed Nov 04 13:50:14 2015 -0200
+summary:     - added brawler's guild.
+
+
+changeset:   8:826455f6fc3a
+user:        Tercio
+date:        Tue Nov 03 14:03:39 2015 -0200
+summary:     - added queue pet battles.
+
+
+changeset:   7:0093aefd8015
+user:        Tercio
+date:        Wed Oct 28 13:04:57 2015 -0200
+summary:     - added alerto for disconnects.
+
+
+changeset:   6:792647ac21e7
+user:        Tercio
+date:        Fri Oct 16 14:36:07 2015 -0300
+summary:     - framework update.
+
+
+changeset:   5:295a97ca267a
+user:        Tercio
+date:        Mon Sep 14 15:15:49 2015 -0300
+summary:     - bug fix.
+
+
+changeset:   4:a28904427a54
+user:        Tercio
+date:        Thu Sep 03 15:33:28 2015 -0300
+summary:     - added alert for finished taxi travels.
+
+
+changeset:   3:aecef451c1df
+user:        Tercio
+date:        Tue Aug 18 20:27:12 2015 -0300
+summary:     - added blink when the player enters in combat.
+
+
+changeset:   2:6131d3f65f5d
+user:        Tercio
+date:        Sat Aug 15 13:50:23 2015 -0300
+summary:     - added dbm and bigwigs pull timer alerts.
+
+
+changeset:   1:b589eff36ee4
+user:        Tercio
+date:        Fri Aug 14 19:54:40 2015 -0300
+summary:     - added framework to this project.
+
+
+changeset:   0:3f668f0cc3f4
+user:        Tercio
+date:        Sat Aug 01 00:50:58 2015 -0300
+summary:     - first commit.
+
+

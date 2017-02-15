@@ -1,0 +1,11 @@
+
+AltoholicDB = {
+	["profileKeys"] = {
+		["Stingyring - Draenor"] = "Stingyring - Draenor",
+	},
+	["global"] = {
+		["options"] = {
+			["ShowMinimap"] = 0,
+		},
+	},
+}

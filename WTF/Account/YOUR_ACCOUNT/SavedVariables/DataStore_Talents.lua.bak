@@ -1,0 +1,110 @@
+
+DataStore_TalentsDB = {
+	["profileKeys"] = {
+		["Wulliee - Aszune"] = "Wulliee - Aszune",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Aszune.Wulliee"] = {
+				["Class"] = "DEATHKNIGHT",
+				["lastUpdate"] = 1415777616,
+				["GlyphList"] = {
+					11, -- [1]
+					8346, -- [2]
+					17746, -- [3]
+					8194, -- [4]
+					8418, -- [5]
+					8258, -- [6]
+					12290, -- [7]
+					12306, -- [8]
+					8322, -- [9]
+					12338, -- [10]
+					8306, -- [11]
+					17794, -- [12]
+					8402, -- [13]
+					17762, -- [14]
+					8242, -- [15]
+					17778, -- [16]
+					8386, -- [17]
+					8434, -- [18]
+					8914, -- [19]
+					8498, -- [20]
+					17826, -- [21]
+					17042, -- [22]
+					17842, -- [23]
+					17858, -- [24]
+					8482, -- [25]
+					17010, -- [26]
+					8898, -- [27]
+					8514, -- [28]
+					13, -- [29]
+					19268, -- [30]
+					8932, -- [31]
+					8884, -- [32]
+					8292, -- [33]
+					8468, -- [34]
+					8228, -- [35]
+					8356, -- [36]
+					8868, -- [37]
+					8852, -- [38]
+					17188, -- [39]
+					12372, -- [40]
+				},
+				["ActiveTalents"] = 1,
+			},
+		},
+		["Reference"] = {
+			["GlyphNames"] = {
+				[1065] = "Regenerative Magic",
+				[515] = "Icebound Fortitude",
+				[769] = "Dark Simulacrum",
+				[519] = "Death Grip",
+				[521] = "Shifting Presences",
+				[525] = "Enduring Infection",
+				[527] = "Mind Freeze",
+				[529] = "Foul Menagerie",
+				[531] = "Pillar of Frost",
+				[1074] = "Skeleton",
+				[1204] = "Army of the Dead",
+				[553] = "Resilient Grip",
+				[555] = "Death Gate",
+				[557] = "Outbreak",
+				[1110] = "Ice Reaper",
+				[1114] = "Raise Ally",
+				[1063] = "Swift Death",
+				[512] = "Anti-Magic Shell",
+				[514] = "Geist",
+				[768] = "Dancing Rune Weapon",
+				[518] = "Death's Embrace",
+				[520] = "Death and Decay",
+				[522] = "Horn of Winter",
+				[524] = "Icy Touch",
+				[526] = "Blood Boil",
+				[530] = "Strangulate",
+				[1111] = "Icy Runes",
+				[1115] = "Rune Tap",
+				[554] = "Path of Frost",
+				[556] = "Unholy Command",
+				[558] = "Corpse Explosion",
+				[773] = "Tranquil Grip",
+				[771] = "Death Coil",
+				[1112] = "Empowerment",
+				[1116] = "Runic Power",
+				[1109] = "Absorb Magic",
+				[516] = "Chains of Ice",
+				[532] = "Vampiric Blood",
+			},
+		},
+	},
+}
+DataStore_TalentsRefDB = {
+	["profileKeys"] = {
+		["Wulliee - Aszune"] = "Wulliee - Aszune",
+	},
+	["global"] = {
+		["DEATHKNIGHT"] = {
+			["Locale"] = "enUS",
+			["Version"] = 19116,
+		},
+	},
+}

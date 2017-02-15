@@ -1,0 +1,2266 @@
+
+GridDB = {
+	["namespaces"] = {
+		["GridFrame"] = {
+			["profiles"] = {
+				["Jockness"] = {
+					["fontSize"] = 11,
+					["frameHeight"] = 37,
+					["statusmap"] = {
+						["healingBar"] = {
+							["alert_heals"] = false,
+							["unit_name"] = false,
+							["unit_health"] = false,
+						},
+						["icontop"] = {
+							["player_target"] = false,
+							["alert_voice"] = false,
+							["alert_vehicleui"] = false,
+							["unit_name"] = false,
+							["dungeonRole"] = true,
+						},
+						["iconleft"] = {
+						},
+						["manabar"] = {
+							["unit_mana"] = false,
+						},
+						["text"] = {
+							["player_target"] = false,
+							["alert_voice"] = false,
+							["alert_feignDeath"] = false,
+							["alert_heals"] = false,
+							["unit_healthDeficit"] = false,
+							["unit_health"] = false,
+						},
+						["border"] = {
+							["player_target"] = false,
+							["unit_health"] = false,
+							["alert_lowMana"] = false,
+							["unit_name"] = false,
+							["alert_lowHealth"] = false,
+							["alert_aggro"] = true,
+						},
+						["icon"] = {
+							["debuff_curse"] = false,
+							["debuff_poison"] = false,
+							["dispel_curse"] = false,
+							["debuff_disease"] = false,
+							["dispel_poison"] = false,
+							["dispel_disease"] = false,
+							["dispel_magic"] = false,
+							["debuff_magic"] = false,
+						},
+						["iconbottom"] = {
+							["dispel_magic"] = true,
+							["debuff_poison"] = true,
+							["debuff_disease"] = true,
+							["debuff_magic"] = true,
+							["dispel_poison"] = true,
+							["dispel_disease"] = true,
+							["dispel_curse"] = false,
+						},
+						["iconright"] = {
+						},
+						["corner1"] = {
+							["alert_heals"] = false,
+						},
+						["frameAlpha"] = {
+							["alert_range_10"] = false,
+							["alert_range"] = false,
+							["unit_health"] = false,
+							["unit_name"] = false,
+							["alert_offline"] = false,
+							["player_target"] = false,
+							["alert_range_30"] = false,
+							["alert_death"] = false,
+							["alert_range_100"] = false,
+						},
+						["corner4"] = {
+							["alter_aggro"] = true,
+							["alert_aggro"] = false,
+						},
+						["barcolor"] = {
+							["debuff_Ghost"] = false,
+							["unit_name"] = false,
+							["alert_offline"] = false,
+							["debuff_ghost"] = true,
+							["player_target"] = false,
+							["unit_healthDeficit"] = false,
+							["alert_death"] = false,
+							["alert_aggro"] = false,
+						},
+						["corner3"] = {
+							["debuff_curse"] = false,
+							["debuff_poison"] = false,
+							["debuff_disease"] = false,
+							["debuff_magic"] = false,
+						},
+						["bar"] = {
+							["debuff_ghost"] = true,
+						},
+					},
+					["textlength"] = 9,
+					["enableIconStackText"] = false,
+					["font"] = "vibroceb",
+					["iconSize"] = 17,
+					["showTooltip"] = "Always",
+					["orientation"] = "HORIZONTAL",
+					["enableBarColor"] = true,
+					["frameWidth"] = 56,
+					["texture"] = "DarkBottom",
+				},
+				["Jock"] = {
+					["fontSize"] = 11,
+					["frameHeight"] = 37,
+					["statusmap"] = {
+						["healingBar"] = {
+							["alert_heals"] = false,
+							["unit_name"] = false,
+							["unit_health"] = false,
+						},
+						["icontop"] = {
+							["player_target"] = false,
+							["alert_voice"] = false,
+							["dungeonRole"] = true,
+							["unit_name"] = false,
+							["alert_vehicleui"] = false,
+						},
+						["text"] = {
+							["alert_feignDeath"] = false,
+							["alert_voice"] = false,
+							["player_target"] = false,
+							["alert_heals"] = false,
+							["unit_healthDeficit"] = false,
+							["unit_health"] = false,
+						},
+						["manabar"] = {
+							["unit_mana"] = false,
+						},
+						["barcolor"] = {
+							["player_target"] = false,
+							["alert_offline"] = false,
+							["debuff_Ghost"] = false,
+							["debuff_ghost"] = true,
+							["unit_healthDeficit"] = false,
+							["unit_name"] = false,
+							["alert_death"] = false,
+							["alert_aggro"] = false,
+						},
+						["border"] = {
+							["player_target"] = false,
+							["alert_aggro"] = true,
+							["alert_lowMana"] = false,
+							["unit_name"] = false,
+							["alert_lowHealth"] = false,
+							["unit_health"] = false,
+						},
+						["corner3"] = {
+							["debuff_curse"] = false,
+							["debuff_poison"] = false,
+							["debuff_magic"] = false,
+							["debuff_disease"] = false,
+						},
+						["iconbottom"] = {
+							["dispel_magic"] = true,
+							["debuff_poison"] = true,
+							["debuff_disease"] = true,
+							["dispel_curse"] = false,
+							["dispel_disease"] = true,
+							["dispel_poison"] = true,
+							["debuff_magic"] = true,
+						},
+						["iconright"] = {
+						},
+						["corner1"] = {
+							["alert_heals"] = false,
+						},
+						["frameAlpha"] = {
+							["alert_offline"] = false,
+							["alert_range"] = false,
+							["unit_health"] = false,
+							["unit_name"] = false,
+							["player_target"] = false,
+							["alert_range_10"] = false,
+							["alert_range_30"] = false,
+							["alert_death"] = false,
+							["alert_range_100"] = false,
+						},
+						["iconleft"] = {
+						},
+						["corner4"] = {
+							["alter_aggro"] = true,
+							["alert_aggro"] = false,
+						},
+						["icon"] = {
+							["dispel_magic"] = false,
+							["debuff_poison"] = false,
+							["debuff_magic"] = false,
+							["debuff_disease"] = false,
+							["debuff_curse"] = false,
+							["dispel_disease"] = false,
+							["dispel_poison"] = false,
+							["dispel_curse"] = false,
+						},
+						["bar"] = {
+							["debuff_ghost"] = true,
+						},
+					},
+					["frameWidth"] = 56,
+					["enableIconStackText"] = false,
+					["font"] = "vibroceb",
+					["orientation"] = "HORIZONTAL",
+					["showTooltip"] = "Always",
+					["iconSize"] = 17,
+					["enableBarColor"] = true,
+					["textlength"] = 9,
+					["texture"] = "DarkBottom",
+				},
+				["Default"] = {
+					["showTooltip"] = "Always",
+					["iconSize"] = 19,
+					["enableBarColor"] = true,
+					["textlength"] = 9,
+					["texture"] = "DarkBottom",
+					["enableIconStackText"] = false,
+					["frameHeight"] = 37,
+					["font"] = "vibroceb",
+					["orientation"] = "HORIZONTAL",
+					["frameWidth"] = 82,
+					["statusmap"] = {
+						["healingBar"] = {
+							["alert_heals"] = false,
+							["unit_name"] = false,
+							["unitShieldedHealth"] = true,
+							["unit_health"] = false,
+						},
+						["icontop"] = {
+							["player_target"] = false,
+							["alert_voice"] = false,
+							["alert_vehicleui"] = false,
+							["buff_EternalFlame"] = false,
+							["unit_name"] = false,
+							["dungeonRole"] = true,
+						},
+						["barcolor"] = {
+							["alert_offline"] = false,
+							["unit_name"] = false,
+							["debuff_Ghost"] = false,
+							["unit_healthDeficit"] = false,
+							["player_target"] = false,
+							["debuff_ghost"] = true,
+							["alert_death"] = false,
+							["alert_aggro"] = false,
+						},
+						["border"] = {
+							["player_target"] = false,
+							["alert_aggro"] = true,
+							["alert_lowMana"] = false,
+							["unit_name"] = false,
+							["alert_lowHealth"] = false,
+							["unitShieldLeft"] = false,
+							["unit_health"] = false,
+						},
+						["iconbottom"] = {
+							["dispel_magic"] = true,
+							["debuff_poison"] = true,
+							["debuff_disease"] = true,
+							["debuff_magic"] = true,
+							["dispel_disease"] = true,
+							["dispel_poison"] = true,
+							["dispel_curse"] = false,
+						},
+						["corner1"] = {
+							["alert_heals"] = false,
+						},
+						["icon"] = {
+							["dispel_magic"] = false,
+							["debuff_poison"] = false,
+							["debuff_disease"] = false,
+							["dispel_curse"] = false,
+							["ready_check"] = false,
+							["dispel_poison"] = false,
+							["dispel_disease"] = false,
+							["debuff_curse"] = false,
+							["debuff_magic"] = false,
+						},
+						["manabar"] = {
+							["unit_mana"] = false,
+						},
+						["text"] = {
+							["alert_voice"] = false,
+							["alert_heals"] = false,
+							["unit_health"] = false,
+							["alert_feignDeath"] = false,
+							["unit_healthDeficit"] = false,
+							["player_target"] = false,
+						},
+						["corner4"] = {
+							["alter_aggro"] = true,
+							["alert_aggro"] = false,
+						},
+						["iconright"] = {
+							["buff_EternalFlame"] = true,
+						},
+						["frameAlpha"] = {
+							["alert_range_10"] = false,
+							["unit_health"] = false,
+							["player_target"] = false,
+							["alert_offline"] = false,
+							["unit_name"] = false,
+							["alert_range_30"] = false,
+							["alert_death"] = false,
+							["alert_range_100"] = false,
+						},
+						["iconleft"] = {
+							["ready_check"] = true,
+						},
+						["corner3"] = {
+							["dispel_magic"] = false,
+							["debuff_poison"] = false,
+							["debuff_disease"] = false,
+							["buff_EternalFlame"] = false,
+							["dispel_curse"] = false,
+							["dispel_poison"] = false,
+							["dispel_disease"] = false,
+							["debuff_curse"] = false,
+							["debuff_magic"] = false,
+						},
+						["bar"] = {
+							["debuff_ghost"] = true,
+						},
+					},
+				},
+				["Wullie"] = {
+					["enableIconStackText"] = false,
+					["frameHeight"] = 37,
+					["statusmap"] = {
+						["healingBar"] = {
+							["alert_heals"] = false,
+							["unit_name"] = false,
+							["unit_health"] = false,
+						},
+						["icontop"] = {
+							["player_target"] = false,
+							["alert_voice"] = false,
+							["alert_vehicleui"] = false,
+							["unit_name"] = false,
+							["dungeonRole"] = true,
+						},
+						["text"] = {
+							["player_target"] = false,
+							["alert_voice"] = false,
+							["alert_feignDeath"] = false,
+							["alert_heals"] = false,
+							["unit_healthDeficit"] = false,
+							["unit_health"] = false,
+						},
+						["manabar"] = {
+							["unit_mana"] = false,
+						},
+						["iconleft"] = {
+						},
+						["border"] = {
+							["unit_name"] = false,
+							["unit_health"] = false,
+							["alert_lowMana"] = false,
+							["player_target"] = false,
+							["alert_lowHealth"] = false,
+							["alert_aggro"] = true,
+						},
+						["corner3"] = {
+							["debuff_curse"] = false,
+							["debuff_poison"] = false,
+							["debuff_magic"] = false,
+							["debuff_disease"] = false,
+						},
+						["iconbottom"] = {
+							["dispel_magic"] = true,
+							["debuff_poison"] = true,
+							["debuff_disease"] = true,
+							["debuff_magic"] = true,
+							["dispel_poison"] = true,
+							["dispel_disease"] = true,
+							["dispel_curse"] = false,
+						},
+						["iconright"] = {
+						},
+						["corner1"] = {
+							["alert_heals"] = false,
+						},
+						["frameAlpha"] = {
+							["alert_range_10"] = false,
+							["alert_range"] = false,
+							["unit_health"] = false,
+							["unit_name"] = false,
+							["player_target"] = false,
+							["alert_offline"] = false,
+							["alert_range_30"] = false,
+							["alert_death"] = false,
+							["alert_range_100"] = false,
+						},
+						["barcolor"] = {
+							["player_target"] = false,
+							["debuff_Ghost"] = false,
+							["alert_offline"] = false,
+							["debuff_ghost"] = true,
+							["unit_healthDeficit"] = false,
+							["unit_name"] = false,
+							["alert_death"] = false,
+							["alert_aggro"] = false,
+						},
+						["corner4"] = {
+							["alter_aggro"] = true,
+							["alert_aggro"] = false,
+						},
+						["icon"] = {
+							["debuff_curse"] = false,
+							["debuff_poison"] = false,
+							["debuff_magic"] = false,
+							["debuff_disease"] = false,
+							["dispel_magic"] = false,
+							["dispel_disease"] = false,
+							["dispel_poison"] = false,
+							["dispel_curse"] = false,
+						},
+						["bar"] = {
+							["debuff_ghost"] = true,
+						},
+					},
+					["frameWidth"] = 82,
+					["font"] = "vibroceb",
+					["orientation"] = "HORIZONTAL",
+					["showTooltip"] = "Always",
+					["iconSize"] = 17,
+					["enableBarColor"] = true,
+					["textlength"] = 9,
+					["texture"] = "DarkBottom",
+				},
+				["Jockanese"] = {
+					["fontSize"] = 11,
+					["frameHeight"] = 37,
+					["statusmap"] = {
+						["healingBar"] = {
+							["alert_heals"] = false,
+							["unit_name"] = false,
+							["unit_health"] = false,
+						},
+						["icontop"] = {
+							["player_target"] = false,
+							["alert_voice"] = false,
+							["alert_vehicleui"] = false,
+							["unit_name"] = false,
+							["dungeonRole"] = true,
+						},
+						["text"] = {
+							["alert_feignDeath"] = false,
+							["alert_voice"] = false,
+							["player_target"] = false,
+							["alert_heals"] = false,
+							["unit_healthDeficit"] = false,
+							["unit_health"] = false,
+						},
+						["manabar"] = {
+							["unit_mana"] = false,
+						},
+						["barcolor"] = {
+							["unit_name"] = false,
+							["alert_offline"] = false,
+							["debuff_Ghost"] = false,
+							["debuff_ghost"] = true,
+							["unit_healthDeficit"] = false,
+							["player_target"] = false,
+							["alert_death"] = false,
+							["alert_aggro"] = false,
+						},
+						["border"] = {
+							["player_target"] = false,
+							["unit_health"] = false,
+							["alert_lowMana"] = false,
+							["unit_name"] = false,
+							["alert_lowHealth"] = false,
+							["alert_aggro"] = true,
+						},
+						["corner3"] = {
+							["debuff_curse"] = false,
+							["debuff_poison"] = false,
+							["debuff_magic"] = false,
+							["debuff_disease"] = false,
+						},
+						["iconbottom"] = {
+							["dispel_magic"] = true,
+							["debuff_poison"] = true,
+							["debuff_disease"] = true,
+							["debuff_magic"] = true,
+							["dispel_poison"] = true,
+							["dispel_disease"] = true,
+							["dispel_curse"] = false,
+						},
+						["iconright"] = {
+						},
+						["corner1"] = {
+							["alert_heals"] = false,
+						},
+						["frameAlpha"] = {
+							["alert_range_10"] = false,
+							["alert_range"] = false,
+							["unit_health"] = false,
+							["player_target"] = false,
+							["alert_offline"] = false,
+							["unit_name"] = false,
+							["alert_range_30"] = false,
+							["alert_death"] = false,
+							["alert_range_100"] = false,
+						},
+						["iconleft"] = {
+						},
+						["corner4"] = {
+							["alter_aggro"] = true,
+							["alert_aggro"] = false,
+						},
+						["icon"] = {
+							["dispel_magic"] = false,
+							["debuff_poison"] = false,
+							["debuff_magic"] = false,
+							["debuff_disease"] = false,
+							["debuff_curse"] = false,
+							["dispel_disease"] = false,
+							["dispel_poison"] = false,
+							["dispel_curse"] = false,
+						},
+						["bar"] = {
+							["debuff_ghost"] = true,
+						},
+					},
+					["frameWidth"] = 56,
+					["orientation"] = "HORIZONTAL",
+					["font"] = "vibroceb",
+					["enableIconStackText"] = false,
+					["showTooltip"] = "Always",
+					["iconSize"] = 17,
+					["enableBarColor"] = true,
+					["textlength"] = 9,
+					["texture"] = "DarkBottom",
+				},
+				["Uillidh"] = {
+					["fontSize"] = 11,
+					["frameHeight"] = 37,
+					["statusmap"] = {
+						["healingBar"] = {
+							["alert_heals"] = false,
+							["unit_name"] = false,
+							["unit_health"] = false,
+						},
+						["icontop"] = {
+							["player_target"] = false,
+							["alert_voice"] = false,
+							["dungeonRole"] = true,
+							["unit_name"] = false,
+							["alert_vehicleui"] = false,
+						},
+						["text"] = {
+							["player_target"] = false,
+							["alert_voice"] = false,
+							["alert_feignDeath"] = false,
+							["alert_heals"] = false,
+							["unit_healthDeficit"] = false,
+							["unit_health"] = false,
+						},
+						["manabar"] = {
+							["unit_mana"] = false,
+						},
+						["iconleft"] = {
+						},
+						["border"] = {
+							["player_target"] = false,
+							["alert_aggro"] = true,
+							["alert_lowMana"] = false,
+							["unit_name"] = false,
+							["alert_lowHealth"] = false,
+							["unit_health"] = false,
+						},
+						["corner3"] = {
+							["debuff_curse"] = false,
+							["debuff_poison"] = false,
+							["debuff_magic"] = false,
+							["debuff_disease"] = false,
+						},
+						["iconbottom"] = {
+							["dispel_magic"] = true,
+							["debuff_poison"] = true,
+							["debuff_disease"] = true,
+							["dispel_curse"] = false,
+							["dispel_disease"] = true,
+							["dispel_poison"] = true,
+							["debuff_magic"] = true,
+						},
+						["iconright"] = {
+						},
+						["corner1"] = {
+							["alert_heals"] = false,
+						},
+						["frameAlpha"] = {
+							["alert_offline"] = false,
+							["alert_range"] = false,
+							["unit_health"] = false,
+							["player_target"] = false,
+							["unit_name"] = false,
+							["alert_range_10"] = false,
+							["alert_range_30"] = false,
+							["alert_death"] = false,
+							["alert_range_100"] = false,
+						},
+						["barcolor"] = {
+							["player_target"] = false,
+							["debuff_Ghost"] = false,
+							["alert_offline"] = false,
+							["unit_healthDeficit"] = false,
+							["debuff_ghost"] = true,
+							["unit_name"] = false,
+							["alert_death"] = false,
+							["alert_aggro"] = false,
+						},
+						["corner4"] = {
+							["alter_aggro"] = true,
+							["alert_aggro"] = false,
+						},
+						["icon"] = {
+							["debuff_curse"] = false,
+							["debuff_poison"] = false,
+							["debuff_magic"] = false,
+							["debuff_disease"] = false,
+							["dispel_magic"] = false,
+							["dispel_disease"] = false,
+							["dispel_poison"] = false,
+							["dispel_curse"] = false,
+						},
+						["bar"] = {
+							["debuff_ghost"] = true,
+						},
+					},
+					["frameWidth"] = 56,
+					["enableIconStackText"] = false,
+					["font"] = "vibroceb",
+					["orientation"] = "HORIZONTAL",
+					["showTooltip"] = "Always",
+					["iconSize"] = 17,
+					["enableBarColor"] = true,
+					["textlength"] = 9,
+					["texture"] = "DarkBottom",
+				},
+			},
+		},
+		["GridStatusVehicle"] = {
+		},
+		["LibDualSpec-1.0"] = {
+		},
+		["GridStatusAuras"] = {
+			["profiles"] = {
+				["Jockness"] = {
+					["buff_Rejuvenation"] = {
+						["icon"] = "Interface\\Icons\\Spell_Nature_Rejuvenation",
+					},
+					["buff_Grace"] = {
+						["enable"] = false,
+					},
+					["buff_Renew"] = {
+						["icon"] = "Interface\\Icons\\Spell_Holy_Renew",
+					},
+					["buff_EarthShield"] = {
+						["enable"] = false,
+					},
+					["buff_Regrowth"] = {
+						["icon"] = "Interface\\Icons\\Spell_Nature_ResistNature",
+					},
+					["buff_Riptide"] = {
+						["icon"] = "Interface\\Icons\\spell_nature_riptide",
+					},
+					["buff_PowerWord:Shield"] = {
+						["icon"] = "Interface\\Icons\\Spell_Holy_PowerWordShield",
+					},
+					["buff_LifeCocoon"] = {
+						["icon"] = "Interface\\Icons\\ability_monk_chicocoon",
+					},
+					["buff_Lifebloom"] = {
+						["icon"] = "Interface\\Icons\\INV_Misc_Herb_Felblossom",
+					},
+					["buff_BeaconofLight"] = {
+						["icon"] = "Interface\\Icons\\Ability_Paladin_BeaconofLight",
+						["enable"] = false,
+					},
+				},
+				["Jock"] = {
+					["buff_Rejuvenation"] = {
+						["icon"] = "Interface\\Icons\\Spell_Nature_Rejuvenation",
+					},
+					["buff_Grace"] = {
+						["enable"] = false,
+					},
+					["buff_Renew"] = {
+						["icon"] = "Interface\\Icons\\Spell_Holy_Renew",
+					},
+					["buff_PowerWord:Shield"] = {
+						["icon"] = "Interface\\Icons\\Spell_Holy_PowerWordShield",
+					},
+					["buff_Regrowth"] = {
+						["icon"] = "Interface\\Icons\\Spell_Nature_ResistNature",
+					},
+					["buff_Riptide"] = {
+						["icon"] = "Interface\\Icons\\spell_nature_riptide",
+					},
+					["buff_BeaconofLight"] = {
+						["icon"] = "Interface\\Icons\\Ability_Paladin_BeaconofLight",
+						["enable"] = false,
+					},
+					["buff_Lifebloom"] = {
+						["icon"] = "Interface\\Icons\\INV_Misc_Herb_Felblossom",
+					},
+					["buff_LifeCocoon"] = {
+						["icon"] = "Interface\\Icons\\ability_monk_chicocoon",
+					},
+					["buff_EarthShield"] = {
+						["enable"] = false,
+					},
+				},
+				["Default"] = {
+					["buff_Renew"] = {
+						["icon"] = "Interface\\Icons\\Spell_Holy_Renew",
+					},
+					["buff_Riptide"] = {
+						["icon"] = "Interface\\Icons\\spell_nature_riptide",
+					},
+					["buff_BeaconofLight"] = {
+						["icon"] = "Interface\\Icons\\Ability_Paladin_BeaconofLight",
+						["enable"] = false,
+					},
+					["buff_LifeCocoon"] = {
+						["icon"] = "Interface\\Icons\\ability_monk_chicocoon",
+					},
+					["buff_PrayerofMending"] = {
+						["icon"] = "Interface\\Icons\\Spell_Holy_PrayerOfMendingtga",
+					},
+					["buff_Rejuvenation"] = {
+						["icon"] = "Interface\\Icons\\Spell_Nature_Rejuvenation",
+					},
+					["buff_EternalFlame"] = {
+						["mine"] = true,
+						["icon"] = "Interface\\Icons\\INV_Torch_Thrown",
+						["text"] = "EF",
+						["desc"] = "Buff: Eternal Flame",
+						["buff"] = "Eternal Flame",
+						["color"] = {
+							["b"] = 0.7490196078431373,
+							["g"] = 0.7372549019607844,
+							["r"] = 0.3294117647058824,
+						},
+					},
+					["buff_Grace"] = {
+						["enable"] = false,
+					},
+					["buff_EarthShield"] = {
+						["enable"] = false,
+					},
+					["buff_Regrowth"] = {
+						["icon"] = "Interface\\Icons\\Spell_Nature_ResistNature",
+					},
+					["buff_Lifebloom"] = {
+						["icon"] = "Interface\\Icons\\INV_Misc_Herb_Felblossom",
+					},
+					["buff_PowerWord:Shield"] = {
+						["icon"] = "Interface\\Icons\\Spell_Holy_PowerWordShield",
+					},
+				},
+				["Wullie"] = {
+					["buff_Rejuvenation"] = {
+						["icon"] = "Interface\\Icons\\Spell_Nature_Rejuvenation",
+					},
+					["buff_Grace"] = {
+						["enable"] = false,
+					},
+					["buff_Renew"] = {
+						["icon"] = "Interface\\Icons\\Spell_Holy_Renew",
+					},
+					["buff_BeaconofLight"] = {
+						["icon"] = "Interface\\Icons\\Ability_Paladin_BeaconofLight",
+						["enable"] = false,
+					},
+					["buff_Regrowth"] = {
+						["icon"] = "Interface\\Icons\\Spell_Nature_ResistNature",
+					},
+					["buff_Riptide"] = {
+						["icon"] = "Interface\\Icons\\spell_nature_riptide",
+					},
+					["buff_PowerWord:Shield"] = {
+						["icon"] = "Interface\\Icons\\Spell_Holy_PowerWordShield",
+					},
+					["buff_Lifebloom"] = {
+						["icon"] = "Interface\\Icons\\INV_Misc_Herb_Felblossom",
+					},
+					["buff_LifeCocoon"] = {
+						["icon"] = "Interface\\Icons\\ability_monk_chicocoon",
+					},
+					["buff_EarthShield"] = {
+						["enable"] = false,
+					},
+				},
+				["Jockanese"] = {
+					["buff_Rejuvenation"] = {
+						["icon"] = "Interface\\Icons\\Spell_Nature_Rejuvenation",
+					},
+					["buff_Grace"] = {
+						["enable"] = false,
+					},
+					["buff_Renew"] = {
+						["icon"] = "Interface\\Icons\\Spell_Holy_Renew",
+					},
+					["buff_PowerWord:Shield"] = {
+						["icon"] = "Interface\\Icons\\Spell_Holy_PowerWordShield",
+					},
+					["buff_Regrowth"] = {
+						["icon"] = "Interface\\Icons\\Spell_Nature_ResistNature",
+					},
+					["buff_Riptide"] = {
+						["icon"] = "Interface\\Icons\\spell_nature_riptide",
+					},
+					["buff_BeaconofLight"] = {
+						["icon"] = "Interface\\Icons\\Ability_Paladin_BeaconofLight",
+						["enable"] = false,
+					},
+					["buff_Lifebloom"] = {
+						["icon"] = "Interface\\Icons\\INV_Misc_Herb_Felblossom",
+					},
+					["buff_LifeCocoon"] = {
+						["icon"] = "Interface\\Icons\\ability_monk_chicocoon",
+					},
+					["buff_EarthShield"] = {
+						["enable"] = false,
+					},
+				},
+				["Uillidh"] = {
+					["buff_Rejuvenation"] = {
+						["icon"] = "Interface\\Icons\\Spell_Nature_Rejuvenation",
+					},
+					["buff_Grace"] = {
+						["enable"] = false,
+					},
+					["buff_Renew"] = {
+						["icon"] = "Interface\\Icons\\Spell_Holy_Renew",
+					},
+					["buff_PowerWord:Shield"] = {
+						["icon"] = "Interface\\Icons\\Spell_Holy_PowerWordShield",
+					},
+					["buff_Regrowth"] = {
+						["icon"] = "Interface\\Icons\\Spell_Nature_ResistNature",
+					},
+					["buff_Riptide"] = {
+						["icon"] = "Interface\\Icons\\spell_nature_riptide",
+					},
+					["buff_BeaconofLight"] = {
+						["icon"] = "Interface\\Icons\\Ability_Paladin_BeaconofLight",
+						["enable"] = false,
+					},
+					["buff_Lifebloom"] = {
+						["icon"] = "Interface\\Icons\\INV_Misc_Herb_Felblossom",
+					},
+					["buff_LifeCocoon"] = {
+						["icon"] = "Interface\\Icons\\ability_monk_chicocoon",
+					},
+					["buff_EarthShield"] = {
+						["enable"] = false,
+					},
+				},
+			},
+		},
+		["GridStatusAbsorbs"] = {
+		},
+		["GridMBStatus"] = {
+		},
+		["GridStatusTarget"] = {
+		},
+		["GridMBFrame"] = {
+			["profiles"] = {
+				["Jockness"] = {
+					["side"] = "Bottom",
+					["size"] = 0.15,
+				},
+				["Jock"] = {
+					["side"] = "Bottom",
+					["size"] = 0.15,
+				},
+				["Default"] = {
+					["side"] = "Bottom",
+					["size"] = 0.15,
+				},
+				["Wullie"] = {
+					["side"] = "Bottom",
+					["size"] = 0.15,
+				},
+				["Jockanese"] = {
+					["side"] = "Bottom",
+					["size"] = 0.15,
+				},
+				["Uillidh"] = {
+					["side"] = "Bottom",
+					["size"] = 0.15,
+				},
+			},
+		},
+		["GridStatusName"] = {
+		},
+		["GridStatusMana"] = {
+		},
+		["GridStatusResurrect"] = {
+		},
+		["GridStatusRange"] = {
+			["profiles"] = {
+				["Jockness"] = {
+					["alert_range_40"] = {
+						["enable"] = true,
+						["text"] = "40 yards",
+						["color"] = {
+							["a"] = 0.2727272727272727,
+							["r"] = 0.4,
+							["g"] = 0.8,
+							["b"] = 0.2,
+						},
+						["priority"] = 84,
+						["range"] = false,
+						["desc"] = "More than 40 yards away",
+					},
+					["alert_range_10"] = {
+						["enable"] = false,
+						["text"] = "10 yards",
+						["color"] = {
+							["a"] = 0.8181818181818181,
+							["r"] = 0.1,
+							["g"] = 0.2,
+							["b"] = 0.3,
+						},
+						["priority"] = 81,
+						["range"] = false,
+						["desc"] = "More than 10 yards away",
+					},
+					["alert_range_28"] = {
+						["enable"] = false,
+						["text"] = "28 yards",
+						["color"] = {
+							["a"] = 0.490909090909091,
+							["r"] = 0.28,
+							["g"] = 0.5600000000000001,
+							["b"] = 0.84,
+						},
+						["priority"] = 83,
+						["range"] = false,
+						["desc"] = "More than 28 yards away",
+					},
+					["alert_range_38"] = {
+						["enable"] = false,
+						["text"] = "38 yards",
+						["color"] = {
+							["a"] = 0.3090909090909091,
+							["r"] = 0.38,
+							["g"] = 0.76,
+							["b"] = 0.14,
+						},
+						["priority"] = 84,
+						["range"] = false,
+						["desc"] = "More than 38 yards away",
+					},
+					["alert_range_30"] = {
+						["enable"] = false,
+						["text"] = "30 yards",
+						["color"] = {
+							["a"] = 0.4545454545454546,
+							["r"] = 0.3,
+							["g"] = 0.6,
+							["b"] = 0.9,
+						},
+						["priority"] = 83,
+						["range"] = false,
+						["desc"] = "More than 30 yards away",
+					},
+					["alert_range_100"] = {
+						["enable"] = false,
+						["text"] = "100 yards",
+						["color"] = {
+							["a"] = 0.1090909090909091,
+							["r"] = 0,
+							["g"] = 0,
+							["b"] = 0,
+						},
+						["priority"] = 90,
+						["range"] = false,
+						["desc"] = "More than 100 yards away",
+					},
+				},
+				["Jock"] = {
+					["alert_range_10"] = {
+						["enable"] = false,
+						["text"] = "10 yards",
+						["color"] = {
+							["a"] = 0.8181818181818181,
+							["b"] = 0.3,
+							["g"] = 0.2,
+							["r"] = 0.1,
+						},
+						["priority"] = 81,
+						["range"] = false,
+						["desc"] = "More than 10 yards away",
+					},
+					["alert_range_40"] = {
+						["enable"] = true,
+						["text"] = "40 yards",
+						["color"] = {
+							["a"] = 0.2727272727272727,
+							["b"] = 0.2,
+							["g"] = 0.8,
+							["r"] = 0.4,
+						},
+						["priority"] = 84,
+						["range"] = false,
+						["desc"] = "More than 40 yards away",
+					},
+					["alert_range_28"] = {
+						["enable"] = false,
+						["text"] = "28 yards",
+						["color"] = {
+							["a"] = 0.490909090909091,
+							["b"] = 0.84,
+							["g"] = 0.5600000000000001,
+							["r"] = 0.28,
+						},
+						["priority"] = 83,
+						["range"] = false,
+						["desc"] = "More than 28 yards away",
+					},
+					["alert_range_38"] = {
+						["enable"] = false,
+						["text"] = "38 yards",
+						["color"] = {
+							["a"] = 0.3090909090909091,
+							["b"] = 0.14,
+							["g"] = 0.76,
+							["r"] = 0.38,
+						},
+						["priority"] = 84,
+						["range"] = false,
+						["desc"] = "More than 38 yards away",
+					},
+					["alert_range_30"] = {
+						["enable"] = false,
+						["text"] = "30 yards",
+						["color"] = {
+							["a"] = 0.4545454545454546,
+							["b"] = 0.9,
+							["g"] = 0.6,
+							["r"] = 0.3,
+						},
+						["priority"] = 83,
+						["range"] = false,
+						["desc"] = "More than 30 yards away",
+					},
+					["alert_range_100"] = {
+						["enable"] = false,
+						["text"] = "100 yards",
+						["color"] = {
+							["a"] = 0.1090909090909091,
+							["b"] = 0,
+							["g"] = 0,
+							["r"] = 0,
+						},
+						["priority"] = 90,
+						["range"] = false,
+						["desc"] = "More than 100 yards away",
+					},
+				},
+				["Default"] = {
+					["alert_range_10"] = {
+						["enable"] = false,
+						["text"] = "10 yards",
+						["color"] = {
+							["a"] = 0.8181818181818181,
+							["b"] = 0.3,
+							["g"] = 0.2,
+							["r"] = 0.1,
+						},
+						["priority"] = 81,
+						["range"] = false,
+						["desc"] = "More than 10 yards away",
+					},
+					["alert_range_40"] = {
+						["enable"] = true,
+						["text"] = "40 yards",
+						["color"] = {
+							["a"] = 0.2727272727272727,
+							["b"] = 0.2,
+							["g"] = 0.8,
+							["r"] = 0.4,
+						},
+						["priority"] = 84,
+						["range"] = false,
+						["desc"] = "More than 40 yards away",
+					},
+					["alert_range_28"] = {
+						["enable"] = false,
+						["text"] = "28 yards",
+						["color"] = {
+							["a"] = 0.490909090909091,
+							["b"] = 0.84,
+							["g"] = 0.5600000000000001,
+							["r"] = 0.28,
+						},
+						["priority"] = 83,
+						["range"] = false,
+						["desc"] = "More than 28 yards away",
+					},
+					["alert_range_38"] = {
+						["enable"] = false,
+						["text"] = "38 yards",
+						["color"] = {
+							["a"] = 0.3090909090909091,
+							["b"] = 0.14,
+							["g"] = 0.76,
+							["r"] = 0.38,
+						},
+						["priority"] = 84,
+						["range"] = false,
+						["desc"] = "More than 38 yards away",
+					},
+					["alert_range_30"] = {
+						["enable"] = false,
+						["text"] = "30 yards",
+						["color"] = {
+							["a"] = 0.4545454545454546,
+							["b"] = 0.9,
+							["g"] = 0.6,
+							["r"] = 0.3,
+						},
+						["priority"] = 83,
+						["range"] = false,
+						["desc"] = "More than 30 yards away",
+					},
+					["alert_range_100"] = {
+						["enable"] = false,
+						["text"] = "100 yards",
+						["color"] = {
+							["a"] = 0.1090909090909091,
+							["b"] = 0,
+							["g"] = 0,
+							["r"] = 0,
+						},
+						["priority"] = 90,
+						["range"] = false,
+						["desc"] = "More than 100 yards away",
+					},
+				},
+				["Wullie"] = {
+					["alert_range_10"] = {
+						["enable"] = false,
+						["text"] = "10 yards",
+						["color"] = {
+							["a"] = 0.8181818181818181,
+							["r"] = 0.1,
+							["g"] = 0.2,
+							["b"] = 0.3,
+						},
+						["priority"] = 81,
+						["range"] = false,
+						["desc"] = "More than 10 yards away",
+					},
+					["alert_range_38"] = {
+						["enable"] = false,
+						["text"] = "38 yards",
+						["color"] = {
+							["a"] = 0.3090909090909091,
+							["r"] = 0.38,
+							["g"] = 0.76,
+							["b"] = 0.14,
+						},
+						["priority"] = 84,
+						["range"] = false,
+						["desc"] = "More than 38 yards away",
+					},
+					["alert_range_28"] = {
+						["enable"] = false,
+						["text"] = "28 yards",
+						["color"] = {
+							["a"] = 0.490909090909091,
+							["r"] = 0.28,
+							["g"] = 0.5600000000000001,
+							["b"] = 0.84,
+						},
+						["priority"] = 83,
+						["range"] = false,
+						["desc"] = "More than 28 yards away",
+					},
+					["alert_range_30"] = {
+						["enable"] = false,
+						["text"] = "30 yards",
+						["color"] = {
+							["a"] = 0.4545454545454546,
+							["r"] = 0.3,
+							["g"] = 0.6,
+							["b"] = 0.9,
+						},
+						["priority"] = 83,
+						["range"] = false,
+						["desc"] = "More than 30 yards away",
+					},
+					["alert_range_40"] = {
+						["enable"] = true,
+						["text"] = "40 yards",
+						["color"] = {
+							["a"] = 0.2727272727272727,
+							["r"] = 0.4,
+							["g"] = 0.8,
+							["b"] = 0.2,
+						},
+						["priority"] = 84,
+						["range"] = false,
+						["desc"] = "More than 40 yards away",
+					},
+					["alert_range_100"] = {
+						["enable"] = false,
+						["text"] = "100 yards",
+						["color"] = {
+							["a"] = 0.1090909090909091,
+							["r"] = 0,
+							["g"] = 0,
+							["b"] = 0,
+						},
+						["priority"] = 90,
+						["range"] = false,
+						["desc"] = "More than 100 yards away",
+					},
+				},
+				["Jockanese"] = {
+					["alert_range_40"] = {
+						["enable"] = true,
+						["text"] = "40 yards",
+						["color"] = {
+							["a"] = 0.2727272727272727,
+							["r"] = 0.4,
+							["g"] = 0.8,
+							["b"] = 0.2,
+						},
+						["priority"] = 84,
+						["range"] = false,
+						["desc"] = "More than 40 yards away",
+					},
+					["alert_range_10"] = {
+						["enable"] = false,
+						["text"] = "10 yards",
+						["color"] = {
+							["a"] = 0.8181818181818181,
+							["r"] = 0.1,
+							["g"] = 0.2,
+							["b"] = 0.3,
+						},
+						["priority"] = 81,
+						["range"] = false,
+						["desc"] = "More than 10 yards away",
+					},
+					["alert_range_28"] = {
+						["enable"] = false,
+						["text"] = "28 yards",
+						["color"] = {
+							["a"] = 0.490909090909091,
+							["r"] = 0.28,
+							["g"] = 0.5600000000000001,
+							["b"] = 0.84,
+						},
+						["priority"] = 83,
+						["range"] = false,
+						["desc"] = "More than 28 yards away",
+					},
+					["alert_range_38"] = {
+						["enable"] = false,
+						["text"] = "38 yards",
+						["color"] = {
+							["a"] = 0.3090909090909091,
+							["r"] = 0.38,
+							["g"] = 0.76,
+							["b"] = 0.14,
+						},
+						["priority"] = 84,
+						["range"] = false,
+						["desc"] = "More than 38 yards away",
+					},
+					["alert_range_30"] = {
+						["enable"] = false,
+						["text"] = "30 yards",
+						["color"] = {
+							["a"] = 0.4545454545454546,
+							["r"] = 0.3,
+							["g"] = 0.6,
+							["b"] = 0.9,
+						},
+						["priority"] = 83,
+						["range"] = false,
+						["desc"] = "More than 30 yards away",
+					},
+					["alert_range_100"] = {
+						["enable"] = false,
+						["text"] = "100 yards",
+						["color"] = {
+							["a"] = 0.1090909090909091,
+							["r"] = 0,
+							["g"] = 0,
+							["b"] = 0,
+						},
+						["priority"] = 90,
+						["range"] = false,
+						["desc"] = "More than 100 yards away",
+					},
+				},
+				["Uillidh"] = {
+					["alert_range_10"] = {
+						["enable"] = false,
+						["text"] = "10 yards",
+						["color"] = {
+							["a"] = 0.8181818181818181,
+							["b"] = 0.3,
+							["g"] = 0.2,
+							["r"] = 0.1,
+						},
+						["priority"] = 81,
+						["range"] = false,
+						["desc"] = "More than 10 yards away",
+					},
+					["alert_range_40"] = {
+						["enable"] = true,
+						["text"] = "40 yards",
+						["color"] = {
+							["a"] = 0.2727272727272727,
+							["b"] = 0.2,
+							["g"] = 0.8,
+							["r"] = 0.4,
+						},
+						["priority"] = 84,
+						["range"] = false,
+						["desc"] = "More than 40 yards away",
+					},
+					["alert_range_28"] = {
+						["enable"] = false,
+						["text"] = "28 yards",
+						["color"] = {
+							["a"] = 0.490909090909091,
+							["b"] = 0.84,
+							["g"] = 0.5600000000000001,
+							["r"] = 0.28,
+						},
+						["priority"] = 83,
+						["range"] = false,
+						["desc"] = "More than 28 yards away",
+					},
+					["alert_range_38"] = {
+						["enable"] = false,
+						["text"] = "38 yards",
+						["color"] = {
+							["a"] = 0.3090909090909091,
+							["b"] = 0.14,
+							["g"] = 0.76,
+							["r"] = 0.38,
+						},
+						["priority"] = 84,
+						["range"] = false,
+						["desc"] = "More than 38 yards away",
+					},
+					["alert_range_30"] = {
+						["enable"] = false,
+						["text"] = "30 yards",
+						["color"] = {
+							["a"] = 0.4545454545454546,
+							["b"] = 0.9,
+							["g"] = 0.6,
+							["r"] = 0.3,
+						},
+						["priority"] = 83,
+						["range"] = false,
+						["desc"] = "More than 30 yards away",
+					},
+					["alert_range_100"] = {
+						["enable"] = false,
+						["text"] = "100 yards",
+						["color"] = {
+							["a"] = 0.1090909090909091,
+							["b"] = 0,
+							["g"] = 0,
+							["r"] = 0,
+						},
+						["priority"] = 90,
+						["range"] = false,
+						["desc"] = "More than 100 yards away",
+					},
+				},
+			},
+		},
+		["GridStatusHealth"] = {
+			["profiles"] = {
+				["Jockness"] = {
+					["unit_healthDeficit"] = {
+						["threshold"] = 59,
+						["useClassColors"] = false,
+						["priority"] = 99,
+						["color"] = {
+							["r"] = 0.4980392156862745,
+							["g"] = 0.5019607843137255,
+							["b"] = 0.4980392156862745,
+						},
+						["text"] = "TG",
+						["icon"] = "Interface\\Icons\\Ability_Rogue_FeignDeath",
+						["enable"] = false,
+					},
+					["alert_lowHealth"] = {
+						["enable"] = false,
+						["text"] = "Less HP",
+					},
+					["alert_death"] = {
+						["priority"] = 99,
+					},
+					["unit_health"] = {
+						["color"] = {
+							["a"] = 0.9500000029802322,
+							["r"] = 0.9137254901960784,
+							["g"] = 0.9254901960784314,
+							["b"] = 0.9019607843137255,
+						},
+						["deadAsFullHealth"] = false,
+						["priority"] = 99,
+						["useClassColors"] = false,
+					},
+				},
+				["Jock"] = {
+					["unit_health"] = {
+						["color"] = {
+							["a"] = 0.9500000029802322,
+							["b"] = 0.9019607843137255,
+							["g"] = 0.9254901960784314,
+							["r"] = 0.9137254901960784,
+						},
+						["useClassColors"] = false,
+						["deadAsFullHealth"] = false,
+						["priority"] = 99,
+					},
+					["alert_lowHealth"] = {
+						["enable"] = false,
+						["text"] = "Less HP",
+					},
+					["alert_death"] = {
+						["priority"] = 99,
+					},
+					["unit_healthDeficit"] = {
+						["threshold"] = 59,
+						["useClassColors"] = false,
+						["enable"] = false,
+						["color"] = {
+							["b"] = 0.4980392156862745,
+							["g"] = 0.5019607843137255,
+							["r"] = 0.4980392156862745,
+						},
+						["priority"] = 99,
+						["icon"] = "Interface\\Icons\\Ability_Rogue_FeignDeath",
+						["text"] = "TG",
+					},
+				},
+				["Default"] = {
+					["unit_healthDeficit"] = {
+						["threshold"] = 59,
+						["useClassColors"] = false,
+						["enable"] = false,
+						["color"] = {
+							["b"] = 0.4980392156862745,
+							["g"] = 0.5019607843137255,
+							["r"] = 0.4980392156862745,
+						},
+						["priority"] = 99,
+						["icon"] = "Interface\\Icons\\Ability_Rogue_FeignDeath",
+						["text"] = "TG",
+					},
+					["alert_lowHealth"] = {
+						["enable"] = false,
+						["text"] = "Less HP",
+					},
+					["alert_death"] = {
+						["priority"] = 99,
+					},
+					["unit_health"] = {
+						["useClassColors"] = false,
+						["color"] = {
+							["a"] = 0.9500000029802322,
+							["b"] = 0.9019607843137255,
+							["g"] = 0.9254901960784314,
+							["r"] = 0.9137254901960784,
+						},
+						["priority"] = 99,
+						["deadAsFullHealth"] = false,
+					},
+				},
+				["Wullie"] = {
+					["unit_health"] = {
+						["color"] = {
+							["a"] = 0.9500000029802322,
+							["r"] = 0.9137254901960784,
+							["g"] = 0.9254901960784314,
+							["b"] = 0.9019607843137255,
+						},
+						["deadAsFullHealth"] = false,
+						["useClassColors"] = false,
+						["priority"] = 99,
+					},
+					["alert_death"] = {
+						["priority"] = 99,
+					},
+					["alert_lowHealth"] = {
+						["enable"] = false,
+						["text"] = "Less HP",
+					},
+					["unit_healthDeficit"] = {
+						["threshold"] = 59,
+						["useClassColors"] = false,
+						["priority"] = 99,
+						["enable"] = false,
+						["text"] = "TG",
+						["icon"] = "Interface\\Icons\\Ability_Rogue_FeignDeath",
+						["color"] = {
+							["r"] = 0.4980392156862745,
+							["g"] = 0.5019607843137255,
+							["b"] = 0.4980392156862745,
+						},
+					},
+				},
+				["Jockanese"] = {
+					["unit_health"] = {
+						["color"] = {
+							["a"] = 0.9500000029802322,
+							["r"] = 0.9137254901960784,
+							["g"] = 0.9254901960784314,
+							["b"] = 0.9019607843137255,
+						},
+						["useClassColors"] = false,
+						["deadAsFullHealth"] = false,
+						["priority"] = 99,
+					},
+					["alert_lowHealth"] = {
+						["enable"] = false,
+						["text"] = "Less HP",
+					},
+					["alert_death"] = {
+						["priority"] = 99,
+					},
+					["unit_healthDeficit"] = {
+						["threshold"] = 59,
+						["useClassColors"] = false,
+						["priority"] = 99,
+						["color"] = {
+							["r"] = 0.4980392156862745,
+							["g"] = 0.5019607843137255,
+							["b"] = 0.4980392156862745,
+						},
+						["text"] = "TG",
+						["icon"] = "Interface\\Icons\\Ability_Rogue_FeignDeath",
+						["enable"] = false,
+					},
+				},
+				["Uillidh"] = {
+					["unit_health"] = {
+						["color"] = {
+							["a"] = 0.9500000029802322,
+							["r"] = 0.9137254901960784,
+							["g"] = 0.9254901960784314,
+							["b"] = 0.9019607843137255,
+						},
+						["deadAsFullHealth"] = false,
+						["useClassColors"] = false,
+						["priority"] = 99,
+					},
+					["alert_lowHealth"] = {
+						["enable"] = false,
+						["text"] = "Less HP",
+					},
+					["alert_death"] = {
+						["priority"] = 99,
+					},
+					["unit_healthDeficit"] = {
+						["threshold"] = 59,
+						["useClassColors"] = false,
+						["text"] = "TG",
+						["enable"] = false,
+						["priority"] = 99,
+						["icon"] = "Interface\\Icons\\Ability_Rogue_FeignDeath",
+						["color"] = {
+							["r"] = 0.4980392156862745,
+							["g"] = 0.5019607843137255,
+							["b"] = 0.4980392156862745,
+						},
+					},
+				},
+			},
+		},
+		["GridStatus"] = {
+			["profiles"] = {
+				["Jockness"] = {
+					["colors"] = {
+						["HUNTER"] = {
+							["r"] = 0.67,
+							["g"] = 0.83,
+							["b"] = 0.45,
+						},
+						["WARRIOR"] = {
+							["r"] = 0.78,
+							["g"] = 0.61,
+							["b"] = 0.43,
+						},
+						["ROGUE"] = {
+							["r"] = 1,
+							["g"] = 0.96,
+							["b"] = 0.41,
+						},
+						["MAGE"] = {
+							["r"] = 0.41,
+							["g"] = 0.8,
+							["b"] = 0.94,
+						},
+						["PRIEST"] = {
+							["r"] = 1,
+							["g"] = 1,
+							["b"] = 1,
+						},
+						["WARLOCK"] = {
+							["r"] = 0.58,
+							["g"] = 0.51,
+							["b"] = 0.79,
+						},
+						["DEATHKNIGHT"] = {
+							["r"] = 0.77,
+							["g"] = 0.12,
+							["b"] = 0.23,
+						},
+						["PALADIN"] = {
+							["r"] = 0.96,
+							["g"] = 0.55,
+							["b"] = 0.73,
+						},
+						["DRUID"] = {
+							["r"] = 1,
+							["g"] = 0.49,
+							["b"] = 0.04,
+						},
+						["MONK"] = {
+							["r"] = 0,
+							["g"] = 1,
+							["b"] = 0.59,
+						},
+						["SHAMAN"] = {
+							["r"] = 0,
+							["g"] = 0.44,
+							["b"] = 0.87,
+						},
+					},
+				},
+				["Jock"] = {
+					["colors"] = {
+						["DEATHKNIGHT"] = {
+							["b"] = 0.23,
+							["g"] = 0.12,
+							["r"] = 0.77,
+						},
+						["WARRIOR"] = {
+							["b"] = 0.43,
+							["g"] = 0.61,
+							["r"] = 0.78,
+						},
+						["ROGUE"] = {
+							["b"] = 0.41,
+							["g"] = 0.96,
+							["r"] = 1,
+						},
+						["MAGE"] = {
+							["b"] = 0.94,
+							["g"] = 0.8,
+							["r"] = 0.41,
+						},
+						["PRIEST"] = {
+							["b"] = 1,
+							["g"] = 1,
+							["r"] = 1,
+						},
+						["WARLOCK"] = {
+							["b"] = 0.79,
+							["g"] = 0.51,
+							["r"] = 0.58,
+						},
+						["SHAMAN"] = {
+							["b"] = 0.87,
+							["g"] = 0.44,
+							["r"] = 0,
+						},
+						["HUNTER"] = {
+							["b"] = 0.45,
+							["g"] = 0.83,
+							["r"] = 0.67,
+						},
+						["DRUID"] = {
+							["b"] = 0.04,
+							["g"] = 0.49,
+							["r"] = 1,
+						},
+						["MONK"] = {
+							["b"] = 0.59,
+							["g"] = 1,
+							["r"] = 0,
+						},
+						["PALADIN"] = {
+							["b"] = 0.73,
+							["g"] = 0.55,
+							["r"] = 0.96,
+						},
+					},
+				},
+				["Default"] = {
+					["colors"] = {
+						["ROGUE"] = {
+							["b"] = 0.41,
+							["g"] = 0.96,
+							["r"] = 1,
+						},
+						["MAGE"] = {
+							["b"] = 0.94,
+							["g"] = 0.8,
+							["r"] = 0.41,
+						},
+						["DRUID"] = {
+							["b"] = 0.04,
+							["g"] = 0.49,
+							["r"] = 1,
+						},
+						["MONK"] = {
+							["b"] = 0.59,
+							["g"] = 1,
+							["r"] = 0,
+						},
+						["DEATHKNIGHT"] = {
+							["b"] = 0.23,
+							["g"] = 0.12,
+							["r"] = 0.77,
+						},
+						["PRIEST"] = {
+							["b"] = 1,
+							["g"] = 1,
+							["r"] = 1,
+						},
+						["SHAMAN"] = {
+							["b"] = 0.87,
+							["g"] = 0.44,
+							["r"] = 0,
+						},
+						["WARLOCK"] = {
+							["b"] = 0.79,
+							["g"] = 0.51,
+							["r"] = 0.58,
+						},
+						["HUNTER"] = {
+							["b"] = 0.45,
+							["g"] = 0.83,
+							["r"] = 0.67,
+						},
+						["WARRIOR"] = {
+							["b"] = 0.43,
+							["g"] = 0.61,
+							["r"] = 0.78,
+						},
+						["PALADIN"] = {
+							["b"] = 0.73,
+							["g"] = 0.55,
+							["r"] = 0.96,
+						},
+					},
+				},
+				["Wullie"] = {
+					["colors"] = {
+						["DEATHKNIGHT"] = {
+							["r"] = 0.77,
+							["g"] = 0.12,
+							["b"] = 0.23,
+						},
+						["WARRIOR"] = {
+							["r"] = 0.78,
+							["g"] = 0.61,
+							["b"] = 0.43,
+						},
+						["SHAMAN"] = {
+							["r"] = 0,
+							["g"] = 0.44,
+							["b"] = 0.87,
+						},
+						["MAGE"] = {
+							["r"] = 0.41,
+							["g"] = 0.8,
+							["b"] = 0.94,
+						},
+						["PRIEST"] = {
+							["r"] = 1,
+							["g"] = 1,
+							["b"] = 1,
+						},
+						["WARLOCK"] = {
+							["r"] = 0.58,
+							["g"] = 0.51,
+							["b"] = 0.79,
+						},
+						["ROGUE"] = {
+							["r"] = 1,
+							["g"] = 0.96,
+							["b"] = 0.41,
+						},
+						["HUNTER"] = {
+							["r"] = 0.67,
+							["g"] = 0.83,
+							["b"] = 0.45,
+						},
+						["DRUID"] = {
+							["r"] = 1,
+							["g"] = 0.49,
+							["b"] = 0.04,
+						},
+						["MONK"] = {
+							["r"] = 0,
+							["g"] = 1,
+							["b"] = 0.59,
+						},
+						["PALADIN"] = {
+							["r"] = 0.96,
+							["g"] = 0.55,
+							["b"] = 0.73,
+						},
+					},
+				},
+				["Jockanese"] = {
+					["colors"] = {
+						["DEATHKNIGHT"] = {
+							["r"] = 0.77,
+							["g"] = 0.12,
+							["b"] = 0.23,
+						},
+						["WARRIOR"] = {
+							["r"] = 0.78,
+							["g"] = 0.61,
+							["b"] = 0.43,
+						},
+						["PALADIN"] = {
+							["r"] = 0.96,
+							["g"] = 0.55,
+							["b"] = 0.73,
+						},
+						["MAGE"] = {
+							["r"] = 0.41,
+							["g"] = 0.8,
+							["b"] = 0.94,
+						},
+						["PRIEST"] = {
+							["r"] = 1,
+							["g"] = 1,
+							["b"] = 1,
+						},
+						["WARLOCK"] = {
+							["r"] = 0.58,
+							["g"] = 0.51,
+							["b"] = 0.79,
+						},
+						["SHAMAN"] = {
+							["r"] = 0,
+							["g"] = 0.44,
+							["b"] = 0.87,
+						},
+						["HUNTER"] = {
+							["r"] = 0.67,
+							["g"] = 0.83,
+							["b"] = 0.45,
+						},
+						["DRUID"] = {
+							["r"] = 1,
+							["g"] = 0.49,
+							["b"] = 0.04,
+						},
+						["MONK"] = {
+							["r"] = 0,
+							["g"] = 1,
+							["b"] = 0.59,
+						},
+						["ROGUE"] = {
+							["r"] = 1,
+							["g"] = 0.96,
+							["b"] = 0.41,
+						},
+					},
+				},
+				["Uillidh"] = {
+					["colors"] = {
+						["HUNTER"] = {
+							["b"] = 0.45,
+							["g"] = 0.83,
+							["r"] = 0.67,
+						},
+						["WARRIOR"] = {
+							["b"] = 0.43,
+							["g"] = 0.61,
+							["r"] = 0.78,
+						},
+						["ROGUE"] = {
+							["b"] = 0.41,
+							["g"] = 0.96,
+							["r"] = 1,
+						},
+						["MAGE"] = {
+							["b"] = 0.94,
+							["g"] = 0.8,
+							["r"] = 0.41,
+						},
+						["PRIEST"] = {
+							["b"] = 1,
+							["g"] = 1,
+							["r"] = 1,
+						},
+						["WARLOCK"] = {
+							["b"] = 0.79,
+							["g"] = 0.51,
+							["r"] = 0.58,
+						},
+						["SHAMAN"] = {
+							["b"] = 0.87,
+							["g"] = 0.44,
+							["r"] = 0,
+						},
+						["PALADIN"] = {
+							["b"] = 0.73,
+							["g"] = 0.55,
+							["r"] = 0.96,
+						},
+						["DRUID"] = {
+							["b"] = 0.04,
+							["g"] = 0.49,
+							["r"] = 1,
+						},
+						["MONK"] = {
+							["b"] = 0.59,
+							["g"] = 1,
+							["r"] = 0,
+						},
+						["DEATHKNIGHT"] = {
+							["b"] = 0.23,
+							["g"] = 0.12,
+							["r"] = 0.77,
+						},
+					},
+				},
+			},
+		},
+		["GridStatusAggro"] = {
+		},
+		["GridStatusHeals"] = {
+		},
+		["GridStatusReadyCheck"] = {
+		},
+		["GridStatusVoiceComm"] = {
+		},
+		["GridIndicatorSideIcons"] = {
+			["profiles"] = {
+				["Jockness"] = {
+					["iconSizeTop"] = 13,
+				},
+				["Jock"] = {
+					["iconSizeTop"] = 13,
+				},
+				["Default"] = {
+					["iconSizeTop"] = 13,
+					["yoffsetLR"] = 11,
+					["iconSizeLeft"] = 12,
+					["iconSizeRight"] = 12,
+					["xoffsetLR"] = -1,
+					["enableIconCooldown"] = true,
+				},
+				["Wullie"] = {
+					["iconSizeTop"] = 13,
+				},
+				["Jockanese"] = {
+					["iconSizeTop"] = 13,
+				},
+				["Uillidh"] = {
+					["iconSizeTop"] = 13,
+				},
+			},
+		},
+		["GridLayout"] = {
+			["profiles"] = {
+				["Jockness"] = {
+					["clamp"] = false,
+					["anchorRel"] = "BOTTOMLEFT",
+					["PosY"] = 10,
+					["layouts"] = {
+						["bg"] = "By Class 40",
+						["arena"] = "By Group 40",
+						["raid_outside"] = true,
+						["raid"] = "By Group 25",
+					},
+					["layout"] = "By Group 5",
+					["groupAnchor"] = "BOTTOMLEFT",
+					["Spacing"] = 5,
+					["FrameLock"] = true,
+					["PosX"] = 877,
+					["borderTexture"] = "Blizzard Achievement Wood",
+					["borderColor"] = {
+						["a"] = 0,
+						["r"] = 0.2470588235294118,
+						["g"] = 0.2470588235294118,
+						["b"] = 0.2470588235294118,
+					},
+					["anchor"] = "BOTTOMLEFT",
+					["horizontal"] = true,
+					["backgroundColor"] = {
+						["a"] = 0,
+						["r"] = 0.3294117647058824,
+						["g"] = 0.3294117647058824,
+						["b"] = 0.3294117647058824,
+					},
+					["backgroundTexture"] = "Blizzard Dialog Background Dark",
+				},
+				["Jock"] = {
+					["clamp"] = false,
+					["backgroundTexture"] = "Blizzard Dialog Background Dark",
+					["PosY"] = 10,
+					["layouts"] = {
+						["raid"] = "By Group 25",
+						["arena"] = "By Group 40",
+						["bg"] = "By Class 40",
+						["raid_outside"] = true,
+					},
+					["layout"] = "By Group 5",
+					["anchorRel"] = "BOTTOMLEFT",
+					["Spacing"] = 5,
+					["FrameLock"] = true,
+					["borderTexture"] = "Blizzard Achievement Wood",
+					["PosX"] = 877,
+					["borderColor"] = {
+						["a"] = 0,
+						["r"] = 0.2470588235294118,
+						["g"] = 0.2470588235294118,
+						["b"] = 0.2470588235294118,
+					},
+					["anchor"] = "BOTTOMLEFT",
+					["horizontal"] = true,
+					["backgroundColor"] = {
+						["a"] = 0,
+						["r"] = 0.3294117647058824,
+						["g"] = 0.3294117647058824,
+						["b"] = 0.3294117647058824,
+					},
+					["groupAnchor"] = "BOTTOMLEFT",
+				},
+				["Default"] = {
+					["layouts"] = {
+						["raid_outside"] = true,
+						["raid"] = "By Group 25",
+						["arena"] = "By Group 40",
+					},
+					["FrameLock"] = true,
+					["PosX"] = 535,
+					["anchor"] = "BOTTOMLEFT",
+					["backgroundColor"] = {
+						["a"] = 0,
+						["r"] = 0.3294117647058824,
+						["g"] = 0.3294117647058824,
+						["b"] = 0.3294117647058824,
+					},
+					["groupAnchor"] = "BOTTOMLEFT",
+					["PosY"] = 127,
+					["layout"] = "By Group 5",
+					["anchorRel"] = "BOTTOMLEFT",
+					["Spacing"] = 3,
+					["horizontal"] = true,
+					["Padding"] = 0,
+					["borderColor"] = {
+						["a"] = 0,
+						["r"] = 0.2470588235294118,
+						["g"] = 0.2470588235294118,
+						["b"] = 0.2470588235294118,
+					},
+				},
+				["Wullie"] = {
+					["anchorRel"] = "BOTTOMLEFT",
+					["BorderB"] = 0.2470588235294118,
+					["layouts"] = {
+						["raid_25"] = "By Group 40",
+						["raid"] = "By Group 25",
+						["solo"] = "By Group 10",
+						["arena"] = "By Group 40",
+					},
+					["BackgroundR"] = 0.3294117647058824,
+					["FrameLock"] = true,
+					["BorderA"] = 0,
+					["BorderR"] = 0.2470588235294118,
+					["Spacing"] = 3,
+					["anchor"] = "BOTTOMLEFT",
+					["BackgroundG"] = 0.3294117647058824,
+					["groupAnchor"] = "BOTTOMLEFT",
+					["PosY"] = 129,
+					["layout"] = "By Group 10",
+					["BackgroundA"] = 0,
+					["PosX"] = 537,
+					["BorderG"] = 0.2470588235294118,
+					["BackgroundB"] = 0.3294117647058824,
+					["horizontal"] = true,
+					["Padding"] = 0,
+					["clamp"] = false,
+				},
+				["Jockanese"] = {
+					["clamp"] = false,
+					["backgroundTexture"] = "Blizzard Dialog Background Dark",
+					["PosY"] = 10,
+					["layouts"] = {
+						["arena"] = "By Group 40",
+						["raid"] = "By Group 25",
+						["raid_outside"] = true,
+						["bg"] = "By Class 40",
+					},
+					["layout"] = "By Group 5",
+					["borderColor"] = {
+						["a"] = 0,
+						["r"] = 0.2470588235294118,
+						["g"] = 0.2470588235294118,
+						["b"] = 0.2470588235294118,
+					},
+					["borderTexture"] = "Blizzard Achievement Wood",
+					["FrameLock"] = true,
+					["anchorRel"] = "BOTTOMLEFT",
+					["PosX"] = 877,
+					["Spacing"] = 5,
+					["anchor"] = "BOTTOMLEFT",
+					["horizontal"] = true,
+					["backgroundColor"] = {
+						["a"] = 0,
+						["r"] = 0.3294117647058824,
+						["g"] = 0.3294117647058824,
+						["b"] = 0.3294117647058824,
+					},
+					["groupAnchor"] = "BOTTOMLEFT",
+				},
+				["Uillidh"] = {
+					["clamp"] = false,
+					["anchorRel"] = "BOTTOMLEFT",
+					["PosY"] = 10,
+					["layouts"] = {
+						["raid"] = "By Group 25",
+						["arena"] = "By Group 40",
+						["raid_outside"] = true,
+						["bg"] = "By Class 40",
+					},
+					["layout"] = "By Group 5",
+					["backgroundTexture"] = "Blizzard Dialog Background Dark",
+					["borderTexture"] = "Blizzard Achievement Wood",
+					["FrameLock"] = true,
+					["borderColor"] = {
+						["a"] = 0,
+						["r"] = 0.2470588235294118,
+						["g"] = 0.2470588235294118,
+						["b"] = 0.2470588235294118,
+					},
+					["Spacing"] = 5,
+					["PosX"] = 877,
+					["anchor"] = "BOTTOMLEFT",
+					["horizontal"] = true,
+					["backgroundColor"] = {
+						["a"] = 0,
+						["r"] = 0.3294117647058824,
+						["g"] = 0.3294117647058824,
+						["b"] = 0.3294117647058824,
+					},
+					["groupAnchor"] = "BOTTOMLEFT",
+				},
+			},
+		},
+		["GridStatusShield"] = {
+		},
+		["DungeonRole"] = {
+		},
+		["GridRoster"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Saltire - Twisting Nether"] = "Default",
+		["Nicolarse - Aszune"] = "Default",
+		["Hammered - Aszune"] = "Default",
+		["Jockanese - Draenor"] = "Jockanese",
+		["Jockanese - Aszune"] = "Default",
+		["Saltire - Stormscale"] = "Default",
+		["Jockness - Draenor"] = "Jockness",
+		["Uillidh - Draenor"] = "Uillidh",
+		["Suzywong - Aszune"] = "Default",
+		["Wulliee - Aszune"] = "Default",
+		["Báwbág - Draenor"] = "Default",
+		["Burgerwings - Aszune"] = "Default",
+		["Wullie - Aszune"] = "Wullie",
+		["Pandjob - Draenor"] = "Default",
+		["Wullbur - Draenor"] = "Default",
+		["Stingyring - Draenor"] = "Default",
+		["Willbur - Draenor"] = "Default",
+		["Jõck - Draenor"] = "Jock",
+		["Tattie - Aszune"] = "Default",
+		["Wulliie - Draenor"] = "Default",
+		["Jõck - Aszune"] = "Jock",
+		["Wulliee - Argent Dawn"] = "Default",
+		["Juggs - Aszune"] = "Default",
+		["Wulliee - Draenor"] = "Default",
+		["Wull - Aszune"] = "Default",
+		["Tonsomats - Aszune"] = "Default",
+		["Wulliee - Darkmoon Faire"] = "Default",
+	},
+	["profiles"] = {
+		["Jockness"] = {
+			["showIcon"] = false,
+			["showText"] = false,
+			["hidden"] = true,
+			["minimap"] = {
+				["hide"] = true,
+			},
+		},
+		["Jock"] = {
+			["hidden"] = true,
+			["showText"] = false,
+			["showIcon"] = false,
+			["minimap"] = {
+				["hide"] = true,
+			},
+		},
+		["Default"] = {
+			["showText"] = false,
+			["showIcon"] = false,
+			["hidden"] = true,
+			["minimap"] = {
+				["hide"] = true,
+			},
+		},
+		["Wullie"] = {
+			["showIcon"] = false,
+			["showText"] = false,
+			["hidden"] = true,
+			["minimap"] = {
+				["hide"] = true,
+			},
+		},
+		["Jockanese"] = {
+			["showIcon"] = false,
+			["showText"] = false,
+			["hidden"] = true,
+			["minimap"] = {
+				["hide"] = true,
+			},
+		},
+		["Uillidh"] = {
+			["showIcon"] = false,
+			["hidden"] = true,
+			["showText"] = false,
+			["minimap"] = {
+				["hide"] = true,
+			},
+		},
+	},
+}

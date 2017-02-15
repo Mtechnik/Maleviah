@@ -1,0 +1,78 @@
+
+TriviaBot_Config = {
+	["Top_Score_Interval"] = 5,
+	["Point_Mode"] = true,
+	["Question_Timeout"] = 25,
+	["Show_Reports"] = true,
+	["Round_Size"] = 0,
+	["Short_Tag"] = 1,
+	["Question_Set"] = 2,
+	["Chat_Type"] = "guild",
+	["Update_Interval"] = 0.5,
+	["Question_Interval"] = 8,
+	["Report_Win_Streak"] = true,
+	["Show_Hints"] = true,
+	["Report_Personal"] = true,
+	["Timeout_Warning"] = 10,
+	["Top_Score_Count"] = 5,
+	["Version"] = "2.8.6",
+	["Channel"] = "Trivia",
+	["Show_Answers"] = true,
+	["Show_Whispers"] = false,
+	["Question_Category"] = 1,
+	["Answers_Shown"] = 0,
+}
+TriviaBot_Scores = {
+	["Speed"] = {
+		["Holder"] = "Protego",
+		["Time"] = 3.82,
+	},
+	["Win_Streak"] = {
+		["Holder"] = "Wulliee",
+		["Count"] = 2,
+	},
+	["Player_Scores"] = {
+		["Lrin"] = {
+			["Speed"] = 6.29,
+			["Points"] = 0,
+			["Win_Streak"] = 0,
+			["Score"] = 0,
+		},
+		["Protego"] = {
+			["Speed"] = 3.82,
+			["Points"] = 6,
+			["Win_Streak"] = 0,
+			["Score"] = 6,
+		},
+		["Halesire"] = {
+			["Speed"] = 4.29,
+			["Points"] = 6,
+			["Win_Streak"] = 2,
+			["Score"] = 6,
+		},
+		["Darthbovine"] = {
+			["Speed"] = 4.78,
+			["Points"] = 0,
+			["Win_Streak"] = 0,
+			["Score"] = 0,
+		},
+		["Stealz"] = {
+			["Speed"] = 14.6,
+			["Points"] = 1,
+			["Win_Streak"] = 3,
+			["Score"] = 1,
+		},
+		["Jynda"] = {
+			["Speed"] = 5.19,
+			["Points"] = 4,
+			["Win_Streak"] = 2,
+			["Score"] = 4,
+		},
+		["Wulliee"] = {
+			["Speed"] = 4.04,
+			["Points"] = 15,
+			["Win_Streak"] = 2,
+			["Score"] = 15,
+		},
+	},
+}

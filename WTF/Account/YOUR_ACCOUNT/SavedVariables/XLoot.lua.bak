@@ -1,0 +1,47 @@
+
+XLootADB = {
+	["namespaces"] = {
+		["Group"] = {
+			["profiles"] = {
+				["Default"] = {
+					["alert_anchor"] = {
+						["y"] = 217.8197609168431,
+						["x"] = 1304.967290451753,
+					},
+					["roll_anchor"] = {
+						["y"] = 791.3351704425427,
+						["x"] = -0,
+					},
+				},
+			},
+		},
+		["Frame"] = {
+			["profiles"] = {
+				["Default"] = {
+					["frame_snap"] = false,
+				},
+			},
+		},
+		["Monitor"] = {
+			["profiles"] = {
+				["Default"] = {
+					["anchor"] = {
+						["y"] = 439.1088053973398,
+						["x"] = 1603.634222643275,
+					},
+				},
+			},
+		},
+		["Master"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Wulliee - Draenor"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["skin_anchors"] = true,
+			["skin"] = "Darion Clean",
+		},
+	},
+}

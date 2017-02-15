@@ -1,0 +1,79 @@
+## Title: Titan [|cffeda55fReputation|r]
+## Authors: PapaSol, Aquator
+## Notes: Adds Reputation tracking and monitoring tools to Titan Panel.
+## Version: 3.8.8d
+## Interface: 70100
+## Dependencies: Titan
+## OptionalDeps: Glamour
+## SavedVariables: TitanRep_Data
+## X-Category: Interface Enhancements Titan Reputation
+## X-Curse-Packaged-Version: Release 3.8.7
+## X-Curse-Project-Name: Titan [Reputation] (+Glamour)
+## X-Curse-Project-ID: titanrep
+## X-Curse-Repository-ID: wow/titanrep/mainline
+## X-Curse-Packaged-Version: Release.3.8.7b
+## X-Curse-Project-Name: Titan [Reputation] (+Glamour)
+## X-Curse-Project-ID: titanrep
+## X-Curse-Repository-ID: wow/titanrep/mainline
+TitanReputation.xml
+
+## ChangeLog
+## ChangeLog Release 3.8.8d
+## ChangeLog    - Updated for Legion V 7.1
+## ChangeLog    - Fixed broken right click menu (thanks tominator1983 ticket #26)
+## ChangeLog	 
+## ChangeLog Release 3.8.7b
+## ChangeLog    - Removed Glamour as a required dependency on curseforge. 
+## ChangeLog    - Added Glamour as an optional dependency.
+## ChangeLog	 
+## ChangeLog Release 3.8.7
+## ChangeLog	- Initial Legeon Release
+## ChangeLog	- BugFix: added logic to TitanPanelReputation_GatherFactions function to return early when GetNumFactions() is nil. 
+## ChangeLog	    - This should resolve ticket id: 19 - Perform Arithmetic ??
+## ChangeLog	 
+## ChangeLog Release 3.8.6
+## ChangeLog	- Fixed: "Session Summary" data not displaying in tooltip.
+## ChangeLog	- Tweak: "Session Summary" each faction is now indented in the tooltip.
+## ChangeLog	- Tweak: "Session Summary" each faction is now shows perHour and perMinute stats.
+## ChangeLog	- Tweak: "Session Summary" header and session duration will only show if there is a faction reputation gain in the current session.
+## ChangeLog	- Tweak: "Show Exalted Total" is now always the last line of the tooltip when enabled.
+## ChangeLog	 
+## ChangeLog Release 3.8.5
+## ChangeLog	- Added 30 Second delay to Alerts, this prevents the New Faction Discovered announcement spam when logging in or switching toons.
+## ChangeLog	 
+## ChangeLog Release 3.8.4
+## ChangeLog	- Fixed Tooltip scaling routine to check for GameToolTip owner for proper addon compatability: Thanks to Pankkirosvo
+## ChangeLog	- Fix for stuck saved vairiables that wasn't working in 3.8.3: Thanks to Pankkirosvo
+## ChangeLog
+## ChangeLog Release 3.8.3
+## ChangeLog	- Fix for stuck saved variables in reference to Shadowpan-Assault Grand Commedation.
+## ChangeLog
+## ChangeLog Release 3.8.2
+## ChangeLog	- Fixed incorrect notice for Shadowpan-Assault Grand Commedation.
+## ChangeLog
+## ChangeLog Release 3.8.1
+## ChangeLog	- Converted "Guild" check to use factionIDs. Eliminates common problems with non-english clients continuously reverting to guild rep being displayed.
+## ChangeLog	- Added Tooltip scaling functionality in the Tooltip Options section, default is 80% which is 20% smaller than previous versions. This effects all GameTooltip calls everywhere.
+## ChangeLog	- Optimized right click menu code to generate less garbage in memory from throw away tables.
+## ChangeLog	- Added Titan Panel Right-Side plugin support to Button Options menu
+## ChangeLog	- Added "Minimal" display option to Tooltip Options which removes the TitanRep banner and extra spacing in the tooltip display.
+## ChangeLog	- Cleaned out unecessary end of line semicolon markers, unnecessary blank space and old commented out code
+## ChangeLog	- Fixed missing CloseDropDownMenus() calls within custom functions associated with the Right Click menu
+## ChangeLog	- Fixed issues with Glamour announcements displaying the incorrect standing for Friendships
+## ChangeLog	- Adjusted Friendship coloring behavior
+## ChangeLog	- Added Tooltip options for showing/disabling friendships by rank or all frienships within the tooltip.
+## ChangeLog	- Added "Show Friendships" Button Option, disabling this will disable displaying friendship reputations on the button. (For you friend haters out there)
+## ChangeLog	- Changed all internal codeing to use factionID instead of factionName. should resolve some erronous checks on non-english clients.
+## ChangeLog	- Updated announcement code to detect when a new Faction/Frienship is found and fire an announcement
+## ChangeLog	- Fixed a display issue with the Faction Upgrade/Downgrade Glamour announcement window and updated it to differentiate between friendships and factions
+## ChangeLog	- Added support for Grand Commedation detection and warning messages when once is available that you already have
+## ChangeLog
+## ChangeLog Release 3.8.0
+## ChangeLog	- Updated internal routines to fully support blizzard backend changes with friendship reputations.
+## ChangeLog	- Linked ToolTip config option "Abbreviate Standings" with the right click reputation menu.
+## ChangeLog
+## ChangeLog Release 3.7.7
+## ChangeLog	- Factions Headers which are also Repuations should now work for all old and future expansions. (i.e. Horde Expedition, Alliance Vanguard, The Tillers, etc...)
+## ChangeLog	- Introduced basic localization checking in an effort to make the addon function on all locales even if it's not translated for those locales. 
+## ChangeLog
+## ChangeLog

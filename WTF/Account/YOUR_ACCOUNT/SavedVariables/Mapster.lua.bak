@@ -1,0 +1,34 @@
+
+MapsterDB = {
+	["namespaces"] = {
+		["GroupIcons"] = {
+		},
+		["Coords"] = {
+		},
+		["FogClear"] = {
+		},
+		["BattleMap"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Wullie - Aszune"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["point"] = "TOP",
+			["miniMap"] = true,
+			["scale"] = 1.169089198112488,
+			["mini"] = {
+				["y"] = -30.00607634996288,
+				["x"] = 42.77770234581953,
+				["scale"] = 1.137327671051025,
+				["disableMouse"] = false,
+			},
+			["modules"] = {
+				["Coords"] = false,
+			},
+			["y"] = -21.04515274870096,
+			["x"] = -108.7980520450583,
+		},
+	},
+}

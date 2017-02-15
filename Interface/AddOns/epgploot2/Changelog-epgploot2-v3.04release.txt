@@ -1,0 +1,44 @@
+------------------------------------------------------------------------
+r107 | adrinael | 2015-05-11 17:51:12 +0000 (Mon, 11 May 2015) | 1 line
+Changed paths:
+   A /tags/v3.04release (from /trunk:106)
+
+Tagging as v3.04release
+------------------------------------------------------------------------
+r106 | adrinael | 2015-05-11 17:50:04 +0000 (Mon, 11 May 2015) | 5 lines
+Changed paths:
+   M /trunk/core.lua
+   M /trunk/epgpcalculations.lua
+   M /trunk/epgploot2.toc
+
+Fix specialization detection
+Remove erroneous dependency to EPGPReserves
+Update TOC for 6.1.2 compatibility
+
+
+------------------------------------------------------------------------
+r104 | adrinael | 2015-05-08 04:59:27 +0000 (Fri, 08 May 2015) | 5 lines
+Changed paths:
+   M /trunk/core.lua
+   M /trunk/embeds.xml
+   M /trunk/epgploot2.toc
+   M /trunk/masterlooter.lua
+   M /trunk/raider.lua
+
+Fixed players not being reported as finished rolling.
+Split debug flag in three, so it is possible to see debug messages separately from other kinds of testing.
+Added AceComm to embeds.
+
+
+------------------------------------------------------------------------
+r102 | adrinael | 2015-05-06 14:44:48 +0000 (Wed, 06 May 2015) | 3 lines
+Changed paths:
+   M /trunk/core.lua
+   M /trunk/epgploot2.toc
+   M /trunk/masterlooter.lua
+   M /trunk/raider.lua
+
+Send full item links instead of item ids only to support randomized enchantments.
+
+
+------------------------------------------------------------------------

@@ -1,0 +1,17 @@
+
+Postal3DB = {
+	["global"] = {
+		["BlackBook"] = {
+			["alts"] = {
+				"Wullie|Aszune|Horde|85|PALADIN", -- [1]
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Wullie - Aszune"] = "Wullie - Aszune",
+	},
+	["profiles"] = {
+		["Wullie - Aszune"] = {
+		},
+	},
+}

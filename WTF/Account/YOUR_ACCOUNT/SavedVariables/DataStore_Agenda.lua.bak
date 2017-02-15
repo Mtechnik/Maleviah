@@ -1,0 +1,13 @@
+
+DataStore_AgendaDB = {
+	["profileKeys"] = {
+		["Stingyring - Draenor"] = "Stingyring - Draenor",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Draenor.Stingyring"] = {
+				["lastUpdate"] = 1394989266,
+			},
+		},
+	},
+}

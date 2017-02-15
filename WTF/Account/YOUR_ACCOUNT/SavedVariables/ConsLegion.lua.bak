@@ -1,0 +1,50 @@
+
+ConsLegionSavedVar = {
+	["Wulliee-Silvermoon"] = {
+		["Settings"] = {
+			["Textleft"] = 935.614827473958,
+			["Scale"] = 0.69,
+			["TextScale"] = 0.69489997625351,
+			["SkipCutScene"] = 1,
+			["Newsleft"] = 556.612365722656,
+			["Newsalpha"] = 1,
+			["Hide"] = 0,
+			["AutoChoice"] = 0,
+			["XPLock"] = 0,
+			["AutoHandin"] = 0,
+			["Textalpha"] = 1,
+			["Arrowy"] = -552.597473144531,
+			["XPScale"] = 0.69489997625351,
+			["NewsHide"] = 1,
+			["AutoPickup"] = 0,
+			["Newstop"] = -706.864013671875,
+			["XPalpha"] = 1,
+			["NewsScale"] = 0.69489997625351,
+			["XPHide"] = 1,
+			["Arrowx"] = 982.395568847656,
+			["XPleft"] = 530.851745605469,
+			["Lock"] = 0,
+			["AutoShare"] = 0,
+			["TextHide"] = 1,
+			["Texttop"] = -850.149958683894,
+			["TextLock"] = 0,
+			["alpha"] = 1,
+			["top"] = -366.862976074219,
+			["XPInvert"] = 0,
+			["NewsLock"] = 0,
+			["left"] = 381.445709228516,
+			["TextInvert"] = 1,
+			["XPtop"] = -783.613983154297,
+		},
+	},
+}
+ConsLegionSteps = {
+	["Wulliee-Silvermoon"] = {
+	},
+}
+CL_NewsEpics = {
+	["Nr"] = 0,
+}
+CL_Temp_Import = nil
+CL_AddonUpdate = {
+}

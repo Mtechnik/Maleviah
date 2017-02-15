@@ -1,0 +1,20 @@
+
+DataStoreDB = {
+	["profileKeys"] = {
+		["Stingyring - Draenor"] = "Stingyring - Draenor",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Draenor.Stingyring"] = {
+				["guildName"] = "Broken Faith",
+				["faction"] = "Horde",
+			},
+		},
+		["Guilds"] = {
+			["Default.Draenor.Broken Faith"] = {
+				["faction"] = "Horde",
+			},
+		},
+		["Version"] = 1,
+	},
+}

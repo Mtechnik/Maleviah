@@ -1,0 +1,51 @@
+
+AdiBagsDB = {
+	["namespaces"] = {
+		["FilterOverride"] = {
+			["profiles"] = {
+				["Default"] = {
+					["version"] = 1,
+				},
+			},
+		},
+		["ItemCategory"] = {
+		},
+		["NewItem"] = {
+		},
+		["AdiBags_TooltipInfo"] = {
+		},
+		["Equipment"] = {
+		},
+		["ItemSets"] = {
+		},
+		["CurrencyFrame"] = {
+			["profiles"] = {
+				["Jõck - Draenor"] = {
+					["shown"] = {
+						["Ironpaw Token"] = false,
+						["Darkmoon Prize Ticket"] = false,
+						["Mote of Darkness"] = false,
+						["Honor Points"] = false,
+						["Justice Points"] = false,
+						["Conquest Points"] = false,
+					},
+				},
+			},
+		},
+		["DataSource"] = {
+		},
+		["TidyBags"] = {
+		},
+		["Junk"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Jõck - Draenor"] = "Jõck - Draenor",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+		["Jõck - Draenor"] = {
+		},
+	},
+}

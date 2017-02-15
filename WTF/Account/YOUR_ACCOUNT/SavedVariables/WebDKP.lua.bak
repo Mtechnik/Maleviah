@@ -1,0 +1,15 @@
+
+WebDKP_Log = {
+}
+WebDKP_DkpTable = {
+}
+WebDKP_Tables = {
+}
+WebDKP_Loot = {
+}
+WebDKP_Alts = {
+}
+WebDKP_WebOptions = {
+	["CombineAlts"] = 0,
+	["ZeroSumEnabled"] = 0,
+}

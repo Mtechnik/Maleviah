@@ -1,0 +1,127 @@
+
+oRA3DB = {
+	["namespaces"] = {
+		["BattleRes"] = {
+		},
+		["Invite"] = {
+		},
+		["LibDualSpec-1.0"] = {
+		},
+		["ReadyCheck"] = {
+		},
+		["Difficulty"] = {
+		},
+		["Rings"] = {
+			["profiles"] = {
+				["Default"] = {
+					["showInRaid"] = false,
+					["soundFile"] = "Cheer",
+				},
+				["Wulliee"] = {
+					["scale"] = 0.9,
+					["showInRaid"] = false,
+					["spacing"] = 0,
+					["soundFile"] = "War Drums",
+				},
+			},
+		},
+		["Loot"] = {
+		},
+		["Promote"] = {
+		},
+		["Cooldowns"] = {
+			["profiles"] = {
+				["Default"] = {
+					["spells"] = {
+						["Default"] = {
+						},
+					},
+					["displays"] = {
+						["Default"] = {
+							["barColorBG"] = {
+								0, -- [1]
+								0, -- [2]
+								0, -- [3]
+								0.300000011920929, -- [4]
+							},
+							["barLabelOutline"] = "NONE",
+							["barHeight"] = 14,
+							["barLabelAlign"] = "LEFT",
+							["barLabelFont"] = "Friz Quadrata TT",
+							["showDisplay"] = false,
+							["barStatusAlpha"] = 0.2,
+							["lockDisplay"] = false,
+							["barTexture"] = "oRA3",
+							["barColor"] = {
+								0.25, -- [1]
+								0.33, -- [2]
+								0.68, -- [3]
+								1, -- [4]
+							},
+							["barScale"] = 1,
+							["barDurationColor"] = {
+								1, -- [1]
+								1, -- [2]
+								1, -- [3]
+								1, -- [4]
+							},
+							["barLabelClassColor"] = false,
+							["barLabelFontSize"] = 10,
+							["barLabelColor"] = {
+								1, -- [1]
+								1, -- [2]
+								1, -- [3]
+								1, -- [4]
+							},
+							["barShowStatus"] = false,
+							["barGrowUp"] = false,
+							["barDurationClassColor"] = false,
+							["barDurationFont"] = "Friz Quadrata TT",
+							["barFill"] = false,
+							["barShowUnit"] = true,
+							["barShowIcon"] = true,
+							["showOffCooldown"] = false,
+							["barShorthand"] = false,
+							["barStyle"] = "Default",
+							["type"] = "Bars",
+							["barClassColor"] = false,
+							["barShowDuration"] = true,
+							["barShowSpell"] = true,
+							["barGap"] = 0,
+							["barDurationFontSize"] = 10,
+							["groupSpells"] = false,
+							["barDurationOutline"] = "NONE",
+						},
+					},
+				},
+			},
+		},
+		["Tanks"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Wulliee - Draenor"] = "Wulliee",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+		["Wulliee"] = {
+			["lastSelectedList"] = 1,
+			["positions"] = {
+				["oRA3CooldownFrameRingsRings"] = {
+					["Height"] = 74.8750076293945,
+					["Width"] = 180.556793212891,
+					["PosY"] = 54.4626849072133,
+					["PosX"] = 912.557798857095,
+				},
+				["oRA3CooldownFrameBarsDefault"] = {
+					["Height"] = 147.999984741211,
+					["Width"] = 199.999908447266,
+					["PosY"] = 435.422611621973,
+					["PosX"] = 613.176702251767,
+				},
+			},
+			["lastSelectedPanel"] = "Checks",
+		},
+	},
+}

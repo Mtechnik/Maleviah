@@ -1,0 +1,23 @@
+
+DataStore_StatsDB = {
+	["profileKeys"] = {
+		["Wulliee - Aszune"] = "Wulliee - Aszune",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Aszune.Wulliee"] = {
+				["lastUpdate"] = 1415777617,
+				["Stats"] = {
+					["Ranged"] = "1-1|0|0|0|8.8723402023315",
+					["HealthMax"] = 6902,
+					["Melee"] = "180-181|1.9880000352859|314|0|8.8723402023315|0",
+					["MaxPower"] = "6|100",
+					["Defense"] = "337|1|3|10.365738868713|0|0",
+					["PVP"] = "0|0",
+					["Base"] = "314|158|203|62|75|337",
+					["Spell"] = "62|62|0|8.8723402023315|7|0",
+				},
+			},
+		},
+	},
+}

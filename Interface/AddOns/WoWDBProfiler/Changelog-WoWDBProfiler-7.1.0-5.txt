@@ -1,0 +1,8 @@
+2016-11-16  MMOSimca  <mmosimca@gmail.com>
+
+[f4acc4e77892] [7.1.0-5]
+* Constants.lua:
+
+Added bonus loot spell mappings for Calamir and Humongris. Guessed the remaining mapping for Ana-Mouz, Na'zak the Fiend, and the Soultakers based on the existing alphabetical pattern.
+
+

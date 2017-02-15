@@ -1,0 +1,10 @@
+
+EPGPLoot2DB = {
+	["profileKeys"] = {
+		["Wulliee - Silvermoon"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

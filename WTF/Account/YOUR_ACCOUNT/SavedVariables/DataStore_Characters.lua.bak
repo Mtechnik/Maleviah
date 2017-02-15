@@ -1,0 +1,33 @@
+
+DataStore_CharactersDB = {
+	["profileKeys"] = {
+		["Stingyring - Draenor"] = "Stingyring - Draenor",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Draenor.Stingyring"] = {
+				["XPMax"] = 93465000,
+				["played"] = 16254,
+				["guildRankName"] = "Officer Alt",
+				["isResting"] = 1,
+				["lastUpdate"] = 1394989765,
+				["class"] = "Druid",
+				["race"] = "Tauren",
+				["level"] = 90,
+				["XP"] = 0,
+				["RestXP"] = 0,
+				["money"] = 1295000,
+				["gender"] = 2,
+				["subZone"] = "Hall of the Crescent Moon",
+				["zone"] = "Shrine of Two Moons",
+				["guildRankIndex"] = 3,
+				["name"] = "Stingyring",
+				["faction"] = "Horde",
+				["englishRace"] = "Tauren",
+				["guildName"] = "Broken Faith",
+				["lastLogoutTimestamp"] = 1394989765,
+				["englishClass"] = "DRUID",
+			},
+		},
+	},
+}

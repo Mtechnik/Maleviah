@@ -1,0 +1,10 @@
+tag e07ddb54f6747d395a36ac45134c261d8e391f6b 7.1.0.3
+Author:	James D. Callahan III <jcallahan@curse.com>
+Date:	Tue Dec 13 06:23:04 2016 -0600
+
+commit 7dbe4257ee2eb35cc5efb59493441f8777f690e2
+Author: James D. Callahan III <jcallahan@curse.com>
+Date:   Tue Dec 13 06:22:48 2016 -0600
+
+    Remove the display of currency maximums for now, until I get around to the necessary revamps to add per-currency toggling for this display.
+

@@ -1,0 +1,739 @@
+
+KARaidTrackerDB = {
+	["Zones"] = {
+	},
+	["ItemOptions"] = {
+	},
+	["Options"] = {
+		["AutoSolo"] = 0,
+		["BossName"] = "Trash mob",
+		["EventLast"] = 17397.549,
+		["CurrentRaid"] = 1,
+		["LogRarity"] = 5,
+		["VersionFix"] = 37,
+		["ServerTime"] = 3563,
+		["AutoParty"] = 0,
+	},
+	["Bosses"] = {
+	},
+	["SortOptions"] = {
+	},
+	["Online"] = {
+		["Darkkight-Doomhammer"] = 1,
+		["Kimboslyce-Al'Akir"] = 1,
+		["Caecilianus-Twilight'sHammer"] = 1,
+		["Abet-Aggramar"] = 1,
+		["Sunturion-Arathor"] = 1,
+		["Santís-BurningBlade"] = 1,
+		["Thaiarn-Sunstrider"] = 1,
+		["Monkee-Arathor"] = 1,
+		["Tintins-ArgentDawn"] = 1,
+		["Shamslam-Aggramar"] = 1,
+		["Agraa-Twilight'sHammer"] = 1,
+		["Csikoszokni-Bloodscalp"] = 1,
+		["Nadiya"] = 1,
+		["Muhtig-Bloodhoof"] = 1,
+		["Pussiecat-Aggra(Português)"] = 1,
+		["Silverbear-Dunemaul"] = 1,
+		["Teedi-BurningLegion"] = 1,
+		["Aap-Sunstrider"] = 1,
+		["Chicub-Dunemaul"] = 1,
+		["Rapierre-Doomhammer"] = 1,
+		["Heroic-Dunemaul"] = 1,
+		["Bidos-Bloodhoof"] = 1,
+		["Hokemono-BurningLegion"] = 1,
+		["Trafo-Dunemaul"] = 1,
+		["Wulliee"] = 1,
+	},
+	["Log"] = {
+		{
+			["Players"] = {
+				["Shamslam-Aggramar"] = {
+					["race"] = "Orc",
+					["guild"] = "EVIL DEAD",
+					["sex"] = 2,
+					["class"] = "SHAMAN",
+					["level"] = 90,
+				},
+				["Kimboslyce-Al'Akir"] = {
+					["race"] = "Orc",
+					["guild"] = "Crimson",
+					["sex"] = 2,
+					["class"] = "WARRIOR",
+					["level"] = 90,
+				},
+				["Caecilianus-Twilight'sHammer"] = {
+					["race"] = "BloodElf",
+					["guild"] = "Mistborn",
+					["sex"] = 2,
+					["class"] = "DEATHKNIGHT",
+					["level"] = 90,
+				},
+				["Abet-Aggramar"] = {
+					["race"] = "BloodElf",
+					["guild"] = "Axis Mundi",
+					["sex"] = 3,
+					["class"] = "WARLOCK",
+					["level"] = 90,
+				},
+				["Thaiarn-Sunstrider"] = {
+					["race"] = "Goblin",
+					["guild"] = "Penetration",
+					["sex"] = 2,
+					["class"] = "MAGE",
+					["level"] = 90,
+				},
+				["Sunturion-Arathor"] = {
+					["race"] = "BloodElf",
+					["guild"] = "The Usual Suspects",
+					["sex"] = 2,
+					["class"] = "PALADIN",
+					["level"] = 90,
+				},
+				["Tintins-ArgentDawn"] = {
+					["race"] = "Pandaren",
+					["guild"] = "Blood and Tears",
+					["sex"] = 2,
+					["class"] = "SHAMAN",
+					["level"] = 90,
+				},
+				["Santís-BurningBlade"] = {
+					["race"] = "Tauren",
+					["guild"] = "Gods of War",
+					["sex"] = 2,
+					["class"] = "SHAMAN",
+					["level"] = 90,
+				},
+				["Agraa-Twilight'sHammer"] = {
+					["race"] = "Orc",
+					["guild"] = "uMaD",
+					["sex"] = 3,
+					["class"] = "SHAMAN",
+					["level"] = 90,
+				},
+				["Csikoszokni-Bloodscalp"] = {
+					["race"] = "Orc",
+					["guild"] = "Blood Fear",
+					["sex"] = 2,
+					["class"] = "HUNTER",
+					["level"] = 90,
+				},
+				["Morgengry-Aggramar"] = {
+					["race"] = "BloodElf",
+					["guild"] = "Phoenix",
+					["sex"] = 3,
+					["class"] = "PRIEST",
+					["level"] = 90,
+				},
+				["Nadiya"] = {
+					["race"] = "BloodElf",
+					["guild"] = "Mist",
+					["sex"] = 3,
+					["class"] = "PRIEST",
+					["level"] = 90,
+				},
+				["Muhtig-Bloodhoof"] = {
+					["race"] = "Tauren",
+					["guild"] = "Troll Patrol",
+					["sex"] = 2,
+					["class"] = "PALADIN",
+					["level"] = 90,
+				},
+				["Pussiecat-Aggra(Português)"] = {
+					["race"] = "BloodElf",
+					["guild"] = "Angër",
+					["sex"] = 3,
+					["class"] = "PALADIN",
+					["level"] = 90,
+				},
+				["Skealler-Twilight'sHammer"] = {
+					["race"] = "Tauren",
+					["guild"] = "uMaD",
+					["sex"] = 2,
+					["class"] = "PALADIN",
+					["level"] = 90,
+				},
+				["Silverbear-Dunemaul"] = {
+					["race"] = "Tauren",
+					["guild"] = "Returning",
+					["sex"] = 2,
+					["class"] = "DRUID",
+					["level"] = 90,
+				},
+				["Teedi-BurningLegion"] = {
+					["race"] = "Pandaren",
+					["guild"] = "Act of Rebelion",
+					["sex"] = 2,
+					["class"] = "MONK",
+					["level"] = 90,
+				},
+				["Monkee-Arathor"] = {
+					["race"] = "Pandaren",
+					["guild"] = "Omnislash",
+					["sex"] = 2,
+					["class"] = "MONK",
+					["level"] = 90,
+				},
+				["Tyrone-Dragonblight"] = {
+					["race"] = "Orc",
+					["guild"] = "Tivoli",
+					["sex"] = 2,
+					["class"] = "WARRIOR",
+					["level"] = 90,
+				},
+				["Aap-Sunstrider"] = {
+					["race"] = "Troll",
+					["guild"] = "Onyx",
+					["sex"] = 2,
+					["class"] = "HUNTER",
+					["level"] = 90,
+				},
+				["Chicub-Dunemaul"] = {
+					["race"] = "Pandaren",
+					["guild"] = "Returning",
+					["sex"] = 2,
+					["class"] = "MONK",
+					["level"] = 90,
+				},
+				["Congregantis-Dunemaul"] = {
+					["race"] = "Tauren",
+					["guild"] = "Vox Stellarum",
+					["sex"] = 2,
+					["class"] = "WARRIOR",
+					["level"] = 90,
+				},
+				["Hokemono-BurningLegion"] = {
+					["race"] = "BloodElf",
+					["guild"] = "Act of Rebelion",
+					["sex"] = 2,
+					["class"] = "PALADIN",
+					["level"] = 90,
+				},
+				["Rapierre-Doomhammer"] = {
+					["race"] = "Scourge",
+					["guild"] = "Noir",
+					["sex"] = 2,
+					["class"] = "PRIEST",
+					["level"] = 90,
+				},
+				["Heroic-Dunemaul"] = {
+					["race"] = "Scourge",
+					["guild"] = "Equilibrium",
+					["sex"] = 2,
+					["class"] = "MAGE",
+					["level"] = 90,
+				},
+				["Bidos-Bloodhoof"] = {
+					["race"] = "Scourge",
+					["guild"] = "Crew",
+					["sex"] = 2,
+					["class"] = "MONK",
+					["level"] = 90,
+				},
+				["Darkkight-Doomhammer"] = {
+					["race"] = "BloodElf",
+					["guild"] = "The Blood Raiders",
+					["sex"] = 2,
+					["class"] = "PALADIN",
+					["level"] = 90,
+				},
+				["Trafo-Dunemaul"] = {
+					["race"] = "Goblin",
+					["guild"] = "Returning",
+					["sex"] = 2,
+					["class"] = "SHAMAN",
+					["level"] = 90,
+				},
+				["Wulliee"] = {
+					["race"] = "BloodElf",
+					["guild"] = "The Tartan Army",
+					["sex"] = 2,
+					["class"] = "PALADIN",
+					["level"] = 90,
+				},
+			},
+			["zone"] = "Mogu'shan Vaults",
+			["key"] = 1357079984,
+			["idiff"] = 7,
+			["Leave"] = {
+				{
+					["time"] = 1357079996,
+					["player"] = "Skealler-Twilight'sHammer",
+				}, -- [1]
+				{
+					["time"] = 1357080038,
+					["player"] = "Congregantis-Dunemaul",
+				}, -- [2]
+				{
+					["time"] = 1357080843,
+					["player"] = "Morgengry-Aggramar",
+				}, -- [3]
+				{
+					["time"] = 1357081692,
+					["player"] = "Tyrone-Dragonblight",
+				}, -- [4]
+			},
+			["itype"] = "raid",
+			["Events"] = {
+				{
+					["itype"] = "raid",
+					["boss"] = "The Spirit Kings",
+					["time"] = 1357080806,
+					["zone"] = "Mogu'shan Vaults",
+					["id"] = 1,
+					["idiff"] = 7,
+					["attendees"] = {
+						"Hokemono-BurningLegion", -- [1]
+						"Teedi-BurningLegion", -- [2]
+						"Bidos-Bloodhoof", -- [3]
+						"Silverbear-Dunemaul", -- [4]
+						"Heroic-Dunemaul", -- [5]
+						"Chicub-Dunemaul", -- [6]
+						"Trafo-Dunemaul", -- [7]
+						"Monkee-Arathor", -- [8]
+						"Agraa-Twilight'sHammer", -- [9]
+						"Tintins-ArgentDawn", -- [10]
+						"Nadiya", -- [11]
+						"Rapierre-Doomhammer", -- [12]
+						"Pussiecat-Aggra(Português)", -- [13]
+						"Aap-Sunstrider", -- [14]
+						"Darkkight-Doomhammer", -- [15]
+						"Kimboslyce-Al'Akir", -- [16]
+						"Shamslam-Aggramar", -- [17]
+						"Tyrone-Dragonblight", -- [18]
+						"Morgengry-Aggramar", -- [19]
+						"Wulliee", -- [20]
+						"Csikoszokni-Bloodscalp", -- [21]
+						"Muhtig-Bloodhoof", -- [22]
+						"Thaiarn-Sunstrider", -- [23]
+						"Santís-BurningBlade", -- [24]
+						"Sunturion-Arathor", -- [25]
+					},
+				}, -- [1]
+				{
+					["itype"] = "raid",
+					["boss"] = "Elegon",
+					["time"] = 1357081650,
+					["zone"] = "Mogu'shan Vaults",
+					["id"] = 2,
+					["idiff"] = 7,
+					["attendees"] = {
+						"Hokemono-BurningLegion", -- [1]
+						"Teedi-BurningLegion", -- [2]
+						"Bidos-Bloodhoof", -- [3]
+						"Silverbear-Dunemaul", -- [4]
+						"Heroic-Dunemaul", -- [5]
+						"Chicub-Dunemaul", -- [6]
+						"Trafo-Dunemaul", -- [7]
+						"Monkee-Arathor", -- [8]
+						"Agraa-Twilight'sHammer", -- [9]
+						"Tintins-ArgentDawn", -- [10]
+						"Nadiya", -- [11]
+						"Rapierre-Doomhammer", -- [12]
+						"Pussiecat-Aggra(Português)", -- [13]
+						"Aap-Sunstrider", -- [14]
+						"Darkkight-Doomhammer", -- [15]
+						"Kimboslyce-Al'Akir", -- [16]
+						"Shamslam-Aggramar", -- [17]
+						"Tyrone-Dragonblight", -- [18]
+						"Abet-Aggramar", -- [19]
+						"Wulliee", -- [20]
+						"Csikoszokni-Bloodscalp", -- [21]
+						"Muhtig-Bloodhoof", -- [22]
+						"Thaiarn-Sunstrider", -- [23]
+						"Santís-BurningBlade", -- [24]
+						"Sunturion-Arathor", -- [25]
+					},
+				}, -- [2]
+			},
+			["Join"] = {
+				{
+					["time"] = 1357079984,
+					["player"] = "Nadiya",
+				}, -- [1]
+				{
+					["time"] = 1357079984,
+					["player"] = "Wulliee",
+				}, -- [2]
+				{
+					["time"] = 1357079984,
+					["player"] = "Bidos-Bloodhoof",
+				}, -- [3]
+				{
+					["time"] = 1357079984,
+					["player"] = "Silverbear-Dunemaul",
+				}, -- [4]
+				{
+					["time"] = 1357079984,
+					["player"] = "Heroic-Dunemaul",
+				}, -- [5]
+				{
+					["time"] = 1357079984,
+					["player"] = "Chicub-Dunemaul",
+				}, -- [6]
+				{
+					["time"] = 1357079984,
+					["player"] = "Darkkight-Doomhammer",
+				}, -- [7]
+				{
+					["time"] = 1357079984,
+					["player"] = "Morgengry-Aggramar",
+				}, -- [8]
+				{
+					["time"] = 1357079985,
+					["player"] = "Kimboslyce-Al'Akir",
+				}, -- [9]
+				{
+					["time"] = 1357079985,
+					["player"] = "Tyrone-Dragonblight",
+				}, -- [10]
+				{
+					["time"] = 1357079986,
+					["player"] = "Skealler-Twilight'sHammer",
+				}, -- [11]
+				{
+					["time"] = 1357079986,
+					["player"] = "Trafo-Dunemaul",
+				}, -- [12]
+				{
+					["time"] = 1357079986,
+					["player"] = "Tintins-ArgentDawn",
+				}, -- [13]
+				{
+					["time"] = 1357079986,
+					["player"] = "Congregantis-Dunemaul",
+				}, -- [14]
+				{
+					["time"] = 1357079987,
+					["player"] = "Hokemono-BurningLegion",
+				}, -- [15]
+				{
+					["time"] = 1357079987,
+					["player"] = "Teedi-BurningLegion",
+				}, -- [16]
+				{
+					["time"] = 1357079988,
+					["player"] = "Aap-Sunstrider",
+				}, -- [17]
+				{
+					["time"] = 1357079988,
+					["player"] = "Agraa-Twilight'sHammer",
+				}, -- [18]
+				{
+					["time"] = 1357079988,
+					["player"] = "Rapierre-Doomhammer",
+				}, -- [19]
+				{
+					["time"] = 1357079988,
+					["player"] = "Shamslam-Aggramar",
+				}, -- [20]
+				{
+					["time"] = 1357079990,
+					["player"] = "Pussiecat-Aggra(Português)",
+				}, -- [21]
+				{
+					["time"] = 1357080038,
+					["player"] = "Muhtig-Bloodhoof",
+				}, -- [22]
+				{
+					["time"] = 1357080039,
+					["player"] = "Monkee-Arathor",
+				}, -- [23]
+				{
+					["time"] = 1357080040,
+					["player"] = "Thaiarn-Sunstrider",
+				}, -- [24]
+				{
+					["time"] = 1357080044,
+					["player"] = "Csikoszokni-Bloodscalp",
+				}, -- [25]
+				{
+					["time"] = 1357080183,
+					["player"] = "Santís-BurningBlade",
+				}, -- [26]
+				{
+					["time"] = 1357080247,
+					["player"] = "Sunturion-Arathor",
+				}, -- [27]
+				{
+					["time"] = 1357080864,
+					["player"] = "Abet-Aggramar",
+				}, -- [28]
+				{
+					["time"] = 1357081716,
+					["player"] = "Caecilianus-Twilight'sHammer",
+				}, -- [29]
+			},
+			["Loot"] = {
+			},
+			["realm"] = "Draenor",
+		}, -- [1]
+		{
+			["Players"] = {
+				["Shamslam-Aggramar"] = {
+				},
+				["Kimboslyce-Al'Akir"] = {
+				},
+				["Abet-Aggramar"] = {
+				},
+				["Tintins-ArgentDawn"] = {
+				},
+				["Agraa-Twilight'sHammer"] = {
+				},
+				["Csikoszokni-Bloodscalp"] = {
+				},
+				["Hokemono-BurningLegion"] = {
+				},
+				["Nadiya"] = {
+				},
+				["Muhtig-Bloodhoof"] = {
+				},
+				["Monkee-Arathor"] = {
+				},
+				["Silverbear-Dunemaul"] = {
+				},
+				["Teedi-BurningLegion"] = {
+				},
+				["Wulliee"] = {
+				},
+				["Darkkight-Doomhammer"] = {
+				},
+				["Pussiecat-Aggra(Português)"] = {
+				},
+				["Chicub-Dunemaul"] = {
+				},
+				["Santís-BurningBlade"] = {
+				},
+				["Aap-Sunstrider"] = {
+				},
+				["Rapierre-Doomhammer"] = {
+				},
+				["Heroic-Dunemaul"] = {
+				},
+				["Bidos-Bloodhoof"] = {
+				},
+				["Thaiarn-Sunstrider"] = {
+				},
+				["Trafo-Dunemaul"] = {
+				},
+				["Sunturion-Arathor"] = {
+				},
+			},
+			["Loot"] = {
+			},
+			["key"] = 1357081701,
+			["End"] = 1357081701,
+			["Join"] = {
+				{
+					["time"] = 1357081701,
+					["player"] = "Shamslam-Aggramar",
+				}, -- [1]
+				{
+					["time"] = 1357081701,
+					["player"] = "Kimboslyce-Al'Akir",
+				}, -- [2]
+				{
+					["time"] = 1357081701,
+					["player"] = "Abet-Aggramar",
+				}, -- [3]
+				{
+					["time"] = 1357081701,
+					["player"] = "Tintins-ArgentDawn",
+				}, -- [4]
+				{
+					["time"] = 1357081701,
+					["player"] = "Agraa-Twilight'sHammer",
+				}, -- [5]
+				{
+					["time"] = 1357081701,
+					["player"] = "Csikoszokni-Bloodscalp",
+				}, -- [6]
+				{
+					["time"] = 1357081701,
+					["player"] = "Hokemono-BurningLegion",
+				}, -- [7]
+				{
+					["time"] = 1357081701,
+					["player"] = "Nadiya",
+				}, -- [8]
+				{
+					["time"] = 1357081701,
+					["player"] = "Muhtig-Bloodhoof",
+				}, -- [9]
+				{
+					["time"] = 1357081701,
+					["player"] = "Monkee-Arathor",
+				}, -- [10]
+				{
+					["time"] = 1357081701,
+					["player"] = "Silverbear-Dunemaul",
+				}, -- [11]
+				{
+					["time"] = 1357081701,
+					["player"] = "Teedi-BurningLegion",
+				}, -- [12]
+				{
+					["time"] = 1357081701,
+					["player"] = "Wulliee",
+				}, -- [13]
+				{
+					["time"] = 1357081701,
+					["player"] = "Darkkight-Doomhammer",
+				}, -- [14]
+				{
+					["time"] = 1357081701,
+					["player"] = "Pussiecat-Aggra(Português)",
+				}, -- [15]
+				{
+					["time"] = 1357081701,
+					["player"] = "Chicub-Dunemaul",
+				}, -- [16]
+				{
+					["time"] = 1357081701,
+					["player"] = "Santís-BurningBlade",
+				}, -- [17]
+				{
+					["time"] = 1357081701,
+					["player"] = "Aap-Sunstrider",
+				}, -- [18]
+				{
+					["time"] = 1357081701,
+					["player"] = "Rapierre-Doomhammer",
+				}, -- [19]
+				{
+					["time"] = 1357081701,
+					["player"] = "Heroic-Dunemaul",
+				}, -- [20]
+				{
+					["time"] = 1357081701,
+					["player"] = "Bidos-Bloodhoof",
+				}, -- [21]
+				{
+					["time"] = 1357081701,
+					["player"] = "Thaiarn-Sunstrider",
+				}, -- [22]
+				{
+					["time"] = 1357081701,
+					["player"] = "Trafo-Dunemaul",
+				}, -- [23]
+				{
+					["time"] = 1357081701,
+					["player"] = "Sunturion-Arathor",
+				}, -- [24]
+			},
+			["Events"] = {
+			},
+			["Leave"] = {
+				{
+					["time"] = 1357081701,
+					["player"] = "Shamslam-Aggramar",
+				}, -- [1]
+				{
+					["time"] = 1357081701,
+					["player"] = "Kimboslyce-Al'Akir",
+				}, -- [2]
+				{
+					["time"] = 1357081701,
+					["player"] = "Abet-Aggramar",
+				}, -- [3]
+				{
+					["time"] = 1357081701,
+					["player"] = "Tintins-ArgentDawn",
+				}, -- [4]
+				{
+					["time"] = 1357081701,
+					["player"] = "Agraa-Twilight'sHammer",
+				}, -- [5]
+				{
+					["time"] = 1357081701,
+					["player"] = "Csikoszokni-Bloodscalp",
+				}, -- [6]
+				{
+					["time"] = 1357081701,
+					["player"] = "Hokemono-BurningLegion",
+				}, -- [7]
+				{
+					["time"] = 1357081701,
+					["player"] = "Nadiya",
+				}, -- [8]
+				{
+					["time"] = 1357081701,
+					["player"] = "Muhtig-Bloodhoof",
+				}, -- [9]
+				{
+					["time"] = 1357081701,
+					["player"] = "Monkee-Arathor",
+				}, -- [10]
+				{
+					["time"] = 1357081701,
+					["player"] = "Silverbear-Dunemaul",
+				}, -- [11]
+				{
+					["time"] = 1357081701,
+					["player"] = "Teedi-BurningLegion",
+				}, -- [12]
+				{
+					["time"] = 1357081701,
+					["player"] = "Wulliee",
+				}, -- [13]
+				{
+					["time"] = 1357081701,
+					["player"] = "Darkkight-Doomhammer",
+				}, -- [14]
+				{
+					["time"] = 1357081701,
+					["player"] = "Pussiecat-Aggra(Português)",
+				}, -- [15]
+				{
+					["time"] = 1357081701,
+					["player"] = "Chicub-Dunemaul",
+				}, -- [16]
+				{
+					["time"] = 1357081701,
+					["player"] = "Santís-BurningBlade",
+				}, -- [17]
+				{
+					["time"] = 1357081701,
+					["player"] = "Aap-Sunstrider",
+				}, -- [18]
+				{
+					["time"] = 1357081701,
+					["player"] = "Rapierre-Doomhammer",
+				}, -- [19]
+				{
+					["time"] = 1357081701,
+					["player"] = "Heroic-Dunemaul",
+				}, -- [20]
+				{
+					["time"] = 1357081701,
+					["player"] = "Bidos-Bloodhoof",
+				}, -- [21]
+				{
+					["time"] = 1357081701,
+					["player"] = "Thaiarn-Sunstrider",
+				}, -- [22]
+				{
+					["time"] = 1357081701,
+					["player"] = "Trafo-Dunemaul",
+				}, -- [23]
+				{
+					["time"] = 1357081701,
+					["player"] = "Sunturion-Arathor",
+				}, -- [24]
+			},
+			["zone"] = "Mogu'shan Vaults",
+		}, -- [2]
+	},
+}
+RaidTrackerAceDB = {
+	["profileKeys"] = {
+		["Wulliee - Draenor"] = "Wulliee - Draenor",
+	},
+	["profiles"] = {
+		["Wulliee - Draenor"] = {
+			["minimap"] = {
+				["show"] = 0,
+			},
+		},
+	},
+}

@@ -1,0 +1,108 @@
+
+DataStore_CurrenciesDB = {
+	["profileKeys"] = {
+		["Wulliee - Draenor"] = "Wulliee - Draenor",
+	},
+	["global"] = {
+		["Reference"] = {
+			["Currencies"] = {
+				"Cataclysm|", -- [1]
+				"Illustrious Jewelcrafter's Token|Interface\\Icons\\inv_misc_token_argentdawn3", -- [2]
+				"Dungeon and Raid|", -- [3]
+				"Essence of Corrupted Deathwing|Interface\\Icons\\inv_elemental_primal_shadow", -- [4]
+				"Justice Points|Interface\\Icons\\pvecurrency-justice", -- [5]
+				"Mote of Darkness|Interface\\Icons\\spell_shadow_sealofkings", -- [6]
+				"Valor Points|Interface\\Icons\\pvecurrency-valor", -- [7]
+				"Miscellaneous|", -- [8]
+				"Champion's Seal|Interface\\Icons\\Ability_Paladin_ArtofWar", -- [9]
+				"Dalaran Jewelcrafter's Token|Interface\\Icons\\INV_Misc_Gem_Variety_01", -- [10]
+				"Darkmoon Prize Ticket|Interface\\Icons\\inv_misc_ticket_darkmoon_01", -- [11]
+				"Epicurean's Award|Interface\\Icons\\INV_Misc_Ribbon_01", -- [12]
+				"Ironpaw Token|Interface\\Icons\\inv_relics_idolofferocity", -- [13]
+				"Mark of the World Tree|Interface\\Icons\\inv_misc_markoftheworldtree", -- [14]
+				"Mists of Pandaria|", -- [15]
+				"Elder Charm of Good Fortune|Interface\\Icons\\inv_misc_coin_17", -- [16]
+				"Lesser Charm of Good Fortune|Interface\\Icons\\inv_misc_coin_18", -- [17]
+				"Mogu Rune of Fate|Interface\\Icons\\archaeology_5_0_mogucoin", -- [18]
+				"Timeless Coin|Interface\\Icons\\timelesscoin", -- [19]
+				"Warforged Seal|Interface\\Icons\\inv_arcane_orb", -- [20]
+				"Player vs. Player|", -- [21]
+				"Conquest Points|Interface\\Icons\\PVPCurrency-Conquest-Horde", -- [22]
+				"Honor Points|Interface\\Icons\\PVPCurrency-Honor-Horde", -- [23]
+				"Tol Barad Commendation|Interface\\Icons\\achievement_zone_tolbarad", -- [24]
+			},
+			["CurrencyTextRev"] = {
+				["Mark of the World Tree"] = 14,
+				["Elder Charm of Good Fortune"] = 16,
+				["Dungeon and Raid"] = 3,
+				["Dalaran Jewelcrafter's Token"] = 10,
+				["Valor Points"] = 7,
+				["Warforged Seal"] = 20,
+				["Mists of Pandaria"] = 15,
+				["Player vs. Player"] = 21,
+				["Mote of Darkness"] = 6,
+				["Tol Barad Commendation"] = 24,
+				["Timeless Coin"] = 19,
+				["Conquest Points"] = 22,
+				["Epicurean's Award"] = 12,
+				["Honor Points"] = 23,
+				["Mogu Rune of Fate"] = 18,
+				["Miscellaneous"] = 8,
+				["Essence of Corrupted Deathwing"] = 4,
+				["Lesser Charm of Good Fortune"] = 17,
+				["Justice Points"] = 5,
+				["Cataclysm"] = 1,
+				["Ironpaw Token"] = 13,
+				["Darkmoon Prize Ticket"] = 11,
+				["Champion's Seal"] = 9,
+				["Illustrious Jewelcrafter's Token"] = 2,
+			},
+		},
+		["Characters"] = {
+			["Default.Draenor.Wulliee"] = {
+				["Currencies"] = {
+					3, -- [1]
+					4, -- [2]
+					7, -- [3]
+					8, -- [4]
+					512010, -- [5]
+					780, -- [6]
+					21134, -- [7]
+					17, -- [8]
+					274, -- [9]
+					20, -- [10]
+					8214, -- [11]
+					152, -- [12]
+					2330, -- [13]
+					540, -- [14]
+					31, -- [15]
+					2336, -- [16]
+					1314, -- [17]
+					36, -- [18]
+					6205222, -- [19]
+					40, -- [20]
+					43, -- [21]
+					44, -- [22]
+					25774, -- [23]
+					18480, -- [24]
+				},
+				["Archeology"] = {
+					3, -- [1]
+					4, -- [2]
+					5, -- [3]
+					15, -- [4]
+					31, -- [5]
+					5, -- [6]
+					38, -- [7]
+					6, -- [8]
+					28, -- [9]
+					0, -- [10]
+					48, -- [11]
+					1, -- [12]
+					0, -- [13]
+				},
+				["lastUpdate"] = 1398968786,
+			},
+		},
+	},
+}

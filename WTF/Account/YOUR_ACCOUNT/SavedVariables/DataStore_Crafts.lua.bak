@@ -1,0 +1,19 @@
+
+DataStore_CraftsDB = {
+	["profileKeys"] = {
+		["Wulliee - Aszune"] = "Wulliee - Aszune",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Aszune.Wulliee"] = {
+				["Professions"] = {
+					["First Aid"] = {
+						["MaxRank"] = 300,
+						["Rank"] = 270,
+					},
+				},
+				["lastUpdate"] = 1415777616,
+			},
+		},
+	},
+}

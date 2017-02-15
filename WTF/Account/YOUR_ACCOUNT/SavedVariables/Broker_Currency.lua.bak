@@ -1,0 +1,332 @@
+
+Broker_CurrencyDB = {
+	["realm"] = {
+		["Draenor"] = {
+			["Wulliee"] = {
+				[416] = 4,
+				[515] = 64,
+				["spent"] = {
+					[16185] = {
+						["money"] = 0,
+					},
+					[16187] = {
+						["money"] = 0,
+					},
+					[16189] = {
+						["money"] = 0,
+					},
+					[16191] = {
+						["money"] = 0,
+					},
+					[16178] = {
+						["money"] = 0,
+					},
+					[16180] = {
+						["money"] = 0,
+					},
+					[16182] = {
+						["money"] = 0,
+					},
+					[16184] = {
+						["money"] = 0,
+					},
+					[16186] = {
+						["money"] = 0,
+					},
+					[16188] = {
+						["money"] = 0,
+					},
+					[16190] = {
+						["money"] = 0,
+					},
+					[16179] = {
+						["money"] = 0,
+					},
+					[16181] = {
+						["money"] = 0,
+					},
+					[16183] = {
+						["money"] = 0,
+					},
+				},
+				[361] = 0,
+				[789] = 0,
+				[738] = 10,
+				[614] = 6,
+				[81] = 1,
+				[752] = 0,
+				[754] = 0,
+				[384] = 3,
+				[385] = 6,
+				[390] = 0,
+				[391] = 144,
+				[392] = 201,
+				[393] = 5,
+				[394] = 15,
+				[395] = 4000,
+				[396] = 165,
+				[397] = 5,
+				[398] = 4,
+				[399] = 28,
+				[400] = 31,
+				[401] = 38,
+				[402] = 18,
+				[676] = 48,
+				[615] = 0,
+				["money"] = 820195859,
+				[21100] = 31,
+				[677] = 1,
+				["gained"] = {
+					[16185] = {
+						["money"] = 0,
+					},
+					[16187] = {
+						["money"] = 0,
+					},
+					[16189] = {
+						["money"] = 0,
+					},
+					[16191] = {
+						["money"] = 0,
+					},
+					[16178] = {
+						["money"] = 0,
+					},
+					[16180] = {
+						["money"] = 0,
+					},
+					[16182] = {
+						["money"] = 0,
+					},
+					[16184] = {
+						["money"] = 0,
+					},
+					[16186] = {
+						["money"] = 0,
+					},
+					[16188] = {
+						["money"] = 0,
+					},
+					[16190] = {
+						["money"] = 0,
+					},
+					[16179] = {
+						["money"] = 0,
+					},
+					[16181] = {
+						["money"] = 0,
+					},
+					[16183] = {
+						["money"] = 0,
+					},
+				},
+				[776] = 0,
+				[697] = 18,
+				[61] = 0,
+				[698] = 0,
+				[241] = 2,
+				[777] = 48478,
+			},
+		},
+	},
+	["realmInfo"] = {
+		["Draenor"] = {
+			["gained"] = {
+				[16185] = {
+					["money"] = 0,
+				},
+				[16187] = {
+					["money"] = 0,
+				},
+				[16189] = {
+					["money"] = 0,
+				},
+				[16191] = {
+					["money"] = 0,
+				},
+				[16178] = {
+					["money"] = 0,
+				},
+				[16180] = {
+					["money"] = 0,
+				},
+				[16182] = {
+					["money"] = 0,
+				},
+				[16184] = {
+					["money"] = 0,
+				},
+				[16186] = {
+					["money"] = 0,
+				},
+				[16188] = {
+					["money"] = 0,
+				},
+				[16190] = {
+					["money"] = 0,
+				},
+				[16179] = {
+					["money"] = 0,
+				},
+				[16181] = {
+					["money"] = 0,
+				},
+				[16183] = {
+					["money"] = 0,
+				},
+			},
+			["spent"] = {
+				[16185] = {
+					["money"] = 0,
+				},
+				[16187] = {
+					["money"] = 0,
+				},
+				[16189] = {
+					["money"] = 0,
+				},
+				[16191] = {
+					["money"] = 0,
+				},
+				[16178] = {
+					["money"] = 0,
+				},
+				[16180] = {
+					["money"] = 0,
+				},
+				[16182] = {
+					["money"] = 0,
+				},
+				[16184] = {
+					["money"] = 0,
+				},
+				[16186] = {
+					["money"] = 0,
+				},
+				[16188] = {
+					["money"] = 0,
+				},
+				[16190] = {
+					["money"] = 0,
+				},
+				[16179] = {
+					["money"] = 0,
+				},
+				[16181] = {
+					["money"] = 0,
+				},
+				[16183] = {
+					["money"] = 0,
+				},
+			},
+		},
+	},
+	["brokerIcons"] = {
+		[416] = "%d|TInterface\\Icons\\inv_misc_markoftheworldtree:%d:%d|t",
+		[515] = "%d|TInterface\\Icons\\inv_misc_ticket_darkmoon_01:%d:%d|t",
+		[361] = "%d|TInterface\\Icons\\inv_misc_token_argentdawn3:%d:%d|t",
+		[789] = "%d|TInterface\\Icons\\timelesscoin-bloody:%d:%d|t",
+		[738] = "%d|TInterface\\Icons\\inv_misc_coin_18:%d:%d|t",
+		[614] = "%d|TInterface\\Icons\\spell_shadow_sealofkings:%d:%d|t",
+		[81] = "%d|TInterface\\Icons\\INV_Misc_Ribbon_01:%d:%d|t",
+		[752] = "%d|TInterface\\Icons\\archaeology_5_0_mogucoin:%d:%d|t",
+		[754] = "%d|TInterface\\Icons\\inv_misc_archaeology_mantidstatue_01:%d:%d|t",
+		[384] = "%d|TInterface\\Icons\\trade_archaeology_dwarf_artifactfragment:%d:%d|t",
+		[385] = "%d|TInterface\\Icons\\trade_archaeology_troll_artifactfragment:%d:%d|t",
+		[390] = "%d|TInterface\\Icons\\PVPCurrency-Conquest-Horde:%d:%d|t",
+		[391] = "%d|TInterface\\Icons\\achievement_zone_tolbarad:%d:%d|t",
+		[392] = "%d|TInterface\\Icons\\PVPCurrency-Honor-Horde:%d:%d|t",
+		[393] = "%d|TInterface\\Icons\\trade_archaeology_fossil_fern:%d:%d|t",
+		[394] = "%d|TInterface\\Icons\\trade_archaeology_highborne_artifactfragment:%d:%d|t",
+		[395] = "%d|TInterface\\Icons\\pvecurrency-justice:%d:%d|t",
+		[396] = "%d|TInterface\\Icons\\pvecurrency-valor:%d:%d|t",
+		[397] = "%d|TInterface\\Icons\\trade_archaeology_orc_artifactfragment:%d:%d|t",
+		[398] = "%d|TInterface\\Icons\\trade_archaeology_draenei_artifactfragment:%d:%d|t",
+		[399] = "%d|TInterface\\Icons\\trade_archaeology_vrykul_artifactfragment:%d:%d|t",
+		[400] = "%d|TInterface\\Icons\\trade_archaeology_nerubian_artifactfragment:%d:%d|t",
+		[401] = "%d|TInterface\\Icons\\trade_archaeology_titan_fragment:%d:%d|t",
+		[402] = "%d|TInterface\\Icons\\inv_relics_idolofferocity:%d:%d|t",
+		[676] = "%d|TInterface\\Icons\\trade_archaeology_vrykul_artifactfragment:%d:%d|t",
+		[615] = "%d|TInterface\\Icons\\inv_elemental_primal_shadow:%d:%d|t",
+		[21100] = "%d|TInterface\\Icons\\INV_Misc_ElvenCoins:%d:%d|t",
+		[677] = "%d|TInterface\\Icons\\trade_archaeology_vrykul_artifactfragment:%d:%d|t",
+		[697] = "%d|TInterface\\Icons\\inv_misc_coin_17:%d:%d|t",
+		[776] = "%d|TInterface\\Icons\\inv_arcane_orb:%d:%d|t",
+		[61] = "%d|TInterface\\Icons\\INV_Misc_Gem_Variety_01:%d:%d|t",
+		[698] = "%d|TInterface\\Icons\\trade_archaeology_titan_fragment:%d:%d|t",
+		[241] = "%d|TInterface\\Icons\\Ability_Paladin_ArtofWar:%d:%d|t",
+		[777] = "%d|TInterface\\Icons\\timelesscoin:%d:%d|t",
+	},
+	["optionIcons"] = {
+		[416] = "Interface\\Icons\\inv_misc_markoftheworldtree",
+		[515] = "Interface\\Icons\\inv_misc_ticket_darkmoon_01",
+		[361] = "Interface\\Icons\\inv_misc_token_argentdawn3",
+		[789] = "Interface\\Icons\\timelesscoin-bloody",
+		[738] = "Interface\\Icons\\inv_misc_coin_18",
+		[614] = "Interface\\Icons\\spell_shadow_sealofkings",
+		[81] = "Interface\\Icons\\INV_Misc_Ribbon_01",
+		[752] = "Interface\\Icons\\archaeology_5_0_mogucoin",
+		[754] = "Interface\\Icons\\inv_misc_archaeology_mantidstatue_01",
+		[384] = "Interface\\Icons\\trade_archaeology_dwarf_artifactfragment",
+		[385] = "Interface\\Icons\\trade_archaeology_troll_artifactfragment",
+		[390] = "Interface\\Icons\\PVPCurrency-Conquest-Horde",
+		[391] = "Interface\\Icons\\achievement_zone_tolbarad",
+		[392] = "Interface\\Icons\\PVPCurrency-Honor-Horde",
+		[393] = "Interface\\Icons\\trade_archaeology_fossil_fern",
+		[394] = "Interface\\Icons\\trade_archaeology_highborne_artifactfragment",
+		[395] = "Interface\\Icons\\pvecurrency-justice",
+		[396] = "Interface\\Icons\\pvecurrency-valor",
+		[397] = "Interface\\Icons\\trade_archaeology_orc_artifactfragment",
+		[398] = "Interface\\Icons\\trade_archaeology_draenei_artifactfragment",
+		[399] = "Interface\\Icons\\trade_archaeology_vrykul_artifactfragment",
+		[400] = "Interface\\Icons\\trade_archaeology_nerubian_artifactfragment",
+		[401] = "Interface\\Icons\\trade_archaeology_titan_fragment",
+		[402] = "Interface\\Icons\\inv_relics_idolofferocity",
+		[676] = "Interface\\Icons\\trade_archaeology_vrykul_artifactfragment",
+		[615] = "Interface\\Icons\\inv_elemental_primal_shadow",
+		[21100] = "Interface\\Icons\\INV_Misc_ElvenCoins",
+		[677] = "Interface\\Icons\\trade_archaeology_vrykul_artifactfragment",
+		[697] = "Interface\\Icons\\inv_misc_coin_17",
+		[776] = "Interface\\Icons\\inv_arcane_orb",
+		[61] = "Interface\\Icons\\INV_Misc_Gem_Variety_01",
+		[698] = "Interface\\Icons\\trade_archaeology_titan_fragment",
+		[241] = "Interface\\Icons\\Ability_Paladin_ArtofWar",
+		[777] = "Interface\\Icons\\timelesscoin",
+	},
+	["currencyNames"] = {
+		[416] = "Mark of the World Tree",
+		[515] = "Darkmoon Prize Ticket",
+		[361] = "Illustrious Jewelcrafter's Token",
+		[789] = "Bloody Coin",
+		[738] = "Lesser Charm of Good Fortune",
+		[614] = "Mote of Darkness",
+		[81] = "Epicurean's Award",
+		[752] = "Mogu Rune of Fate",
+		[754] = "Mantid Archaeology Fragment",
+		[384] = "Dwarf Archaeology Fragment",
+		[385] = "Troll Archaeology Fragment",
+		[390] = "Conquest Points",
+		[391] = "Tol Barad Commendation",
+		[392] = "Honor Points",
+		[393] = "Fossil Archaeology Fragment",
+		[394] = "Night Elf Archaeology Fragment",
+		[395] = "Justice Points",
+		[396] = "Valor Points",
+		[397] = "Orc Archaeology Fragment",
+		[398] = "Draenei Archaeology Fragment",
+		[399] = "Vrykul Archaeology Fragment",
+		[400] = "Nerubian Archaeology Fragment",
+		[401] = "Tol'vir Archaeology Fragment",
+		[402] = "Ironpaw Token",
+		[676] = "Pandaren Archaeology Fragment",
+		[615] = "Essence of Corrupted Deathwing",
+		[21100] = "Coin of Ancestry",
+		[677] = "Mogu Archaeology Fragment",
+		[697] = "Elder Charm of Good Fortune",
+		[776] = "Warforged Seal",
+		[61] = "Dalaran Jewelcrafter's Token",
+		[698] = "Zen Jewelcrafter's Token",
+		[241] = "Champion's Seal",
+		[777] = "Timeless Coin",
+	},
+}

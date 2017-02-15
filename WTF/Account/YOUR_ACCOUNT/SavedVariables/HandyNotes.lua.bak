@@ -1,0 +1,19 @@
+
+HandyNotesDB = {
+	["profileKeys"] = {
+		["Wulliee - Silvermoon"] = "Wulliee - Silvermoon",
+	},
+	["profiles"] = {
+		["Wulliee - Silvermoon"] = {
+		},
+	},
+}
+HandyNotes_HandyNotesDB = {
+	["profileKeys"] = {
+		["Wulliee - Silvermoon"] = "Wulliee - Silvermoon",
+	},
+	["profiles"] = {
+		["Wulliee - Silvermoon"] = {
+		},
+	},
+}

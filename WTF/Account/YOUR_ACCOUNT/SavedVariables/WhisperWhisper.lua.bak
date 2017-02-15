@@ -1,0 +1,15 @@
+
+Broker_WhisperWhisperDB = {
+	["profileKeys"] = {
+		["Wullie - Aszune"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["showFrame"] = false,
+			["frameOpts"] = {
+				["offsetx"] = -200.5724334730644,
+				["offsety"] = 367.3748848273404,
+			},
+		},
+	},
+}

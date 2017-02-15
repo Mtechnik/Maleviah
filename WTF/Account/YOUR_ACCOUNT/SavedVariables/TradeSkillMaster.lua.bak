@@ -1,0 +1,11 @@
+
+TradeSkillMasterDB = {
+	["profileKeys"] = {
+		["Jõck - Aszune"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["infoMessage"] = 10,
+		},
+	},
+}

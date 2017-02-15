@@ -1,0 +1,19 @@
+tag v2.8.2
+0bc1005595775561feb9957f119f237d41855c3b
+Ethan Centaurai <ethancentaurai@outlook.com>
+2016-10-30 21:45:39 +0000
+
+Tagging as v2.8.2.
+
+
+--------------------
+
+Ethan Centaurai:
+	- TrackingDots: Fixed the Tracked Resource blip for all styles.
+	- TrackingDots: Increased the size of Ancient Mana nodes.
+	- TrackingDots: Replaced the Big Resources blip map with Tonyleila's version from WoWinterface.
+	- Compass: Module disabled until I can find a replacement for the broken GetPlayerFacing() API.
+	- Coordinates: Fixed an error caused by GetPlayerMapPosition() returning nil in dungeons and raids.
+	- Bump Interface number to 70100.
+	- TrackingDots: Updated blip map previews in the config window.
+	- TrackingDots: Updated all blip maps for Patch 7.1.

@@ -1,0 +1,17 @@
+## Title: Auc:Util:AutoMagic
+## Notes: Automates some repetitive tasks, such as auto-selling and bulk mailing.
+##
+## Interface: 70100
+## Dependancies: Auc-Advanced
+## OptionalDependencies: Auc-Util-Appraiser, Enchantrix, Auc-Util-ItemSuggest, LibDataBroker
+##
+## Version: 7.3a.5701 (TasmanianThylacine)
+## Revision: $Id: Auc-Util-AutoMagic.toc 5681 2016-10-27 11:39:11Z brykrys $
+## Author: Norganna's AddOns
+## X-Part-Of: Auctioneer
+## X-Category: Auction House
+## X-Max-Interface: 70100
+## X-URL: http://auctioneeraddon.com/
+## X-Feedback: http://forums.norganna.org
+##
+Embed.xml

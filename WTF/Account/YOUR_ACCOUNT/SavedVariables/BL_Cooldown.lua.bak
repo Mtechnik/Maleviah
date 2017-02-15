@@ -1,0 +1,12 @@
+
+BLCDDB = {
+	["profileKeys"] = {
+		["Wulliee - Draenor"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["clickannounce"] = true,
+			["castannounce"] = true,
+		},
+	},
+}

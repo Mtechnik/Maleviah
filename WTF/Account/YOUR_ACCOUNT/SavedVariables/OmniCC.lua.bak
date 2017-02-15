@@ -1,0 +1,18 @@
+
+OmniCC4Config = {
+	["version"] = "5.0.1",
+	["groups"] = {
+	},
+	["groupSettings"] = {
+		["base"] = {
+			["styles"] = {
+				["hours"] = {
+					["scale"] = 0.699999988079071,
+				},
+			},
+			["fontSize"] = 12,
+			["fontOutline"] = "NONE",
+			["anchor"] = "BOTTOM",
+		},
+	},
+}

@@ -1,0 +1,14 @@
+------------------------------------------------------------------------
+r307 | Zensunim | 2017-02-02 02:16:51 -0600 (Thu, 02 Feb 2017) | 3 lines
+Changed paths:
+   M /trunk/GTFO.lua
+   M /trunk/GTFO.toc
+   M /trunk/GTFO_Fail_LGN.lua
+   M /trunk/GTFO_Spells_LGN.lua
+   M /trunk/ReadMe.txt
+
+4.42.5
+* Added and fixed Legion spells for Nighthold
+* Added Legion spells for Black Rook Hold
+------------------------------------------------------------------------
+

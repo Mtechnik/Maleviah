@@ -1,0 +1,110 @@
+
+TriviaBot_QuestionsQM = {
+	{
+		["Categories"] = {
+			"General", -- [1]
+		},
+		["Description"] = "General",
+		["Author"] = "Wullie",
+		["Title"] = "Wullie's Quiz",
+		["Category"] = {
+			1, -- [1]
+			1, -- [2]
+			1, -- [3]
+			1, -- [4]
+			1, -- [5]
+			1, -- [6]
+			1, -- [7]
+			1, -- [8]
+			1, -- [9]
+			1, -- [10]
+		},
+		["Question"] = {
+			"Who performs the track J'adore Hardcore?", -- [1]
+			"Name 1 British F1 driver?", -- [2]
+			"Who is the Ranged DPS Officer of Broken Faith?", -- [3]
+			"What is the name of the cartoon that made a warcraft episode?", -- [4]
+			"What is the name of the lead guitarist of AC/DC?", -- [5]
+			"Which sign of the zodiac would you be if your birthday was on 25th November?", -- [6]
+			"Which fruit gave its name to a desktop computer in 1984?", -- [7]
+			"Where would you find the Sea of Tranquility?", -- [8]
+			"Which word goes before vest, beans and quartet?", -- [9]
+			"Name the 7th planet from the sun.", -- [10]
+		},
+		["Points"] = {
+			1, -- [1]
+			1, -- [2]
+			1, -- [3]
+			1, -- [4]
+			1, -- [5]
+			1, -- [6]
+			1, -- [7]
+			1, -- [8]
+			1, -- [9]
+			1, -- [10]
+		},
+		["Hints"] = {
+			{
+				"bike", -- [1]
+			}, -- [1]
+			{
+			}, -- [2]
+			{
+			}, -- [3]
+			{
+			}, -- [4]
+			{
+			}, -- [5]
+			{
+			}, -- [6]
+			{
+			}, -- [7]
+			{
+			}, -- [8]
+			{
+			}, -- [9]
+			{
+			}, -- [10]
+		},
+		["Answers"] = {
+			{
+				"Scooter", -- [1]
+				"scooter", -- [2]
+			}, -- [1]
+			{
+				"button", -- [1]
+				"jenson button", -- [2]
+				"hamilton", -- [3]
+				"lewis hamilton", -- [4]
+			}, -- [2]
+			{
+				"mitzee", -- [1]
+				"neo", -- [2]
+			}, -- [3]
+			{
+				"south park", -- [1]
+			}, -- [4]
+			{
+				"angus young", -- [1]
+				"angus", -- [2]
+			}, -- [5]
+			{
+				"sagittarius", -- [1]
+			}, -- [6]
+			{
+				"apple", -- [1]
+			}, -- [7]
+			{
+				"The moon", -- [1]
+				"moon", -- [2]
+			}, -- [8]
+			{
+				"string", -- [1]
+			}, -- [9]
+			{
+				"Uranus", -- [1]
+				"uranus", -- [2]
+			}, -- [10]
+		},
+	}, -- [1]
+}

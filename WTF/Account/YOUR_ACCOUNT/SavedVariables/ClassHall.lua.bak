@@ -1,0 +1,434 @@
+
+ClassHallDB = {
+	["char"] = {
+		["Wulliee - Silvermoon"] = {
+			["followers"] = {
+				{
+					["displayHeight"] = 0.5,
+					["followerTypeID"] = 4,
+					["iLevel"] = 760,
+					["scale"] = 0.699999988079071,
+					["classAtlas"] = "GarrMission_ClassIcon-Paladin-Protection",
+					["isTroop"] = false,
+					["displayIDs"] = {
+						{
+							["followerPageScale"] = 1,
+							["showWeapon"] = true,
+							["id"] = 66765,
+						}, -- [1]
+					},
+					["displayScale"] = 1,
+					["status"] = "On Mission",
+					["level"] = 102,
+					["quality"] = 1,
+					["portraitIconID"] = 1396677,
+					["isFavorite"] = false,
+					["slotSoundKitID"] = 62926,
+					["xp"] = 311,
+					["className"] = "Protection Paladin",
+					["classSpec"] = 122,
+					["isMaxLevel"] = false,
+					["name"] = "Lord Maxwell Tyrosus",
+					["followerID"] = "0x0000000002B694C8",
+					["height"] = 1,
+					["levelXP"] = 600,
+					["isCollected"] = true,
+					["garrFollowerID"] = 480,
+				}, -- [1]
+				{
+					["displayHeight"] = 0.5,
+					["followerTypeID"] = 4,
+					["zoneSupportSpellID"] = 222619,
+					["iLevel"] = 760,
+					["scale"] = 0.699999988079071,
+					["classAtlas"] = "GarrMission_ClassIcon-Paladin-Retribution",
+					["isTroop"] = false,
+					["displayIDs"] = {
+						{
+							["followerPageScale"] = 1,
+							["showWeapon"] = true,
+							["id"] = 61971,
+						}, -- [1]
+					},
+					["displayScale"] = 1,
+					["status"] = "On Mission",
+					["level"] = 102,
+					["quality"] = 1,
+					["portraitIconID"] = 1341789,
+					["isFavorite"] = false,
+					["slotSoundKitID"] = 62888,
+					["xp"] = 450,
+					["className"] = "Retribution Paladin",
+					["classSpec"] = 123,
+					["isMaxLevel"] = false,
+					["name"] = "Lady Liadrin",
+					["followerID"] = "0x0000000002B695F1",
+					["height"] = 1.20000004768372,
+					["levelXP"] = 600,
+					["isCollected"] = true,
+					["garrFollowerID"] = 478,
+				}, -- [2]
+				{
+					["displayHeight"] = 0.5,
+					["followerTypeID"] = 4,
+					["iLevel"] = 760,
+					["scale"] = 0.699999988079071,
+					["classAtlas"] = "GarrMission_ClassIcon-Paladin-Holy",
+					["isTroop"] = false,
+					["displayIDs"] = {
+						{
+							["followerPageScale"] = 1,
+							["showWeapon"] = true,
+							["id"] = 23035,
+						}, -- [1]
+					},
+					["displayScale"] = 1,
+					["status"] = "On Mission",
+					["level"] = 103,
+					["quality"] = 1,
+					["portraitIconID"] = 1396649,
+					["isFavorite"] = false,
+					["slotSoundKitID"] = 68595,
+					["xp"] = 100,
+					["className"] = "Holy Paladin",
+					["classSpec"] = 121,
+					["isMaxLevel"] = false,
+					["name"] = "Justicar Julia Celeste",
+					["followerID"] = "0x0000000002CAB50B",
+					["height"] = 1,
+					["levelXP"] = 800,
+					["isCollected"] = true,
+					["garrFollowerID"] = 755,
+				}, -- [3]
+				{
+					["displayHeight"] = 0.5,
+					["followerTypeID"] = 4,
+					["zoneSupportSpellID"] = 221625,
+					["iLevel"] = 760,
+					["scale"] = 0.699999988079071,
+					["classAtlas"] = "GarrMission_ClassIcon-Paladin-Protection",
+					["isTroop"] = false,
+					["displayIDs"] = {
+						{
+							["followerPageScale"] = 1,
+							["showWeapon"] = true,
+							["id"] = 63504,
+						}, -- [1]
+					},
+					["displayScale"] = 1,
+					["status"] = "On Mission",
+					["level"] = 103,
+					["quality"] = 1,
+					["portraitIconID"] = 1341796,
+					["isFavorite"] = false,
+					["slotSoundKitID"] = 63023,
+					["xp"] = 500,
+					["className"] = "Protection Paladin",
+					["classSpec"] = 122,
+					["isMaxLevel"] = false,
+					["name"] = "Vindicator Boros",
+					["followerID"] = "0x0000000002CAB526",
+					["height"] = 1.20000004768372,
+					["levelXP"] = 800,
+					["isCollected"] = true,
+					["garrFollowerID"] = 479,
+				}, -- [4]
+				{
+					["displayHeight"] = 0.600000023841858,
+					["followerTypeID"] = 4,
+					["iLevel"] = 700,
+					["scale"] = 0.600000023841858,
+					["classAtlas"] = "GarrMission_ClassIcon-Paladin",
+					["isTroop"] = true,
+					["displayIDs"] = {
+						{
+							["followerPageScale"] = 1,
+							["showWeapon"] = true,
+							["id"] = 72208,
+						}, -- [1]
+						{
+							["followerPageScale"] = 1,
+							["showWeapon"] = true,
+							["id"] = 72215,
+						}, -- [2]
+						{
+							["followerPageScale"] = 1.29999995231628,
+							["showWeapon"] = true,
+							["id"] = 72213,
+						}, -- [3]
+					},
+					["displayScale"] = 0.899999976158142,
+					["status"] = "On Mission",
+					["level"] = 100,
+					["quality"] = 1,
+					["portraitIconID"] = 1489391,
+					["isCollected"] = true,
+					["isFavorite"] = false,
+					["maxDurability"] = 3,
+					["durability"] = 3,
+					["slotSoundKitID"] = 68947,
+					["xp"] = 0,
+					["className"] = "Silver Hand Officers",
+					["classSpec"] = 88,
+					["isMaxLevel"] = false,
+					["name"] = "Silver Hand Knights",
+					["followerID"] = "0x0000000002D32DFE",
+					["height"] = 1.10000002384186,
+					["levelXP"] = 200,
+					["flavorText"] = "Knights of the Silver Hand devote themselves as diligently to combat training as much as they do to their daily prayers, honing their battle skills in order to best defend the weak and the innocent.",
+					["garrFollowerID"] = 847,
+				}, -- [5]
+				{
+					["displayHeight"] = 0.600000023841858,
+					["followerTypeID"] = 4,
+					["iLevel"] = 700,
+					["scale"] = 0.600000023841858,
+					["classAtlas"] = "GarrMission_ClassIcon-Paladin",
+					["isTroop"] = true,
+					["displayIDs"] = {
+						{
+							["followerPageScale"] = 1.20000004768372,
+							["showWeapon"] = true,
+							["id"] = 72214,
+						}, -- [1]
+						{
+							["followerPageScale"] = 1,
+							["showWeapon"] = true,
+							["id"] = 72210,
+						}, -- [2]
+						{
+							["followerPageScale"] = 1.29999995231628,
+							["showWeapon"] = true,
+							["id"] = 72213,
+						}, -- [3]
+					},
+					["displayScale"] = 0.899999976158142,
+					["status"] = "On Mission",
+					["level"] = 100,
+					["quality"] = 1,
+					["portraitIconID"] = 1489394,
+					["isCollected"] = true,
+					["isFavorite"] = false,
+					["maxDurability"] = 3,
+					["durability"] = 3,
+					["slotSoundKitID"] = 68947,
+					["xp"] = 0,
+					["className"] = "Silver Hand Officers",
+					["classSpec"] = 88,
+					["isMaxLevel"] = false,
+					["name"] = "Silver Hand Knights",
+					["followerID"] = "0x0000000002D32E00",
+					["height"] = 1.29999995231628,
+					["levelXP"] = 200,
+					["flavorText"] = "Knights of the Silver Hand devote themselves as diligently to combat training as much as they do to their daily prayers, honing their battle skills in order to best defend the weak and the innocent.",
+					["garrFollowerID"] = 848,
+				}, -- [6]
+				{
+					["displayHeight"] = 0.600000023841858,
+					["followerTypeID"] = 4,
+					["iLevel"] = 700,
+					["scale"] = 0.600000023841858,
+					["classAtlas"] = "GarrMission_ClassIcon-Paladin",
+					["isTroop"] = true,
+					["displayIDs"] = {
+						{
+							["followerPageScale"] = 1,
+							["showWeapon"] = true,
+							["id"] = 72671,
+						}, -- [1]
+						{
+							["followerPageScale"] = 1,
+							["showWeapon"] = true,
+							["id"] = 72222,
+						}, -- [2]
+						{
+							["followerPageScale"] = 1,
+							["showWeapon"] = true,
+							["id"] = 72219,
+						}, -- [3]
+						{
+							["followerPageScale"] = 1,
+							["showWeapon"] = true,
+							["id"] = 72671,
+						}, -- [4]
+					},
+					["displayScale"] = 0.899999976158142,
+					["level"] = 100,
+					["quality"] = 1,
+					["portraitIconID"] = 1489433,
+					["isCollected"] = true,
+					["isFavorite"] = false,
+					["maxDurability"] = 2,
+					["durability"] = 2,
+					["slotSoundKitID"] = 68949,
+					["xp"] = 0,
+					["className"] = "Silver Hand Recruits",
+					["classSpec"] = 87,
+					["isMaxLevel"] = false,
+					["name"] = "Squad of Squires",
+					["followerID"] = "0x0000000002D60479",
+					["height"] = 1.29999995231628,
+					["levelXP"] = 200,
+					["flavorText"] = "Though many squires of the Silver Hand aspire to one day become knights themselves, many see it as an honor to serve someone who has given themselves fully to the Light.",
+					["garrFollowerID"] = 842,
+				}, -- [7]
+				{
+					["displayHeight"] = 0.600000023841858,
+					["followerTypeID"] = 4,
+					["iLevel"] = 700,
+					["scale"] = 0.600000023841858,
+					["classAtlas"] = "GarrMission_ClassIcon-Paladin",
+					["isTroop"] = true,
+					["displayIDs"] = {
+						{
+							["followerPageScale"] = 1,
+							["showWeapon"] = true,
+							["id"] = 71008,
+						}, -- [1]
+						{
+							["followerPageScale"] = 1,
+							["showWeapon"] = true,
+							["id"] = 72221,
+						}, -- [2]
+						{
+							["followerPageScale"] = 1,
+							["showWeapon"] = true,
+							["id"] = 72220,
+						}, -- [3]
+						{
+							["followerPageScale"] = 1,
+							["showWeapon"] = true,
+							["id"] = 72671,
+						}, -- [4]
+					},
+					["displayScale"] = 0.899999976158142,
+					["level"] = 100,
+					["quality"] = 1,
+					["portraitIconID"] = 1396701,
+					["isCollected"] = true,
+					["isFavorite"] = false,
+					["maxDurability"] = 2,
+					["durability"] = 2,
+					["slotSoundKitID"] = 68949,
+					["xp"] = 0,
+					["className"] = "Silver Hand Recruits",
+					["classSpec"] = 87,
+					["isMaxLevel"] = false,
+					["name"] = "Squad of Squires",
+					["followerID"] = "0x0000000002D60509",
+					["height"] = 1.10000002384186,
+					["levelXP"] = 200,
+					["flavorText"] = "Though many squires of the Silver Hand aspire to one day become knights themselves, many see it as an honor to serve someone who has given themselves fully to the Light.",
+					["garrFollowerID"] = 674,
+				}, -- [8]
+				{
+					["displayHeight"] = 0.5,
+					["followerTypeID"] = 4,
+					["iLevel"] = 760,
+					["scale"] = 0.600000023841858,
+					["classAtlas"] = "GarrMission_ClassIcon-Paladin-Holy",
+					["displayIDs"] = {
+						{
+							["id"] = 71930,
+							["followerPageScale"] = 1,
+						}, -- [1]
+					},
+					["displayScale"] = 1,
+					["level"] = 109,
+					["quality"] = 1,
+					["portraitIconID"] = 1452589,
+					["isFavorite"] = false,
+					["isMaxLevel"] = false,
+					["name"] = "Delas Moonfang",
+					["followerID"] = 756,
+					["height"] = 1.39999997615814,
+					["className"] = "Holy Paladin",
+					["classSpec"] = 121,
+				}, -- [9]
+				{
+					["displayHeight"] = 0.5,
+					["followerTypeID"] = 4,
+					["iLevel"] = 760,
+					["scale"] = 0.699999988079071,
+					["classAtlas"] = "GarrMission_ClassIcon-Paladin-Holy",
+					["displayIDs"] = {
+						{
+							["id"] = 62305,
+							["followerPageScale"] = 1,
+						}, -- [1]
+					},
+					["displayScale"] = 1,
+					["level"] = 109,
+					["quality"] = 1,
+					["portraitIconID"] = 1341791,
+					["isFavorite"] = false,
+					["isMaxLevel"] = false,
+					["name"] = "Aponi Brightmane",
+					["followerID"] = 757,
+					["height"] = 1.04999995231628,
+					["className"] = "Holy Paladin",
+					["classSpec"] = 121,
+				}, -- [10]
+				{
+					["displayHeight"] = 0.5,
+					["followerTypeID"] = 4,
+					["iLevel"] = 760,
+					["scale"] = 0.699999988079071,
+					["classAtlas"] = "GarrMission_ClassIcon-Paladin-Retribution",
+					["displayIDs"] = {
+						{
+							["id"] = 16624,
+							["followerPageScale"] = 1,
+						}, -- [1]
+					},
+					["displayScale"] = 1,
+					["level"] = 110,
+					["quality"] = 1,
+					["portraitIconID"] = 1396646,
+					["isFavorite"] = false,
+					["isMaxLevel"] = true,
+					["name"] = "Arator the Redeemer",
+					["followerID"] = 758,
+					["height"] = 1,
+					["className"] = "Retribution Paladin",
+					["classSpec"] = 123,
+				}, -- [11]
+				{
+					["displayHeight"] = 0.5,
+					["followerTypeID"] = 4,
+					["iLevel"] = 760,
+					["scale"] = 0.699999988079071,
+					["classAtlas"] = "GarrMission_ClassIcon-Paladin-Protection",
+					["displayIDs"] = {
+						{
+							["id"] = 71813,
+							["followerPageScale"] = 1,
+						}, -- [1]
+					},
+					["displayScale"] = 1,
+					["level"] = 110,
+					["quality"] = 1,
+					["portraitIconID"] = 1452588,
+					["isFavorite"] = false,
+					["isMaxLevel"] = true,
+					["name"] = "Lothraxion",
+					["followerID"] = 759,
+					["height"] = 1,
+					["className"] = "Protection Paladin",
+					["classSpec"] = 122,
+				}, -- [12]
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Wulliee - Silvermoon"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["icon"] = {
+				["minimapPos"] = 321.596882300543,
+				["hide"] = false,
+			},
+		},
+	},
+}

@@ -1,0 +1,8 @@
+## Interface: 70100
+## Title: CleanUI Masque Skin
+## Author: Nirriti
+## Version: 7.2
+## Notes: Masque Skin for the CleanUI look and feel
+## Dependencies: Masque
+
+Masque_CleanUI.lua

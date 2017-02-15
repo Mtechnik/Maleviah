@@ -1,0 +1,13 @@
+
+DataStore_PetsDB = {
+	["profileKeys"] = {
+		["Wulliee - Aszune"] = "Wulliee - Aszune",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Aszune.Wulliee"] = {
+				["lastUpdate"] = 1415777617,
+			},
+		},
+	},
+}

@@ -1,0 +1,31 @@
+
+TomTomDB = {
+	["profileKeys"] = {
+		["Wullie - Aszune"] = "Wullie",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["persistence"] = {
+				["savewaypoints"] = false,
+			},
+			["block"] = {
+				["enable"] = false,
+			},
+		},
+		["Wullie"] = {
+			["block"] = {
+				["enable"] = false,
+			},
+		},
+	},
+}
+TomTomWaypoints = nil
+TomTomWaypointsMF = {
+	["profileKeys"] = {
+		["Wullie - Aszune"] = "Wullie - Aszune",
+	},
+	["profiles"] = {
+		["Wullie - Aszune"] = {
+		},
+	},
+}

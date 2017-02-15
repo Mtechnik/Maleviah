@@ -1,0 +1,37 @@
+## Interface: 60100
+## Title: EPGPloot2
+## Author: Raksl, Onahaje
+## Version: 3.04
+## Notes: Need Greed window for EPGP lootdistribution.
+## eMail: felsir@gmail.com
+## SavedVariables: EPGPLoot2DB
+## OptionalDeps: Ace3
+## X-Embeds: Ace3
+## X-Category: Raid/Loot
+## X-Email: felsir@gmail.com
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## X-Curse-Packaged-Version: v3.04release
+## X-Curse-Project-Name: EPGPLoot2
+## X-Curse-Project-ID: epgploot2
+## X-Curse-Repository-ID: wow/epgploot2/mainline
+## X-Curse-Packaged-Version: v3.04release
+## X-Curse-Project-Name: EPGPLoot2
+## X-Curse-Project-ID: epgploot2
+## X-Curse-Repository-ID: wow/epgploot2/mainline
+
+
+#@no-lib-strip@
+embeds.xml
+#@end-no-lib-strip@
+
+EPGPLootScanTooltip.xml
+EPGPLootScanTooltip.lua
+EPGPLoot2.xml
+EPGPlootForm.xml
+EPGPLootProgress.xml
+
+core.lua
+masterlooter.lua
+raider.lua
+epgpcalculations.lua

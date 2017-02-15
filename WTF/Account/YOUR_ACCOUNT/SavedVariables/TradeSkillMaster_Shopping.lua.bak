@@ -1,0 +1,43 @@
+
+TradeSkillMaster_ShoppingDB = {
+	["g@ @savedSearches"] = {
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1475019525,
+			["name"] = "leystone ore",
+			["filter"] = "leystone ore",
+		}, -- [1]
+	},
+	["g@ @maxDeSearchPercent"] = 1,
+	["_hash"] = 1861581,
+	["g@ @postBidPercent"] = 0.95,
+	["_scopeKeys"] = {
+		["char"] = {
+			"Wulliee - Silvermoon", -- [1]
+		},
+		["realm"] = {
+			"Silvermoon", -- [1]
+		},
+		["profile"] = {
+			"Default", -- [1]
+		},
+		["factionrealm"] = {
+			"Alliance - Silvermoon", -- [1]
+		},
+	},
+	["g@ @helpPlatesShown"] = {
+		["auction"] = true,
+	},
+	["g@ @postUndercut"] = "1c",
+	["g@ @minDeSearchLvl"] = 1,
+	["g@ @sniperVendorPrice"] = true,
+	["g@ @sniperSound"] = "TSM_NO_SOUND",
+	["g@ @marketValueSource"] = "dbmarket",
+	["g@ @maxDeSearchLvl"] = 735,
+	["g@ @sniperCustomPrice"] = "0c",
+	["g@ @normalPostPrice"] = "150% dbmarket",
+	["_version"] = 3,
+	["_currentProfile"] = {
+		["Wulliee - Silvermoon"] = "Default",
+	},
+}

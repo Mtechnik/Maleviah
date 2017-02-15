@@ -1,0 +1,54 @@
+
+DataStore_ContainersDB = {
+	["profileKeys"] = {
+		["Wulliee - Aszune"] = "Wulliee - Aszune",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Aszune.Wulliee"] = {
+				["lastUpdate"] = 1415777617,
+				["Containers"] = {
+					["Bag4"] = {
+						["link"] = "|cffffffff|Hitem:38145:0:0:0:0:0:0:0:55:0:0:0|h[]|h|r",
+						["icon"] = "Interface\\ICONS\\INV_Misc_Bag_10_Black.blp",
+						["size"] = 12,
+						["freeslots"] = 12,
+					},
+					["Bag0"] = {
+						["ids"] = {
+							41751, -- [1]
+							40582, -- [2]
+						},
+						["icon"] = "Interface\\Buttons\\Button-Backpack-Up",
+						["size"] = 16,
+						["counts"] = {
+							10, -- [1]
+						},
+						["freeslots"] = 14,
+					},
+					["Bag1"] = {
+						["link"] = "|cffffffff|Hitem:38145:0:0:0:0:0:0:0:55:0:0:0|h[]|h|r",
+						["icon"] = "Interface\\ICONS\\INV_Misc_Bag_10_Black.blp",
+						["size"] = 12,
+						["freeslots"] = 12,
+					},
+					["Bag2"] = {
+						["link"] = "|cffffffff|Hitem:38145:0:0:0:0:0:0:0:55:0:0:0|h[]|h|r",
+						["icon"] = "Interface\\ICONS\\INV_Misc_Bag_10_Black.blp",
+						["size"] = 12,
+						["freeslots"] = 12,
+					},
+					["Bag3"] = {
+						["link"] = "|cffffffff|Hitem:38145:0:0:0:0:0:0:0:55:0:0:0|h[]|h|r",
+						["icon"] = "Interface\\ICONS\\INV_Misc_Bag_10_Black.blp",
+						["size"] = 12,
+						["freeslots"] = 12,
+					},
+				},
+				["numFreeBagSlots"] = 62,
+				["numBagSlots"] = 64,
+			},
+		},
+		["Version"] = 1,
+	},
+}

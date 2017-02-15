@@ -1,0 +1,31 @@
+
+AtlasLootCharDB = {
+	["SetViewFrame"] = {
+		["point"] = {
+			[3] = "CENTER",
+			[4] = -6.718332588206980e-005,
+			[5] = 3.359166294103490e-005,
+		},
+	},
+	["GUI"] = {
+		["selected"] = {
+			"AtlasLoot_Collections", -- [1]
+			"TIERSETS", -- [2]
+			nil, -- [3]
+			3, -- [4]
+			0, -- [5]
+		},
+	},
+	["__addonrevision"] = 4320,
+	["MiniMapButton"] = {
+		["shown"] = false,
+		["point"] = {
+			"CENTER", -- [1]
+			nil, -- [2]
+			"CENTER", -- [3]
+			-65.3499984741211, -- [4]
+			-38.7999992370606, -- [5]
+		},
+		["lockedAroundMiniMap"] = false,
+	},
+}

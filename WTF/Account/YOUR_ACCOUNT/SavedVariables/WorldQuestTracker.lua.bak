@@ -1,0 +1,25 @@
+
+WQTrackerDB = {
+	["profileKeys"] = {
+		["Wulliee - Silvermoon"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["filters"] = {
+				["pet_battles"] = false,
+				["pvp"] = false,
+			},
+			["quests_tracked"] = {
+				["Player-3391-082C0FAC"] = {
+				},
+			},
+			["player_names"] = {
+				["Player-3391-082C0FAC"] = {
+					["class"] = "PALADIN",
+					["name"] = "Wulliee",
+					["realm"] = "Silvermoon",
+				},
+			},
+		},
+	},
+}

@@ -1,0 +1,8 @@
+
+GoldSave = {
+	["Wullie_Aszune::Horde"] = {
+		["show"] = true,
+		["name"] = "Wullie",
+		["gold"] = 273542321,
+	},
+}
