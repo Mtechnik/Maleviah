@@ -1,20 +1,19 @@
 **Patch 7.1.5 Ready!**
 
 
-[![Maleviah.png](https://s17.postimg.org/418jkue27/Maleviah.png)
+![](https://s17.postimg.org/418jkue27/Maleviah.png)
 
 This is my UI which is mainly focused around me, a Warlock Gnome :), however I will add other profiles for most, if not all of the addons that are being used for my UI.
-![](https://s7.postimg.org/477kqi1g9/Wo_WScrn_Shot_021417_220958.jpg)
 
 My UI is based around** 2560x1440**, **1920x1080** or **1366x768** resolution, although it does scale with all other resolutions I've tested including **4K** and also over multiple screens using **[EyeFinity](https://en.wikipedia.org/wiki/AMD_Eyefinity) / [nVidia Surround](https://en.wikipedia.org/wiki/Multi-monitor#Nvidia_Surround)**.
 
-![n0tdnhzo7](https://s7.postimg.org/hcn2wlvbt/Wo_WScrn_Shot_021417_222757.jpg)
-
 You can check out my UI in action here during a Low Leveled Dungeon Runs
-
-![mzjfu2xuf](https://s7.postimg.org/pwb283t23/Wo_WScrn_Shot_021417_223056.jpg)
 
 All credit goes to the individual addon authors.
 
+![mzjfu2xuf](https://s7.postimg.org/pwb283t23/Wo_WScrn_Shot_021417_223056.jpg)
 
+![n0tdnhzo7](https://s7.postimg.org/hcn2wlvbt/Wo_WScrn_Shot_021417_222757.jpg)
+
+![](https://s7.postimg.org/477kqi1g9/Wo_WScrn_Shot_021417_220958.jpg)
 
