@@ -1,0 +1,105 @@
+
+WoWDBProfilerData = {
+	["profileKeys"] = {
+		["Molevia - Area 52"] = "Default",
+	},
+	["region"] = "XX",
+	["version"] = 18,
+	["build_num"] = 23420,
+	["global"] = {
+		["npcs"] = {
+			["112528"] = {
+				["encounter_data"] = {
+					["PARTY:1:false"] = {
+						["spells"] = {
+							[224004] = 2288,
+						},
+						["stats"] = {
+						},
+					},
+				},
+			},
+			["112529"] = {
+				["encounter_data"] = {
+					["PARTY:1:false"] = {
+						["spells"] = {
+							[224005] = 1167,
+						},
+						["stats"] = {
+						},
+					},
+				},
+			},
+			["107539"] = {
+				["encounter_data"] = {
+					["PARTY:1:false"] = {
+						["spells"] = {
+							[1604] = 137,
+						},
+						["stats"] = {
+						},
+					},
+				},
+			},
+			["100448"] = {
+				["reaction"] = "100:Alliance:FRIENDLY",
+				["encounter_data"] = {
+					["PARTY:1:false"] = {
+						["stats"] = {
+							["level_100"] = {
+								["locations"] = {
+									["Broken Shore:1021"] = {
+										["0:568:848"] = true,
+										["0:574:850"] = true,
+										["0:562:850"] = true,
+										["0:558:856"] = true,
+									},
+									["The Great Sea:1021"] = {
+										["0:552:876"] = true,
+										["0:556:864"] = true,
+										["0:554:870"] = true,
+										["0:558:858"] = true,
+									},
+								},
+								["max_health"] = 117424800,
+							},
+						},
+					},
+				},
+				["class"] = "WARRIOR",
+				["genders"] = {
+					["MALE"] = true,
+				},
+			},
+		},
+		["items"] = {
+			[129417] = {
+				["durability"] = 70,
+			},
+			[129418] = {
+				["durability"] = 85,
+			},
+			[129419] = {
+				["durability"] = 115,
+			},
+			[129420] = {
+				["durability"] = 70,
+			},
+			[129421] = {
+				["durability"] = 40,
+			},
+			[129422] = {
+				["durability"] = 40,
+			},
+			[129425] = {
+				["durability"] = 85,
+			},
+			[129415] = {
+				["durability"] = 55,
+			},
+			[129416] = {
+				["durability"] = 40,
+			},
+		},
+	},
+}

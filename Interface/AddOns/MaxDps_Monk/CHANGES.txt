@@ -1,0 +1,12 @@
+tag 7a41d73dd571b97e49271290e9929b2a5fc598a4 v7.1.0.1
+Author:	Pawel <zacdbg@gmail.com>
+Date:	Wed Jan 4 05:15:04 2017 +0100
+
+Hit combo fixes
+
+commit 3d73f5979c907ef4f5e9a3a35e40fffd9f1f6700
+Author: Pawel <zacdbg@gmail.com>
+Date:   Wed Jan 4 05:14:56 2017 +0100
+
+    v7.1.0.1 - Hit combo fixes
+

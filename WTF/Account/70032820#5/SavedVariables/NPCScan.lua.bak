@@ -1,0 +1,10 @@
+
+NPCScanDB = {
+	["profileKeys"] = {
+		["Molevia - Area 52"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

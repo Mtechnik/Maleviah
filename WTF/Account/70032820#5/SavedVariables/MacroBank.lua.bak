@@ -1,0 +1,11 @@
+
+MacroBankDB = {
+	["DBVersion"] = 5,
+	["profileKeys"] = {
+		["Molevia - Area 52"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

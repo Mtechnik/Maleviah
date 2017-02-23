@@ -1,5 +1,11 @@
-changeset:   587:48b9dd28b1d8
+changeset:   588:bdbb6f8a0017
 tag:         tip
+user:        Tercio
+date:        Thu Feb 16 13:08:41 2017 -0200
+summary:     - Ticket #167 fix: Light of the Martyr self-damage now does reduce the healing done (following WCL method).
+
+
+changeset:   587:48b9dd28b1d8
 user:        Tercio
 date:        Tue Feb 07 13:20:55 2017 -0200
 summary:     - Added custom display 'Dynamic Overall Damage' for mythic dungeons.
@@ -596,12 +602,6 @@ summary:     - burning rush fix.
 changeset:   488:62d3739b648c
 user:        Tercioo
 date:        Mon Feb 01 13:21:06 2016 -0200
-summary:     - Fixed an issue with the window size when hiding borders.
-
-
-changeset:   487:a017b2fac811
-user:        Tercioo
-date:        Mon Feb 01 12:36:25 2016 -0200
 summary:     - Fixed an issue with the window size when hiding borders.
 
 

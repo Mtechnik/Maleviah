@@ -1,0 +1,12 @@
+tag 4197c070cafa421a978de98be85cb72060fa20d4 v7.1.1
+Author:	Pawel <zacdbg@gmail.com>
+Date:	Sun Dec 18 16:52:18 2016 +0100
+
+Stone Heart support, localization fixes
+
+commit fb0ad18c17e454152a8e39ea75d04274e02a2b8d
+Author: Pawel <zacdbg@gmail.com>
+Date:   Sun Dec 18 16:52:04 2016 +0100
+
+    v7.1.1 - Stone Heart support, localization fixes
+

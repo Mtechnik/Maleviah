@@ -1,0 +1,30 @@
+
+ACP_Data = {
+	["sorter"] = "Group By Name",
+	["NoRecurse"] = false,
+	["NoChildren"] = true,
+	["collapsed"] = {
+		["Bagnon"] = true,
+		["TidyPlates"] = true,
+		["Blizzard Addons"] = true,
+		["HandyNotes"] = true,
+		["Altoholic"] = true,
+		["AtlasLoot"] = true,
+		["ShadowedUnitFrames"] = true,
+		["Auctioneer"] = true,
+		["AdiBags"] = true,
+		["Raven"] = true,
+		["DataStore"] = true,
+		["Details"] = true,
+		["TradeSkillMaster"] = true,
+		["Titan"] = true,
+		["Broker"] = true,
+		["Libraries"] = true,
+		["ButtonFacade"] = true,
+		["DBM"] = true,
+		["Masque"] = true,
+	},
+	["ProtectedAddons"] = {
+		["ACP"] = true,
+	},
+}

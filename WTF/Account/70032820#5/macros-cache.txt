@@ -1,0 +1,18 @@
+VER 3 0000000000000004 "Artifacts" "INV_MISC_QUESTIONMARK"
+#showtooltip 16
+/run if ArtifactFrame and ArtifactFrame:IsShown() then HideUIPanel(ArtifactFrame) else SocketInventoryItem(16) end
+END
+VER 3 0000000000000005 "Quest Tracker" "1505958"
+/run if ObjectiveTrackerFrame:IsVisible() then ObjectiveTrackerFrame:Hide(); else ObjectiveTrackerFrame:Show(); end
+END
+VER 3 0000000000000001 "Spec Swap" "INV_BELT_LEATHER_DEMONHUNTER_A_01"
+#tooltip
+Spec Change
+/run SetSpecialization(GetSpecialization()==1 and 2 or 1)
+END
+VER 3 0000000000000002 "Water Jet" "SPELL_FROST_FROSTBLAST"
+#showtooltip
+/cast Water Jet
+#showtooltip
+/cast Freeze
+END

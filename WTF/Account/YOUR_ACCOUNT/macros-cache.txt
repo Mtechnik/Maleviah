@@ -1,9 +1,0 @@
-VER 3 0000000000000001 "Spec Swap" "INV_BELT_LEATHER_DEMONHUNTER_A_01"
-/run SetSpecialization(GetSpecialization()==1 and 2 or 1)
-END
-VER 3 0000000000000002 "Water Jet" "SPELL_FROST_FROSTBLAST"
-#showtooltip
-/cast Water Jet
-#showtooltip
-/cast Freeze
-END

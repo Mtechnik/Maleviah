@@ -1,0 +1,5 @@
+ClassHall: enabled
+ZygorGuidesViewer: disabled
+DugisGuideViewerZ: disabled
+Chatter: enabled
+DugiWorkshop: enabled

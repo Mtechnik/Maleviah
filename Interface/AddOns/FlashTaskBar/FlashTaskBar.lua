@@ -1022,6 +1022,7 @@ function FlashTaskBar.OnInit (self)
 			summon = "SUMMON",
 			fatigue = "FATIGUE",
 			battleground_end = "BATTLEGROUND",
+			on_chat_player_name = "PLAYERNAME",
 		}
 		
 		--the game cannot play sounds when logging off

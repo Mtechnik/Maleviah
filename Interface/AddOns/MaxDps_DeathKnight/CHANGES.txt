@@ -1,0 +1,6 @@
+commit 39b4ffc02ab1986b2864a4de2a2ad4f3d2ad2cb8
+Author: Pawel <zacdbg@gmail.com>
+Date:   Sun Jan 29 05:31:20 2017 +0100
+
+    v7.1.5 - Initial Frost support
+

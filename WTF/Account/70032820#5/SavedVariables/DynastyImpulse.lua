@@ -1,0 +1,5 @@
+
+DynastyImpulse_GSaved = {
+	["Sets"] = {
+	},
+}

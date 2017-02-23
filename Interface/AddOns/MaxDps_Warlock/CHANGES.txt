@@ -1,0 +1,12 @@
+tag 434ea38e18f6ac48747fd7de88c0a9717f25bc56 v7.1.5
+Author:	Pawel <zacdbg@gmail.com>
+Date:	Tue Feb 7 10:35:57 2017 +0100
+
+Experimental Affliction support, localization support
+
+commit 657042041bec0275d1f2cc23c2cead471b10a0cc
+Author: Pawel <zacdbg@gmail.com>
+Date:   Tue Feb 7 10:35:45 2017 +0100
+
+    v7.1.5 - Experimental Affliction support, localization support
+

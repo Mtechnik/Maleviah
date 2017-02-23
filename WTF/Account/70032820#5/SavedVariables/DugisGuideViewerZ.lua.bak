@@ -1,0 +1,125 @@
+
+MapOverlays = nil
+DugisFlightmasterLookupTable = nil
+TaxiDataCollection = {
+}
+DugisGuideViewerProfiles = {
+	["profileKeys"] = {
+		["Riipjaw - Area 52"] = "Riipjaw - Area 52",
+	},
+	["profiles"] = {
+		["Riipjaw - Area 52"] = {
+			["char"] = {
+				["settings"] = {
+					nil, -- [1]
+					nil, -- [2]
+					nil, -- [3]
+					nil, -- [4]
+					nil, -- [5]
+					nil, -- [6]
+					nil, -- [7]
+					{
+						["checked"] = false,
+					}, -- [8]
+					{
+						["checked"] = false,
+					}, -- [9]
+					[13] = {
+						["checked"] = true,
+					},
+					[33] = {
+						["checked"] = true,
+					},
+					[36] = {
+						["checked"] = true,
+					},
+					[44] = {
+						["checked"] = false,
+					},
+					[45] = {
+						["checked"] = true,
+					},
+					[110] = {
+						["options"] = {
+							"None", -- [1]
+							"Active Talent Specialization", -- [2]
+							"Havoc", -- [3]
+							"Vengeance", -- [4]
+						},
+					},
+					["showNotCollectedPets"] = true,
+					["showCollectedPets"] = true,
+					[80] = {
+						["checked"] = true,
+					},
+					["EssentialsMode"] = 1,
+					[102] = {
+						["checked"] = "Default",
+					},
+					[203] = {
+						["checked"] = 0,
+					},
+					["SettingsRevision"] = 10,
+					["QuestRecordTable"] = {
+						["framePositions"] = {
+							["DugisMainBorder"] = {
+								["point"] = "CENTER",
+								["relativePoint"] = "CENTER",
+								["yOfs"] = 43.1715469360352,
+								["xOfs"] = -1.43892848491669,
+							},
+							["DugisArrowFrame"] = {
+								["point"] = "TOP",
+								["relativePoint"] = "TOP",
+								["yOfs"] = -27.2883605957031,
+								["xOfs"] = -15.8299598693848,
+							},
+							["DugisGuideViewer_ModelViewer"] = {
+							},
+							["DugisOnOffButton"] = {
+								["point"] = "LEFT",
+								["relativePoint"] = "LEFT",
+								["yOfs"] = -230.419219970703,
+								["xOfs"] = 13.9275760650635,
+							},
+							["DugisSmallFrameContainer"] = {
+							},
+							["ObjectiveTrackerFrameHandlerFrame"] = {
+								["point"] = "TOPRIGHT",
+								["relativePoint"] = "TOPRIGHT",
+								["yOfs"] = -204.096908569336,
+								["xOfs"] = -13.730375289917,
+							},
+							["DugisWatchBackground"] = {
+								["relativeTo"] = "ObjectiveTrackerFrameHandlerFrame",
+								["point"] = "TOPRIGHT",
+								["relativePoint"] = "BOTTOMRIGHT",
+								["yOfs"] = 49.9999961853027,
+								["xOfs"] = 7,
+							},
+							["DugisRecordFrame"] = {
+								["relativeTo"] = "UIParent",
+								["point"] = "CENTER",
+								["relativePoint"] = "CENTER",
+								["yOfs"] = 0,
+								["xOfs"] = 0,
+							},
+							["DugisGuideViewer_TargetFrame"] = {
+							},
+						},
+					},
+				},
+			},
+		},
+	},
+}
+CollectedWorldMapTrackingPoints = {
+	["Alliance"] = {
+		["Azsuna:0"] = {
+			"6:2157674394:90086::F", -- [1]
+			"12:2155970386:109383::M", -- [2]
+			"6:2157018971:90086::F", -- [3]
+			"6:2157018971:90086::F", -- [4]
+		},
+	},
+}

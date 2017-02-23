@@ -1,0 +1,744 @@
+
+ZygorGuidesViewerSettings = {
+	["char"] = {
+		["Molevia - Area 52"] = {
+			["CurrentDeals"] = {
+			},
+			["step"] = 2,
+			["ATsearchitems"] = {
+			},
+			["guidename"] = "LEVELING\\Legion (100-110)\\Legion Intro & Artifacts",
+			["guides_history_ZGV4clear"] = true,
+			["ActivatedPois"] = {
+			},
+			["guideTurnInsOnly"] = false,
+			["guides_history"] = {
+				{
+					"LEVELING\\Legion (100-110)\\Legion Intro & Artifacts", -- [1]
+					1, -- [2]
+				}, -- [1]
+			},
+			["notifications"] = {
+			},
+			["taxis"] = {
+				["Lor'danel"] = true,
+				["Kharanos"] = true,
+				["The Exodar"] = true,
+				["Dolanaar"] = true,
+				["Goldshire"] = true,
+				["Gol'Bolar Quarry"] = true,
+				["Eastvale Logging Camp"] = true,
+				["Azure Watch"] = true,
+				["Darnassus"] = true,
+				["Moonglade"] = true,
+				["Ironforge"] = true,
+				["Rut'theran Village"] = true,
+				["Stormwind"] = true,
+				["Serpent's Overlook"] = true,
+			},
+			["questrewards"] = {
+			},
+			["lastlogin"] = 1487373361,
+			["stephistory"] = {
+				1, -- [1]
+			},
+			["initialFlightPathsLoaded"] = true,
+			["debuglog"] = {
+				"18:16:15.038.980> Viewer started. ---------------------------", -- [1]
+			},
+			["AThiddenitems"] = {
+			},
+			["MThiddenitems"] = {
+			},
+			["ActivatedInlinePois"] = {
+			},
+			["GGbuyitems"] = {
+			},
+		},
+	},
+	["global"] = {
+		["itemCache"] = {
+		},
+		["saw_tutorial"] = true,
+		["gii_cache"] = {
+			["|cff1eff00|Hitem:129422::::::::100:265::::::|h[Felsoul Wristwraps]|h|r"] = {
+				"Felsoul Wristwraps", -- [1]
+				"|cff1eff00|Hitem:129422::::::::100:265::::::|h[Felsoul Wristwraps]|h|r", -- [2]
+				2, -- [3]
+				640, -- [4]
+				100, -- [5]
+				"Armor", -- [6]
+				"Cloth", -- [7]
+				1, -- [8]
+				"INVTYPE_WRIST", -- [9]
+				436837, -- [10]
+				1286, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				5, -- [15]
+				[17] = false,
+				["timestamp"] = 1487373379,
+			},
+			["|cff1eff00|Hitem:129418::::::::100:265::::::|h[Felsoul Leggings]|h|r"] = {
+				"Felsoul Leggings", -- [1]
+				"|cff1eff00|Hitem:129418::::::::100:265::::::|h[Felsoul Leggings]|h|r", -- [2]
+				2, -- [3]
+				640, -- [4]
+				100, -- [5]
+				"Armor", -- [6]
+				"Cloth", -- [7]
+				1, -- [8]
+				"INVTYPE_LEGS", -- [9]
+				457967, -- [10]
+				2518, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				5, -- [15]
+				[17] = false,
+				["timestamp"] = 1487373379,
+			},
+			["|cff1eff00|Hitem:129419::::::::100:265::::::|h[Felsoul Robe]|h|r"] = {
+				"Felsoul Robe", -- [1]
+				"|cff1eff00|Hitem:129419::::::::100:265::::::|h[Felsoul Robe]|h|r", -- [2]
+				2, -- [3]
+				640, -- [4]
+				100, -- [5]
+				"Armor", -- [6]
+				"Cloth", -- [7]
+				1, -- [8]
+				"INVTYPE_ROBE", -- [9]
+				132658, -- [10]
+				2528, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				5, -- [15]
+				[17] = false,
+				["timestamp"] = 1487373379,
+			},
+			["|cffffffff|Hitem:6948::::::::100:265::::::|h[Hearthstone]|h|r"] = {
+				"Hearthstone", -- [1]
+				"|cffffffff|Hitem:6948::::::::100:265::::::|h[Hearthstone]|h|r", -- [2]
+				1, -- [3]
+				1, -- [4]
+				0, -- [5]
+				"Miscellaneous", -- [6]
+				"Junk", -- [7]
+				1, -- [8]
+				"", -- [9]
+				134414, -- [10]
+				0, -- [11]
+				15, -- [12]
+				0, -- [13]
+				1, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1487373393,
+			},
+			["|cffffffff|Hitem:110560::::::::100:265::::::|h[Garrison Hearthstone]|h|r"] = {
+				"Garrison Hearthstone", -- [1]
+				"|cffffffff|Hitem:110560::::::::100:265::::::|h[Garrison Hearthstone]|h|r", -- [2]
+				1, -- [3]
+				90, -- [4]
+				90, -- [5]
+				"Miscellaneous", -- [6]
+				"Junk", -- [7]
+				1, -- [8]
+				"", -- [9]
+				1041860, -- [10]
+				0, -- [11]
+				15, -- [12]
+				0, -- [13]
+				1, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1487373393,
+			},
+			["|cff1eff00|Hitem:129421::::::::100:265::::::|h[Felsoul Cord]|h|r"] = {
+				"Felsoul Cord", -- [1]
+				"|cff1eff00|Hitem:129421::::::::100:265::::::|h[Felsoul Cord]|h|r", -- [2]
+				2, -- [3]
+				640, -- [4]
+				100, -- [5]
+				"Armor", -- [6]
+				"Cloth", -- [7]
+				1, -- [8]
+				"INVTYPE_WAIST", -- [9]
+				446077, -- [10]
+				1281, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				5, -- [15]
+				[17] = false,
+				["timestamp"] = 1487373379,
+			},
+			["|cff1eff00|Hitem:129412::::::::100:265::::::|h[Felsoul Band of Destruction]|h|r"] = {
+				"Felsoul Band of Destruction", -- [1]
+				"|cff1eff00|Hitem:129412::::::::100:265::::::|h[Felsoul Band of Destruction]|h|r", -- [2]
+				2, -- [3]
+				640, -- [4]
+				100, -- [5]
+				"Armor", -- [6]
+				"Miscellaneous", -- [7]
+				1, -- [8]
+				"INVTYPE_FINGER", -- [9]
+				629698, -- [10]
+				0, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				5, -- [15]
+				[17] = false,
+				["timestamp"] = 1487373379,
+			},
+			["|cff1eff00|Hitem:129411::::::::100:265::::::|h[Felsoul Idol of Destruction]|h|r"] = {
+				"Felsoul Idol of Destruction", -- [1]
+				"|cff1eff00|Hitem:129411::::::::100:265::::::|h[Felsoul Idol of Destruction]|h|r", -- [2]
+				2, -- [3]
+				640, -- [4]
+				100, -- [5]
+				"Armor", -- [6]
+				"Miscellaneous", -- [7]
+				1, -- [8]
+				"INVTYPE_TRINKET", -- [9]
+				643912, -- [10]
+				0, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				5, -- [15]
+				[17] = false,
+				["timestamp"] = 1487373379,
+			},
+			["|cff1eff00|Hitem:129424::::::::100:265::::::|h[Felsoul Cloak of Destruction]|h|r"] = {
+				"Felsoul Cloak of Destruction", -- [1]
+				"|cff1eff00|Hitem:129424::::::::100:265::::::|h[Felsoul Cloak of Destruction]|h|r", -- [2]
+				2, -- [3]
+				640, -- [4]
+				100, -- [5]
+				"Armor", -- [6]
+				"Cloth", -- [7]
+				1, -- [8]
+				"INVTYPE_CLOAK", -- [9]
+				622728, -- [10]
+				1929, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				5, -- [15]
+				[17] = false,
+				["timestamp"] = 1487373379,
+			},
+			["|cffffffff|Hitem:141410::::::::100:265::::::|h[Invasion Survival Kit]|h|r"] = {
+				"Invasion Survival Kit", -- [1]
+				"|cffffffff|Hitem:141410::::::::100:265::::::|h[Invasion Survival Kit]|h|r", -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+				"Miscellaneous", -- [6]
+				"Other", -- [7]
+				1, -- [8]
+				"", -- [9]
+				465841, -- [10]
+				0, -- [11]
+				15, -- [12]
+				4, -- [13]
+				1, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1487373393,
+			},
+			["|cffffffff|Hitem:141410::::::::100:265::::::|h[]|h|r"] = {
+			},
+			["item:129424::::::::100:265::::::"] = {
+				"Felsoul Cloak of Destruction", -- [1]
+				"|cff1eff00|Hitem:129424::::::::100:265::::::|h[Felsoul Cloak of Destruction]|h|r", -- [2]
+				2, -- [3]
+				640, -- [4]
+				100, -- [5]
+				"Armor", -- [6]
+				"Cloth", -- [7]
+				1, -- [8]
+				"INVTYPE_CLOAK", -- [9]
+				622728, -- [10]
+				1929, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				5, -- [15]
+				[17] = false,
+				["timestamp"] = 1487373379,
+			},
+			["|cff1eff00|Hitem:129416::::::::100:265::::::|h[Felsoul Handwraps]|h|r"] = {
+				"Felsoul Handwraps", -- [1]
+				"|cff1eff00|Hitem:129416::::::::100:265::::::|h[Felsoul Handwraps]|h|r", -- [2]
+				2, -- [3]
+				640, -- [4]
+				100, -- [5]
+				"Armor", -- [6]
+				"Cloth", -- [7]
+				1, -- [8]
+				"INVTYPE_HAND", -- [9]
+				132940, -- [10]
+				1355, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				5, -- [15]
+				[17] = false,
+				["timestamp"] = 1487373379,
+			},
+			["|cff1eff00|Hitem:129410::::::::100:265::::::|h[Felsoul Medallion]|h|r"] = {
+				"Felsoul Medallion", -- [1]
+				"|cff1eff00|Hitem:129410::::::::100:265::::::|h[Felsoul Medallion]|h|r", -- [2]
+				2, -- [3]
+				640, -- [4]
+				100, -- [5]
+				"Armor", -- [6]
+				"Miscellaneous", -- [7]
+				1, -- [8]
+				"INVTYPE_NECK", -- [9]
+				632840, -- [10]
+				0, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				5, -- [15]
+				[17] = false,
+				["timestamp"] = 1487373379,
+			},
+			["item:129418::::::::100:265::::::"] = {
+				"Felsoul Leggings", -- [1]
+				"|cff1eff00|Hitem:129418::::::::100:265::::::|h[Felsoul Leggings]|h|r", -- [2]
+				2, -- [3]
+				640, -- [4]
+				100, -- [5]
+				"Armor", -- [6]
+				"Cloth", -- [7]
+				1, -- [8]
+				"INVTYPE_LEGS", -- [9]
+				457967, -- [10]
+				2518, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				5, -- [15]
+				[17] = false,
+				["timestamp"] = 1487373379,
+			},
+			["item:129419::::::::100:265::::::"] = {
+				"Felsoul Robe", -- [1]
+				"|cff1eff00|Hitem:129419::::::::100:265::::::|h[Felsoul Robe]|h|r", -- [2]
+				2, -- [3]
+				640, -- [4]
+				100, -- [5]
+				"Armor", -- [6]
+				"Cloth", -- [7]
+				1, -- [8]
+				"INVTYPE_ROBE", -- [9]
+				132658, -- [10]
+				2528, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				5, -- [15]
+				[17] = false,
+				["timestamp"] = 1487373379,
+			},
+			["item:129415::::::::100:265::::::"] = {
+				"Felsoul Sandals", -- [1]
+				"|cff1eff00|Hitem:129415::::::::100:265::::::|h[Felsoul Sandals]|h|r", -- [2]
+				2, -- [3]
+				640, -- [4]
+				100, -- [5]
+				"Armor", -- [6]
+				"Cloth", -- [7]
+				1, -- [8]
+				"INVTYPE_FEET", -- [9]
+				132576, -- [10]
+				2009, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				5, -- [15]
+				[17] = false,
+				["timestamp"] = 1487373379,
+			},
+			["|cff1eff00|Hitem:129415::::::::100:265::::::|h[Felsoul Sandals]|h|r"] = {
+				"Felsoul Sandals", -- [1]
+				"|cff1eff00|Hitem:129415::::::::100:265::::::|h[Felsoul Sandals]|h|r", -- [2]
+				2, -- [3]
+				640, -- [4]
+				100, -- [5]
+				"Armor", -- [6]
+				"Cloth", -- [7]
+				1, -- [8]
+				"INVTYPE_FEET", -- [9]
+				132576, -- [10]
+				2009, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				5, -- [15]
+				[17] = false,
+				["timestamp"] = 1487373379,
+			},
+			["|cff1eff00|Hitem:129425::::::::100:265::::::|h[Felsoul Staff]|h|r"] = {
+				"Felsoul Staff", -- [1]
+				"|cff1eff00|Hitem:129425::::::::100:265::::::|h[Felsoul Staff]|h|r", -- [2]
+				2, -- [3]
+				640, -- [4]
+				100, -- [5]
+				"Weapon", -- [6]
+				"Staves", -- [7]
+				1, -- [8]
+				"INVTYPE_2HWEAPON", -- [9]
+				801011, -- [10]
+				4042, -- [11]
+				2, -- [12]
+				10, -- [13]
+				1, -- [14]
+				5, -- [15]
+				[17] = false,
+				["timestamp"] = 1487373379,
+			},
+			["item:129425::::::::100:265::::::"] = {
+				"Felsoul Staff", -- [1]
+				"|cff1eff00|Hitem:129425::::::::100:265::::::|h[Felsoul Staff]|h|r", -- [2]
+				2, -- [3]
+				640, -- [4]
+				100, -- [5]
+				"Weapon", -- [6]
+				"Staves", -- [7]
+				1, -- [8]
+				"INVTYPE_2HWEAPON", -- [9]
+				801011, -- [10]
+				4042, -- [11]
+				2, -- [12]
+				10, -- [13]
+				1, -- [14]
+				5, -- [15]
+				[17] = false,
+				["timestamp"] = 1487373379,
+			},
+			["|cff1eff00|Hitem:129414::::::::100:265::::::|h[Felsoul Stone of Destruction]|h|r"] = {
+				"Felsoul Stone of Destruction", -- [1]
+				"|cff1eff00|Hitem:129414::::::::100:265::::::|h[Felsoul Stone of Destruction]|h|r", -- [2]
+				2, -- [3]
+				640, -- [4]
+				100, -- [5]
+				"Armor", -- [6]
+				"Miscellaneous", -- [7]
+				1, -- [8]
+				"INVTYPE_TRINKET", -- [9]
+				643421, -- [10]
+				0, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				5, -- [15]
+				[17] = false,
+				["timestamp"] = 1487373379,
+			},
+			["item:129414::::::::100:265::::::"] = {
+				"Felsoul Stone of Destruction", -- [1]
+				"|cff1eff00|Hitem:129414::::::::100:265::::::|h[Felsoul Stone of Destruction]|h|r", -- [2]
+				2, -- [3]
+				640, -- [4]
+				100, -- [5]
+				"Armor", -- [6]
+				"Miscellaneous", -- [7]
+				1, -- [8]
+				"INVTYPE_TRINKET", -- [9]
+				643421, -- [10]
+				0, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				5, -- [15]
+				[17] = false,
+				["timestamp"] = 1487373379,
+			},
+			["item:129416::::::::100:265::::::"] = {
+				"Felsoul Handwraps", -- [1]
+				"|cff1eff00|Hitem:129416::::::::100:265::::::|h[Felsoul Handwraps]|h|r", -- [2]
+				2, -- [3]
+				640, -- [4]
+				100, -- [5]
+				"Armor", -- [6]
+				"Cloth", -- [7]
+				1, -- [8]
+				"INVTYPE_HAND", -- [9]
+				132940, -- [10]
+				1355, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				5, -- [15]
+				[17] = false,
+				["timestamp"] = 1487373379,
+			},
+			["|cff1eff00|Hitem:129420::::::::100:265::::::|h[Felsoul Shoulderpads]|h|r"] = {
+				"Felsoul Shoulderpads", -- [1]
+				"|cff1eff00|Hitem:129420::::::::100:265::::::|h[Felsoul Shoulderpads]|h|r", -- [2]
+				2, -- [3]
+				640, -- [4]
+				100, -- [5]
+				"Armor", -- [6]
+				"Cloth", -- [7]
+				1, -- [8]
+				"INVTYPE_SHOULDER", -- [9]
+				133732, -- [10]
+				1900, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				5, -- [15]
+				[17] = false,
+				["timestamp"] = 1487373379,
+			},
+			["item:129411::::::::100:265::::::"] = {
+				"Felsoul Idol of Destruction", -- [1]
+				"|cff1eff00|Hitem:129411::::::::100:265::::::|h[Felsoul Idol of Destruction]|h|r", -- [2]
+				2, -- [3]
+				640, -- [4]
+				100, -- [5]
+				"Armor", -- [6]
+				"Miscellaneous", -- [7]
+				1, -- [8]
+				"INVTYPE_TRINKET", -- [9]
+				643912, -- [10]
+				0, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				5, -- [15]
+				[17] = false,
+				["timestamp"] = 1487373379,
+			},
+			["item:129417::::::::100:265::::::"] = {
+				"Felsoul Cowl", -- [1]
+				"|cff1eff00|Hitem:129417::::::::100:265::::::|h[Felsoul Cowl]|h|r", -- [2]
+				2, -- [3]
+				640, -- [4]
+				100, -- [5]
+				"Armor", -- [6]
+				"Cloth", -- [7]
+				1, -- [8]
+				"INVTYPE_HEAD", -- [9]
+				1035581, -- [10]
+				2024, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				5, -- [15]
+				[17] = false,
+				["timestamp"] = 1487373379,
+			},
+			["|cff1eff00|Hitem:129413::::::::100:265::::::|h[Felsoul Ring of Destruction]|h|r"] = {
+				"Felsoul Ring of Destruction", -- [1]
+				"|cff1eff00|Hitem:129413::::::::100:265::::::|h[Felsoul Ring of Destruction]|h|r", -- [2]
+				2, -- [3]
+				640, -- [4]
+				100, -- [5]
+				"Armor", -- [6]
+				"Miscellaneous", -- [7]
+				1, -- [8]
+				"INVTYPE_FINGER", -- [9]
+				629704, -- [10]
+				0, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				5, -- [15]
+				[17] = false,
+				["timestamp"] = 1487373379,
+			},
+			["item:129413::::::::100:265::::::"] = {
+				"Felsoul Ring of Destruction", -- [1]
+				"|cff1eff00|Hitem:129413::::::::100:265::::::|h[Felsoul Ring of Destruction]|h|r", -- [2]
+				2, -- [3]
+				640, -- [4]
+				100, -- [5]
+				"Armor", -- [6]
+				"Miscellaneous", -- [7]
+				1, -- [8]
+				"INVTYPE_FINGER", -- [9]
+				629704, -- [10]
+				0, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				5, -- [15]
+				[17] = false,
+				["timestamp"] = 1487373379,
+			},
+			["item:129421::::::::100:265::::::"] = {
+				"Felsoul Cord", -- [1]
+				"|cff1eff00|Hitem:129421::::::::100:265::::::|h[Felsoul Cord]|h|r", -- [2]
+				2, -- [3]
+				640, -- [4]
+				100, -- [5]
+				"Armor", -- [6]
+				"Cloth", -- [7]
+				1, -- [8]
+				"INVTYPE_WAIST", -- [9]
+				446077, -- [10]
+				1281, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				5, -- [15]
+				[17] = false,
+				["timestamp"] = 1487373379,
+			},
+			["item:129412::::::::100:265::::::"] = {
+				"Felsoul Band of Destruction", -- [1]
+				"|cff1eff00|Hitem:129412::::::::100:265::::::|h[Felsoul Band of Destruction]|h|r", -- [2]
+				2, -- [3]
+				640, -- [4]
+				100, -- [5]
+				"Armor", -- [6]
+				"Miscellaneous", -- [7]
+				1, -- [8]
+				"INVTYPE_FINGER", -- [9]
+				629698, -- [10]
+				0, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				5, -- [15]
+				[17] = false,
+				["timestamp"] = 1487373379,
+			},
+			["|cffffffff|Hitem:130192::::::::100:265::::::|h[Potato Axebeak Stew]|h|r"] = {
+				"Potato Axebeak Stew", -- [1]
+				"|cffffffff|Hitem:130192::::::::100:265::::::|h[Potato Axebeak Stew]|h|r", -- [2]
+				1, -- [3]
+				100, -- [4]
+				90, -- [5]
+				"Consumable", -- [6]
+				"Food & Drink", -- [7]
+				20, -- [8]
+				"", -- [9]
+				655707, -- [10]
+				1, -- [11]
+				0, -- [12]
+				5, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1487373393,
+			},
+			["item:129422::::::::100:265::::::"] = {
+				"Felsoul Wristwraps", -- [1]
+				"|cff1eff00|Hitem:129422::::::::100:265::::::|h[Felsoul Wristwraps]|h|r", -- [2]
+				2, -- [3]
+				640, -- [4]
+				100, -- [5]
+				"Armor", -- [6]
+				"Cloth", -- [7]
+				1, -- [8]
+				"INVTYPE_WRIST", -- [9]
+				436837, -- [10]
+				1286, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				5, -- [15]
+				[17] = false,
+				["timestamp"] = 1487373379,
+			},
+			["item:129420::::::::100:265::::::"] = {
+				"Felsoul Shoulderpads", -- [1]
+				"|cff1eff00|Hitem:129420::::::::100:265::::::|h[Felsoul Shoulderpads]|h|r", -- [2]
+				2, -- [3]
+				640, -- [4]
+				100, -- [5]
+				"Armor", -- [6]
+				"Cloth", -- [7]
+				1, -- [8]
+				"INVTYPE_SHOULDER", -- [9]
+				133732, -- [10]
+				1900, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				5, -- [15]
+				[17] = false,
+				["timestamp"] = 1487373379,
+			},
+			["|cff1eff00|Hitem:129417::::::::100:265::::::|h[Felsoul Cowl]|h|r"] = {
+				"Felsoul Cowl", -- [1]
+				"|cff1eff00|Hitem:129417::::::::100:265::::::|h[Felsoul Cowl]|h|r", -- [2]
+				2, -- [3]
+				640, -- [4]
+				100, -- [5]
+				"Armor", -- [6]
+				"Cloth", -- [7]
+				1, -- [8]
+				"INVTYPE_HEAD", -- [9]
+				1035581, -- [10]
+				2024, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				5, -- [15]
+				[17] = false,
+				["timestamp"] = 1487373379,
+			},
+			["item:129410::::::::100:265::::::"] = {
+				"Felsoul Medallion", -- [1]
+				"|cff1eff00|Hitem:129410::::::::100:265::::::|h[Felsoul Medallion]|h|r", -- [2]
+				2, -- [3]
+				640, -- [4]
+				100, -- [5]
+				"Armor", -- [6]
+				"Miscellaneous", -- [7]
+				1, -- [8]
+				"INVTYPE_NECK", -- [9]
+				632840, -- [10]
+				0, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				5, -- [15]
+				[17] = false,
+				["timestamp"] = 1487373379,
+			},
+		},
+		["sv_version"] = 2,
+	},
+	["factionrealm"] = {
+		["Alliance - Area 52"] = {
+			["altNames"] = {
+				["Molevia"] = "Molevia",
+			},
+		},
+	},
+	["realm"] = {
+		["Area 52"] = {
+			["gold_scan_data"] = {
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Molevia - Area 52"] = "Molevia",
+	},
+	["profiles"] = {
+		["Molevia"] = {
+			["usernamed"] = true,
+			["frame_anchor"] = {
+				"RIGHT", -- [1]
+				nil, -- [2]
+				"RIGHT", -- [3]
+				-280, -- [4]
+				-165.491104125977, -- [5]
+			},
+			["enable_viewer"] = false,
+		},
+	},
+}

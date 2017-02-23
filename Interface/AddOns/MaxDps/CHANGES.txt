@@ -1,0 +1,12 @@
+tag 9ea5027bd729489a069c84a1b518433ee3ca0442 v7.1.4.3
+Author:	Pawel <zacdbg@gmail.com>
+Date:	Sat Feb 4 09:03:24 2017 +0100
+
+Count set bonus
+
+commit 7a2a9678fa7a50d14e4a50670ec2054cfe8cd191
+Author: Pawel <zacdbg@gmail.com>
+Date:   Sat Feb 4 09:03:09 2017 +0100
+
+    v7.1.4.3 - Count set bonus
+

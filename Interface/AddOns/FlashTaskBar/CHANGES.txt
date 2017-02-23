@@ -1,5 +1,11 @@
-changeset:   40:a83b4d3bdc33
+changeset:   41:32fcba806af5
 tag:         tip
+user:        Tercio
+date:        Thu Feb 16 13:40:06 2017 -0200
+summary:     - fixed sound settings not opening.
+
+
+changeset:   40:a83b4d3bdc33
 user:        Tercio
 date:        Tue Feb 07 14:53:35 2017 -0200
 summary:     - Ticket #13 added flash when the battleground ends

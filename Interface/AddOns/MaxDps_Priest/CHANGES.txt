@@ -1,0 +1,12 @@
+tag 880361712a43650082a53e1699b5fc8e8eba78c6 v7.1.0.1
+Author:	Pawel <zacdbg@gmail.com>
+Date:	Sat Jan 7 22:25:10 2017 +0100
+
+Internationalization support, mindspike, mindbender support
+
+commit 1e785d61158fe741aaa4b8aaa5d67aca0913e025
+Author: Pawel <zacdbg@gmail.com>
+Date:   Sat Jan 7 22:24:56 2017 +0100
+
+    v7.1.0.1 - Internationalization support, mindspike, mindbender support
+

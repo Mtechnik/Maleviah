@@ -1,0 +1,12 @@
+tag c462b39fba83fc33cc89a98a27742aa9bd835fcb v7.1.0.2
+Author:	Pawel <zacdbg@gmail.com>
+Date:	Sun Jan 29 07:42:38 2017 +0100
+
+Fire blast fix
+
+commit 161819bbbbc7d4285c0291afe0e09bba33fbd5c5
+Author: Pawel <zacdbg@gmail.com>
+Date:   Sun Jan 29 07:42:27 2017 +0100
+
+    v7.1.0.2 - Fire blast fix
+
