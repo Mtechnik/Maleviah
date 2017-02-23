@@ -11,7 +11,7 @@ You can just use the Project Molevia.ccip by double clicking it, you must have [
 
 You can check out my UI in action below
 
-[![ScreenShot](https://i9.ytimg.com/vi/QGwA_pzyOn4/hqdefault.jpg?sqp=CJjtu8UF&rs=AOn4CLArTPAJgmDjbTF4zIHMn4Kdxk4qdQ)](https://youtu.be/QGwA_pzyOn4)
+[![ScreenShot]()](https://youtu.be/IwYKvf65h-g)
 
 
 All credit goes to the individual addon authors inc. Wullie <3
