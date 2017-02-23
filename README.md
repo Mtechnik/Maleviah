@@ -9,7 +9,7 @@ My UI is based around** 2560x1440**, **1920x1080** or **1366x768** resolution, a
 
 You can check out my UI in action here during a Low Leveled Dungeon Runs
 
-All credit goes to the individual addon authors.
+All credit goes to the individual addon authors inc. Wullie <3
 
 ![mzjfu2xuf](https://s7.postimg.org/pwb283t23/Wo_WScrn_Shot_021417_223056.jpg)
 
