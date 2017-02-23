@@ -7,7 +7,12 @@ This is my UI which is mainly focused around me, a Warlock Gnome :), however I w
 
 My UI is based around** 2560x1440**, **1920x1080** or **1366x768** resolution, although it does scale with all other resolutions I've tested including **4K** and also over multiple screens using **[EyeFinity](https://en.wikipedia.org/wiki/AMD_Eyefinity) / [nVidia Surround](https://en.wikipedia.org/wiki/Multi-monitor#Nvidia_Surround)**.
 
-You can check out my UI in action here during a Low Leveled Dungeon Runs
+You can just use the Project Molevia.ccip by double clicking it, you must have [curse client](https://mods.curse.com/client) installed
+
+You can check out my UI in action below
+
+[![ScreenShot](https://i9.ytimg.com/vi/QGwA_pzyOn4/hqdefault.jpg?sqp=CJjtu8UF&rs=AOn4CLArTPAJgmDjbTF4zIHMn4Kdxk4qdQ)](https://youtu.be/QGwA_pzyOn4)
+
 
 All credit goes to the individual addon authors inc. Wullie <3
 
